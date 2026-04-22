@@ -1,25 +1,25 @@
-# Aprendizaje Automático 
+# Aprendizaje Automático - Repositorio de Proyectos
+### Tecnicatura Superior en Ciencia de Datos e IA
 
-Este repositorio contiene los proyectos y trabajos prácticos desarrollados en la materia **Aprendizaje Automático**. Incluye implementaciones de algoritmos supervisados y no supervisados, preprocesamiento de datos y evaluación de modelos utilizando Python (Scikit-learn, Pandas) para la resolución de problemas basados en datos.
+Este repositorio contiene los trabajos prácticos, implementaciones de algoritmos y experimentos desarrollados en la materia **Aprendizaje Automático (Machine Learning)**. El enfoque del bloque es el diseño de sistemas que aprenden a partir de datos para realizar predicciones o descubrir estructuras ocultas.
+
+## Descripción del Contenido
+El material documentado abarca el desarrollo de competencias en:
+* **Aprendizaje Supervisado:** Implementación de modelos de clasificación y regresión (Árboles de decisión, SVM, Regresión Lineal/Logística).
+* **Aprendizaje No Supervisado:** Algoritmos de clustering y reducción de dimensionalidad (K-Means, PCA).
+* **Evaluación de Modelos:** Aplicación de métricas de desempeño como precisión, recall, F1-score y matrices de confusión.
+* **Optimización:** Técnicas de validación cruzada y ajuste de hiperparámetros.
+
+## Tecnologías y Herramientas
+* **Lenguaje:** Python.
+* **Librerías Clave:** Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn.
+* **Entornos:** Jupyter Notebooks / Google Colab.
+
+## Perfil Técnico
+En cumplimiento con el diseño curricular de segundo año, este repositorio demuestra:
+1. Capacidad para seleccionar y entrenar algoritmos adecuados según la naturaleza del problema.
+2. Habilidad para validar la eficacia de los modelos de IA.
+3. Aplicación de fundamentos matemáticos y estadísticos en soluciones predictivas.
 
 ---
-
-### Contenido del Repositorio
-
-* **Preprocesamiento:** Limpieza de datos, ingeniería de variables y normalización.
-* **Aprendizaje Supervisado:** Modelos de regresión y clasificación (SVM, Random Forest, etc.).
-* **Aprendizaje No Supervisado:** Clustering (K-Means) y Reducción de Dimensionalidad (PCA).
-* **Evaluación:** Análisis de métricas, curvas ROC y optimización de hiperparámetros.
-
-### Tecnologías Principales
-
-* **Lenguaje:** Python
-* **Librerías:** NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn.
-* **Herramientas:** Jupyter Notebooks / Google Colab.
-
----
-
-### Uso
-Clonar el repositorio:
-   ```bash
-   git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/PolitecnicoMA/AprendizajeAutomatico.git)
+*Centro Politécnico Superior "Malvinas Argentinas" - Río Grande, Tierra del Fuego.*
