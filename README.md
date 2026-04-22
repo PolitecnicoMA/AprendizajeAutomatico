@@ -22,4 +22,4 @@ Este repositorio contiene los proyectos y trabajos prácticos desarrollados en l
 ### Uso
 Clonar el repositorio:
    ```bash
-   git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/tu-usuario/tu-repositorio.git)
+   git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/PolitecnicoMA/AprendizajeAutomatico.git)
