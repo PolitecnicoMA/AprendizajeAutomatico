@@ -1,0 +1,32 @@
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "Clasificacion_Asignacion_DocentesTDF"
+version = "0.0.1"
+description = "En este proyecto propongo la implementaci\u00f3n de un modelo de aprendizaje autom\u00e1tico para optimizar la asignaci\u00f3n y clasificaci\u00f3n de docentes en el nivel secundario. Ante la creciente disponibilidad de datos y la heterogeneidad en la formaci\u00f3n acad\u00e9mica de los aspirantes, buscar\u00e9 automatizar y mejorar la eficacia y equidad de este proceso."
+authors = [
+  { name = "Monica Demari" },
+]
+
+readme = "README.md"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    
+]
+requires-python = "~=3.10.0"
+
+
+[tool.ruff]
+line-length = 99
+src = ["Clasificacion_Asignacion_DocentesTDF"]
+include = ["pyproject.toml", "Clasificacion_Asignacion_DocentesTDF/**/*.py"]
+
+[tool.ruff.lint]
+extend-select = ["I"]  # Add import sorting
+
+[tool.ruff.lint.isort]
+known-first-party = ["Clasificacion_Asignacion_DocentesTDF"]
+force-sort-within-sections = true
+
