@@ -1,0 +1,745 @@
+Orden,Sitios,codigo,Fecha,Año,Campaña,Tem_agua,Olores,Espumas,Mat_susp,NH4_mg_l,P_total_l_mg_l,Turbiedad_NTU,Cd_total_mg_l
+1,Canal Villanueva y Río Luján,TI001,23/2/2022,2022,Verano,24.5,Ausencia,Ausencia,Presencia,0.42,0.23,90.0,<0.001
+2,Río Lujan y Arroyo Caraguatá,TI006,23/2/2022,2022,Verano,25.4,Presencia,Ausencia,Ausencia,0.51,0.41,34.0,<0.001
+3,Canal Aliviador y Río Lujan,TI002,23/2/2022,2022,Verano,24.6,Ausencia,Ausencia,Ausencia,0.05,0.59,17.0,<0.001
+4,Río Carapachay y Arroyo Gallo Fiambre,TI003,23/2/2022,2022,Verano,25.2,Presencia,Ausencia,Ausencia,1,0.38,23.0,<0.001
+5,Río Reconquista y Río Lujan,TI004,23/2/2022,2022,Verano,24.1,Ausencia,Ausencia,Presencia,0.049,0.55,18.0,<0.001
+6,Rio Tigre 100m antes del Rio Luján,TI005,23/2/2022,2022,Verano,24.9,Ausencia,Ausencia,Presencia,3.5,1.1,8.9,<0.001
+7,Río Lujan y Canal San Fernando,TI007,23/2/2022,2022,Verano,24.5,Ausencia,Ausencia,Presencia,2,0.73,12.0,<0.001
+8,Río Capitán y Río San Antonio,TI008,23/2/2022,2022,Verano,24.5,Ausencia,Ausencia,Ausencia,0.049,0.17,90.0,<0.001
+9,Arroyo Abra Vieja y Santa Rosa,TI009,23/2/2022,2022,Verano,23.4,Ausencia,Ausencia,Ausencia,0.1,0.21,39.0,<0.001
+10,Del Arca,SF015,23/2/2022,2022,Verano,21.5,Ausencia,Ausencia,Presencia,0.049,0.28,28.0,<0.001
+11,Espigón La Farola,SI021,23/2/2022,2022,Verano,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+12,Reserva Ecológica,SI022,23/2/2022,2022,Verano,27,Ausencia,Ausencia,Ausencia,0.75,0.22,19.0,<0.001
+13,Playa Espigón de Pacheco,SI024,23/2/2022,2022,Verano,26.5,Ausencia,Ausencia,Ausencia,no se midió,no se midió,no se midió,no se midió
+14,Perú Puente,SI023,23/2/2022,2022,Verano,26.1,Ausencia,Ausencia,Presencia,7.2,0.43,7.5,<0.001
+15,Reserva Barrio El Ceibo,VL033,23/2/2022,2022,Verano,no se midió,Ausencia,Ausencia,Ausencia,0.94,0.28,14.0,<0.001
+16,Puerto de Olivos Espigón,VL032,23/2/2022,2022,Verano,no se midió,Ausencia,Ausencia,Ausencia,0.63,0.27,17.0,<0.001
+17,Costa y Melo,VL031,23/2/2022,2022,Verano,no se midió,Ausencia,Ausencia,Ausencia,0.41,0.24,22.0,<0.001
+18,Parque de los Niños,CA041,23/2/2022,2022,Verano,26.1,Ausencia,Ausencia,Ausencia,1.2,0.24,22.0,<0.002
+19,Costanera Norte - Espigón Abanico,CA044,23/2/2022,2022,Verano,25.4,Ausencia,Ausencia,Ausencia,0.9,0.33,22.0,<0.002
+20,Club de Pescadores,CA046,23/2/2022,2022,Verano,24.7,Ausencia,Ausencia,Ausencia,0.6,0.22,35.0,<0.002
+21,Reserva Ecológica Costanera Sur - Playita,CA047,23/2/2022,2022,Verano,24.7,Ausencia,Ausencia,Ausencia,0.5,0.18,31.0,<0.002
+22,Escollera de Propaneros,AV054,23/2/2022,2022,Verano,27.4,Ausencia,Ausencia,Ausencia,0.049,0.65,12.0,<0.001
+23,Polo Petroquímico Dock Sud,AV051,23/2/2022,2022,Verano,25.7,Ausencia,Ausencia,Ausencia,0.97,0.42,22.0,<0.001
+24,Arroyo Sarandí,AV052,23/2/2022,2022,Verano,26.3,Ausencia,Ausencia,Ausencia,0.049,0.69,17.0,<0.001
+25,Costa de Villa Domínico,AV055,23/2/2022,2022,Verano,25.1,Ausencia,Ausencia,Ausencia,0.8,0.85,19.0,<0.001
+26,Arroyo Santo Domingo,AV053,23/2/2022,2022,Verano,25.8,Ausencia,Ausencia,Ausencia,1.9,0.8,13.0,<0.001
+27,Espora 400 m,QU061,23/2/2022,2022,Verano,23,Ausencia,Ausencia,Ausencia,0.049,0.4,26.0,<0.001
+28,Náutico 400 m,QU062,23/2/2022,2022,Verano,24,Ausencia,Ausencia,Ausencia,0.06,0.39,26.0,<0.001
+29,Pejerrey Club 400 m,QU063,23/2/2022,2022,Verano,23,Ausencia,Ausencia,Ausencia,0.049,0.37,36.0,<0.001
+30,Calle 14 y Costa - Salida cloaca,BZ078,23/2/2022,2022,Verano,23,Ausencia,Ausencia,Ausencia,0.08,0.37,45.0,<0.001
+31,Puerto Trinidad calle 47,BZ077,23/2/2022,2022,Verano,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+32,Costanera Hudson Calle 63,BZ080,23/2/2022,2022,Verano,26,Ausencia,Ausencia,Ausencia,0.08,0.57,85.0,<0.001
+33,Boca Cerrada (Res.Nat. Punta Lara),EN-extra,23/2/2022,2022,Verano,no se midió,Ausencia,Ausencia,Ausencia,0.049,0.33,45.0,<0.001
+34,Camping Eva Perón,EN081,23/2/2022,2022,Verano,23.4,Presencia,Presencia,Presencia,0.06,0.39,65.0,<0.001
+35,Toma de agua Club de Pesca,EN082,23/2/2022,2022,Verano,24.7,Ausencia,Ausencia,Ausencia,0.049,0.35,34.0,<0.001
+36,Arroyo El Gato,EN083,23/2/2022,2022,Verano,24.2,Ausencia,Ausencia,Ausencia,0.049,0.33,12.0,<0.001
+37,Ensenada Prefectura Isla Santiago,EN084,23/2/2022,2022,Verano,23.9,Ausencia,Ausencia,Ausencia,0.1,0.27,35.0,<0.001
+38,Balneario Palo Blanco,BS092,23/2/2022,2022,Verano,22,Ausencia,Ausencia,Ausencia,0.049,1.3,11.0,<0.001
+39,Diagonal 66 (descarga cloaca),BS095,23/2/2022,2022,Verano,20,Presencia,Presencia,Presencia,0.049,1.5,4.1,<0.001
+40,Playa La Bagliardi,BS091,23/2/2022,2022,Verano,20,Ausencia,Ausencia,Ausencia,0.23,1.4,18.0,<0.001
+41,Balneario Municipal,BS094,23/2/2022,2022,Verano,20,Ausencia,Ausencia,Ausencia,0.45,0.44,130.0,<0.001
+42,Playa La Balandra,BS093,23/2/2022,2022,Verano,20,Ausencia,Ausencia,Ausencia,0.18,0.54,110.0,<0.001
+1,Canal Villanueva y Río Luján,TI001,4/5/2022,2022,otoño,19.6,Ausencia,Ausencia,Presencia,<0.05,0.17,60.0,<0.001
+2,Río Lujan y Arroyo Caraguatá,TI006,4/5/2022,2022,otoño,18.6,Ausencia,Ausencia,Ausencia,0.6,0.3,60.0,<0.001
+3,Canal Aliviador y Río Lujan,TI002,4/5/2022,2022,otoño,18.6,Ausencia,Ausencia,Ausencia,<0.05,0.33,65.0,<0.001
+4,Río Carapachay y Arroyo Gallo Fiambre,TI003,4/5/2022,2022,otoño,18.2,Ausencia,Ausencia,Ausencia,0.05,0.25,80.0,<0.001
+5,Río Reconquista y Río Lujan,TI004,4/5/2022,2022,otoño,18.2,Presencia,Ausencia,Presencia,0.25,0.71,70.0,<0.001
+6,Rio Tigre 100m antes del Rio Luján,TI005,4/5/2022,2022,otoño,17,Ausencia,Ausencia,Presencia,0.21,0.51,80.0,<0.001
+7,Río Lujan y Canal San Fernando,TI007,4/5/2022,2022,otoño,17.4,Ausencia,Ausencia,Presencia,0.26,0.33,60.0,<0.001
+8,Río Capitán y Río San Antonio,TI008,4/5/2022,2022,otoño,18.3,Ausencia,Ausencia,Ausencia,<0.05,0.1,50.0,<0.001
+9,Arroyo Abra Vieja y Santa Rosa,TI009,4/5/2022,2022,otoño,18.5,Ausencia,Ausencia,Ausencia,<0.05,0.13,65.0,<0.001
+10,Del Arca,SF015,4/5/2022,2022,otoño,17,ausencia,ausencia,ausencia,0.98,0.26,50.0,<0.001
+11,Espigón La Farola,SI021,4/5/2022,2022,otoño,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+12,Reserva Ecológica,SI022,4/5/2022,2022,otoño,17.5,Ausencia,Ausencia,Ausencia,0.45,0.18,45.0,<0.001
+13,Playa Espigón de Pacheco,SI024,4/5/2022,2022,otoño,17.4,Ausencia,Ausencia,Ausencia,0.91,0.25,31.0,<0.001
+14,Perú Puente,SI023,4/5/2022,2022,otoño,20,Ausencia,Ausencia,Presencia,5.7,0.77,2.5,<0.001
+15,Reserva Barrio El Ceibo,VL033,4/5/2022,2022,otoño,no se midió,Ausencia,Ausencia,Ausencia,0.41,0.23,27.0,<0.001
+16,Puerto de Olivos Espigón,VL032,4/5/2022,2022,otoño,no se midió,Ausencia,Ausencia,Ausencia,0.87,0.23,33.0,<0.001
+17,Costa y Melo,VL031,4/5/2022,2022,otoño,no se midió,Ausencia,Ausencia,Ausencia,0.49,0.24,45.0,<0.001
+18,Parque de los Niños,CA041,4/5/2022,2022,otoño,17.7,Ausencia,Ausencia,Ausencia,0.77,no se midió,71.0,<0.001
+19,Costanera Norte - Espigón Abanico,CA044,4/5/2022,2022,otoño,16.4,Ausencia,Ausencia,Ausencia,1.16,no se midió,84.0,<0.001
+20,Club de Pescadores,CA046,4/5/2022,2022,otoño,18.2,Ausencia,Ausencia,Ausencia,2.05,no se midió,85.0,<0.001
+21,Reserva Ecológica Costanera Sur - Playita,CA047,4/5/2022,2022,otoño,16.4,Ausente,Ausente,Ausente,0.77,no se midió,75.0,<0.001
+22,Escollera de Propaneros,AV054,4/5/2022,2022,otoño,17.8,Ausente,Ausente,Ausente,1.7,0.52,75.0,<0.001
+23,Polo Petroquímico Dock Sud,AV051,4/5/2022,2022,otoño,17.8,Ausente,Ausente,Ausente,2,0.45,45.0,<0.001
+24,Arroyo Sarandí,AV052,4/5/2022,2022,otoño,18.4,Ausente,Ausente,Ausente,<0.05,0.79,23.0,<0.001
+25,Costa de Villa Domínico,AV055,4/5/2022,2022,otoño,17,Ausente,Ausente,Ausente,4.8,1.2,13.0,<0.001
+26,Arroyo Santo Domingo,AV053,4/5/2022,2022,otoño,17.9,Ausente,Ausente,Ausente,2.9,0.65,22.0,<0.001
+27,Espora 400 m,QU061,4/5/2022,2022,otoño,16,Ausencia,Ausencia,Ausencia,<0.05,0.53,34.0,<0.001
+28,Náutico 400 m,QU062,4/5/2022,2022,otoño,16.1,Ausencia,Ausencia,Ausencia,<0.05,0.43,37.0,<0.001
+29,Pejerrey Club 400 m,QU063,4/5/2022,2022,otoño,15.3,Ausencia,Ausencia,Ausencia,0.41,0.49,38.0,<0.001
+30,Calle 14 y Costa - Salida cloaca,BZ078,4/5/2022,2022,otoño,15.8,Presencia,Ausencia,Ausencia,<0.05,0.54,60.0,<0.001
+31,Puerto Trinidad calle 47,BZ077,4/5/2022,2022,otoño,16.7,Ausencia,Ausencia,Ausencia,0.18,0.7,45.0,<0.001
+32,Costanera Hudson Calle 63,BZ080,4/5/2022,2022,otoño,17,Ausencia,Ausencia,Ausencia,<0.05,0.52,60.0,<0.001
+33,Boca Cerrada (Res.Nat. Punta Lara),EN-extra,4/5/2022,2022,otoño,no se midió,Ausencia,Ausencia,Ausencia,<0.05,0.53,90.0,<0.001
+34,Camping Eva Perón,EN081,4/5/2022,2022,otoño,13.6,Ausencia,Ausencia,Ausencia,<0.05,0.4,90.0,<0.001
+35,Toma de agua Club de Pesca,EN082,4/5/2022,2022,otoño,14.3,Ausencia,Ausencia,Ausencia,<0.05,0.23,55.0,<0.001
+36,Arroyo El Gato,EN083,4/5/2022,2022,otoño,14.5,Ausencia,Ausencia,Ausencia,<0.05,0.34,24.0,<0.001
+37,Ensenada Prefectura Isla Santiago,EN084,4/5/2022,2022,otoño,15.6,Ausencia,Ausencia,Ausencia,<0.05,0.23,55.0,<0.001
+38,Balneario Palo Blanco,BS092,4/5/2022,2022,otoño,8,Ausencia,Ausencia,Ausencia,<0.05,0.39,19.0,<0.001
+39,Diagonal 66 (descarga cloaca),BS095,4/5/2022,2022,otoño,8,Presencia,Presencia,Presencia,8.5,1.2,3.3,<0.001
+40,Playa La Bagliardi,BS091,4/5/2022,2022,otoño,7,Ausencia,Ausencia,Ausencia,0.41,0.28,12.0,<0.001
+41,Balneario Municipal,BS094,4/5/2022,2022,otoño,7,Ausencia,Ausencia,Ausencia,0.11,0.25,70.0,<0.001
+42,Playa La Balandra,BS093,4/5/2022,2022,otoño,6,Ausencia,Ausencia,Ausencia,<0.05,0.29,75.0,<0.001
+1,Canal Villanueva y Río Luján,TI001,23/8/2022,2022,invierno,13.8,Ausencia,Ausencia,Ausencia,23,0.14,22.0,<0.001
+2,Río Lujan y Arroyo Caraguatá,TI006,23/8/2022,2022,invierno,13.3,Ausencia,Ausencia,Ausencia,0.44,0.11,30.0,<0.001
+3,Canal Aliviador y Río Lujan,TI002,23/8/2022,2022,invierno,14.4,Presencia,Ausencia,Ausencia,23,2.8,13.0,<0.001
+4,Río Carapachay y Arroyo Gallo Fiambre,TI003,23/8/2022,2022,invierno,12.7,Ausencia,Ausencia,Ausencia,0.28,0.13,32.0,<0.001
+5,Río Reconquista y Río Lujan,TI004,23/8/2022,2022,invierno,13.5,Ausencia,Ausencia,Ausencia,5,0.49,6.0,<0.001
+6,Rio Tigre 100m antes del Rio Luján,TI005,23/8/2022,2022,invierno,14.3,Ausencia,Ausencia,Presencia,22,1.9,33.0,<0.001
+7,Río Lujan y Canal San Fernando,TI007,23/8/2022,2022,invierno,16.5,Presencia,Ausencia,Ausencia,9.3,0.86,6.1,<0.001
+8,Río Capitán y Río San Antonio,TI008,23/8/2022,2022,invierno,15.6,Ausencia,Ausencia,Ausencia,0.1,<0.10,23.0,<0.001
+9,Arroyo Abra Vieja y Santa Rosa,TI009,23/8/2022,2022,invierno,15.6,Ausencia,Ausencia,Ausencia,0.11,0.12,33.0,<0.001
+10,Del Arca,SF015,23/8/2022,2022,invierno,16.3,Ausencia,Ausencia,Ausencia,3.1,0.47,19.0,<0.001
+11,Espigón La Farola,SI021,23/8/2022,2022,invierno,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+12,Reserva Ecológica,SI022,23/8/2022,2022,invierno,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+13,Playa Espigón de Pacheco,SI024,23/8/2022,2022,invierno,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+14,Perú Puente,SI023,23/8/2022,2022,invierno,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+15,Reserva Barrio El Ceibo,VL033,23/8/2022,2022,invierno,17.1,Ausencia,Ausencia,Ausencia,0.49,<0.10,12.0,<0.001
+16,Puerto de Olivos Espigón,VL032,23/8/2022,2022,invierno,16.1,Ausencia,Ausencia,Ausencia,0.95,0.32,16.0,<0.001
+17,Costa y Melo,VL031,23/8/2022,2022,invierno,13.1,Ausencia,Ausencia,Ausencia,0.22,0.42,12.0,<0.001
+18,Parque de los Niños,CA041,23/8/2022,2022,invierno,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+19,Costanera Norte - Espigón Abanico,CA044,23/8/2022,2022,invierno,14.6,Ausencia,Ausencia,Ausencia,2.9,no se midió,54.0,no se midió
+20,Club de Pescadores,CA046,23/8/2022,2022,invierno,14.9,Ausencia,Ausencia,Ausencia,2,no se midió,67.0,no se midió
+21,Reserva Ecológica Costanera Sur - Playita,CA047,23/8/2022,2022,invierno,15.1,Ausencia,Ausencia,Ausencia,0.75,no se midió,48.0,no se midió
+22,Escollera de Propaneros,AV054,23/8/2022,2022,invierno,15.03,Ausente,Ausente,Ausente,3.3,0.54,25.0,<0.001
+23,Polo Petroquímico Dock Sud,AV051,23/8/2022,2022,invierno,14.06,Ausente,Ausente,Ausente,1.5,0.31,50.0,<0.001
+24,Arroyo Sarandí,AV052,23/8/2022,2022,invierno,14.6,Ausente,Ausente,Ausente,2,0.34,28.0,<0.001
+25,Costa de Villa Domínico,AV055,23/8/2022,2022,invierno,15.7,Ausente,Ausente,Ausente,3.1,0.42,12.0,<0.001
+26,Arroyo Santo Domingo,AV053,23/8/2022,2022,invierno,16.6,Ausente,Ausente,Ausente,4.1,0.27,13.0,<0.001
+27,Espora 400 m,QU061,23/8/2022,2022,invierno,14.2,Ausencia,Ausencia,Ausencia,3.9,0.63,7.5,<0.001
+28,Náutico 400 m,QU062,23/8/2022,2022,invierno,14.3,Presencia,Ausencia,Presencia,3.8,0.57,17.0,<0.001
+29,Pejerrey Club 400 m,QU063,23/8/2022,2022,invierno,13.4,Ausencia,Ausencia,Ausencia,1.1,0.51,27.0,<0.001
+30,Calle 14 y Costa - Salida cloaca,BZ078,23/8/2022,2022,invierno,11.01,Ausencia,Ausencia,Ausencia,5.2,0.62,10.0,<0.001
+31,Puerto Trinidad calle 47,BZ077,23/8/2022,2022,invierno,10.01,Presencia,Ausencia,Presencia,1.9,0.4,13.0,<0.001
+32,Costanera Hudson Calle 63,BZ080,23/8/2022,2022,invierno,15.1,Ausencia,Ausencia,Ausencia,1.5,0.36,14.0,<0.001
+33,Boca Cerrada (Res.Nat. Punta Lara),EN-extra,23/8/2022,2022,invierno,no se midió,Ausencia,Ausencia,Ausencia,0.88,0.35,16.0,<0.001
+34,Camping Eva Perón,EN081,23/8/2022,2022,invierno,13.9,Ausencia,Ausencia,Ausencia,5.6,0.95,16.0,<0.001
+35,Toma de agua Club de Pesca,EN082,23/8/2022,2022,invierno,13,Ausencia,Ausencia,Ausencia,0.33,0.26,18.0,<0.001
+36,Arroyo El Gato,EN083,23/8/2022,2022,invierno,12.8,Ausencia,Ausencia,Ausencia,22,1.2,8.6,<0.001
+37,Ensenada Prefectura Isla Santiago,EN084,23/8/2022,2022,invierno,12.7,Ausencia,Ausencia,Ausencia,1.9,0.15,7.3,<0.001
+38,Balneario Palo Blanco,BS092,23/8/2022,2022,invierno,12,Ausencia,Ausencia,Ausencia,12,1.2,8.5,<0.001
+39,Diagonal 66 (descarga cloaca),BS095,23/8/2022,2022,invierno,11,Presencia,Presencia,Presencia,19,1.4,11.0,<0.001
+40,Playa La Bagliardi,BS091,23/8/2022,2022,invierno,10,Ausencia,Ausencia,Ausencia,5.4,1.3,25.0,<0.001
+41,Balneario Municipal,BS094,23/8/2022,2022,invierno,10,Ausencia,Ausencia,Ausencia,0.17,0.26,37.0,<0.001
+42,Playa La Balandra,BS093,23/8/2022,2022,invierno,9,Ausencia,Ausencia,Ausencia,2,0.59,28.0,<0.001
+1,Canal Villanueva y Río Luján,TI001,31/10/2022,2022,Primavera,21.5,Ausencia,Ausencia,Ausencia,0.1,<0.10,30.0,<0.001
+2,Río Lujan y Arroyo Caraguatá,TI006,31/10/2022,2022,Primavera,20.9,Ausencia,Ausencia,Ausencia,0.83,0.19,26.0,<0.001
+3,Canal Aliviador y Río Lujan,TI002,31/10/2022,2022,Primavera,20.4,Ausencia,Ausencia,Ausencia,1,0.2,28.0,<0.001
+4,Río Carapachay y Arroyo Gallo Fiambre,TI003,31/10/2022,2022,Primavera,20.2,Ausencia,Ausencia,Ausencia,1.4,0.33,25.0,<0.001
+5,Río Reconquista y Río Lujan,TI004,31/10/2022,2022,Primavera,19.7,Ausencia,Ausencia,Ausencia,0.98,0.35,30.0,<0.001
+6,Rio Tigre 100m antes del Rio Luján,TI005,31/10/2022,2022,Primavera,20,Ausencia,Ausencia,Ausencia,0.83,0.19,26.0,<0.001
+7,Río Lujan y Canal San Fernando,TI007,31/10/2022,2022,Primavera,19,Ausencia,Ausencia,Presencia,1.1,0.32,30.0,<0.001
+8,Río Capitán y Río San Antonio,TI008,31/10/2022,2022,Primavera,19.2,Ausencia,Ausencia,Ausencia,0.1,0.19,29.0,<0.001
+9,Arroyo Abra Vieja y Santa Rosa,TI009,31/10/2022,2022,Primavera,18.6,Ausencia,Ausencia,Ausencia,0.12,0.36,35.0,<0.001
+10,Del Arca,SF015,31/10/2022,2022,Primavera,20.4,Ausencia,Ausencia,Ausencia,0.74,0.23,39.0,<0.001
+11,Espigón La Farola,SI021,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+12,Reserva Ecológica,SI022,31/10/2022,2022,Primavera,21,ausencia,ausencia,ausencia,1.3,0.33,29.0,<0.001
+13,Playa Espigón de Pacheco,SI024,31/10/2022,2022,Primavera,18.4,ausencia,ausencia,ausencia,1,0.33,29.0,<0.001
+14,Perú Puente,SI023,31/10/2022,2022,Primavera,21,ausencia,ausencia,ausencia,7.1,0.86,9.3,<0.001
+15,Reserva Barrio El Ceibo,VL033,31/10/2022,2022,Primavera,19.4,ausencia,ausencia,ausencia,0.72,0.28,28.0,<0.001
+16,Puerto de Olivos Espigón,VL032,31/10/2022,2022,Primavera,18.5,ausencia,ausencia,presencia,0.93,0.29,19.0,<0.001
+17,Costa y Melo,VL031,31/10/2022,2022,Primavera,18.6,ausencia,ausencia,ausencia,1,0.47,19.0,<0.001
+18,Parque de los Niños,CA041,no midieron este día,no midieron este día,no midieron este día,no midieron este día,no midieron este día,no midieron este día,no midieron este día,no midieron este día,no midieron este día,no midieron este día,no midieron este día
+19,Costanera Norte - Espigón Abanico,CA044,no midieron este día,no midieron este día,no midieron este día,no midieron este día,no midieron este día,no midieron este día,no midieron este día,no midieron este día,no midieron este día,no midieron este día,no midieron este día
+20,Club de Pescadores,CA046,no midieron este día,no midieron este día,no midieron este día,no midieron este día,no midieron este día,no midieron este día,no midieron este día,no midieron este día,no midieron este día,no midieron este día,no midieron este día
+21,Reserva Ecológica Costanera Sur - Playita,CA047,no midieron este día,no midieron este día,no midieron este día,no midieron este día,no midieron este día,no midieron este día,no midieron este día,no midieron este día,no midieron este día,no midieron este día,no midieron este día
+22,Escollera de Propaneros,AV054,31/10/2022,2022,Primavera,18.89,Ausente,Ausente,Ausente,3.3,0.78,14.0,<0.001
+23,Polo Petroquímico Dock Sud,AV051,31/10/2022,2022,Primavera,18.43,Ausente,Ausente,Ausente,2.2,0.57,16.0,<0.001
+24,Arroyo Sarandí,AV052,31/10/2022,2022,Primavera,18.5,Ausente,Ausente,Ausente,2.5,0.55,18.0,<0.001
+25,Costa de Villa Domínico,AV055,31/10/2022,2022,Primavera,18.5,Ausente,Ausente,Ausente,1.3,30.12,15.0,<0.001
+26,Arroyo Santo Domingo,AV053,31/10/2022,2022,Primavera,17.1,Ausente,Ausente,Ausente,1.6,0.67,21.0,<0.001
+27,Espora 400 m,QU061,31/10/2022,2022,Primavera,18.5,Ausencia,Ausencia,Presencia,1.3,0.31,17.0,<0.001
+28,Náutico 400 m,QU062,31/10/2022,2022,Primavera,18.6,Ausencia,Ausencia,Presencia,0.71,0.49,20.0,<0.001
+29,Pejerrey Club 400 m,QU063,31/10/2022,2022,Primavera,18.3,Ausencia,Presencia,Ausencia,0.64,0.76,25.0,<0.001
+30,Calle 14 y Costa - Salida cloaca,BZ078,31/10/2022,2022,Primavera,15.04,Ausencia,Ausencia,Ausencia,0.45,0.88,37.0,<0.001
+31,Puerto Trinidad calle 47,BZ077,31/10/2022,2022,Primavera,18.06,Ausencia,Ausencia,Ausencia,0.66,0.31,25.0,<0.001
+32,Costanera Hudson Calle 63,BZ080,31/10/2022,2022,Primavera,18.7,Ausencia,Ausencia,Ausencia,0.22,0.51,34.0,<0.001
+33,Boca Cerrada (Res.Nat. Punta Lara),EN-extra,31/10/2022,2022,Primavera,no se midió,Ausencia,Ausencia,Ausencia,0.14,0.6,39.0,<0.001
+34,Camping Eva Perón,EN081,31/10/2022,2022,Primavera,16,Ausencia,Ausencia,Ausencia,0.15,0.36,31.0,<0.001
+35,Toma de agua Club de Pesca,EN082,31/10/2022,2022,Primavera,17.2,Ausencia,Ausencia,Ausencia,0.41,0.29,26.0,<0.001
+36,Arroyo El Gato,EN083,31/10/0202,2022,Primavera,18,Ausencia,Ausencia,Ausencia,2.3,0.36,23.0,<0.001
+37,Ensenada Prefectura Isla Santiago,EN084,31/10/0202,2022,Primavera,17.1,Ausencia,Ausencia,Ausencia,0.4,0.24,39.0,<0.001
+38,Balneario Palo Blanco,BS092,31/10/2022,2022,Primavera,10,Ausencia,Ausencia,Presencia,0.38,0.24,23.0,<0.001
+39,Diagonal 66 (descarga cloaca),BS095,31/10/2022,2022,Primavera,10,Ausencia,Ausencia,Presencia,1.2,30.12,18.2,<0.001
+40,Playa La Bagliardi,BS091,31/10/2022,2022,Primavera,10,Ausencia,Ausencia,Presencia,0.8,0.45,40.0,<0.001
+41,Balneario Municipal,BS094,31/10/2022,2022,Primavera,10,Ausencia,Ausencia,Presencia,0.55,0.27,90.0,<0.001
+42,Playa La Balandra,BS093,31/10/2022,2022,Primavera,10,Ausencia,Ausencia,Presencia,0.21,0.48,70.0,<0.001
+1,Canal Villanueva y Río Luján,TI001,24/2/2021,2021,verano,25.6,Ausencia,Ausencia,Presencia,0.4,0.92,60,<0.001
+2,Río Lujan y Arroyo Caraguatá,TI006,24/2/2021,2021,verano,25.7,Ausencia,Ausencia,Ausencia,0.21,1.1,31,<0.001
+3,Canal Aliviador y Río Lujan,TI002,24/2/2021,2021,verano,24.6,Presencia,Presencia,Presencia,6,0.68,17,<0.001
+4,Río Carapachay y Arroyo Gallo Fiambre,TI003,24/2/2021,2021,verano,24,Ausencia,Ausencia,Presencia,0.85,0.59,33,<0.001
+5,Río Reconquista y Río Lujan,TI004,24/2/2021,2021,verano,24.8,Presencia,Presencia,Ausencia,2.3,0.89,50,<0.001
+6,Rio Tigre 100m antes del Rio Luján,TI005,24/2/2021,2021,verano,24.5,Presencia,Ausencia,Presencia,6.9,1.5,13,<0.001
+7,Río Lujan y Canal San Fernando,TI007,24/2/2021,2021,verano,25.1,Presencia,Ausencia,Presencia,39,1.3,31,<0.001
+8,Río Capitán y Río San Antonio,TI008,24/2/2021,2021,verano,26.7,Ausencia,Ausencia,Ausencia,0.06,0.94,80,<0.001
+9,Arroyo Abra Vieja y Santa Rosa,TI009,24/2/2021,2021,verano,24.7,Ausencia,Ausencia,Ausencia,0.34,0.59,50,<0.001
+10,Del Arca,SF015,24/2/2021,2021,verano,26,Ausencia,Ausencia,Ausencia,1.7,0.84,55,<0.001
+11,Espigón La Farola,SI021,24/2/2021,2021,verano,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+12,Reserva Ecológica,SI022,24/2/2021,2021,verano,27.8,Ausencia,Ausencia,Ausencia,0.69,0.85,27,<0.001
+13,Playa Espigón de Pacheco,SI024,24/2/2021,2021,verano,27,Ausencia,Ausencia,Presencia,0.37,0.56,35,<0.001
+14,Perú Puente,SI023,24/2/2021,2021,verano,28,Ausencia,Ausencia,Presencia,4.2,0.86,5.2,<0.001
+15,Reserva Barrio El Ceibo ,VL033,24/2/2021,2021,verano,25.5,Ausencia,Ausencia,Ausencia,0.66,0.83,29,<0.001
+16,Puerto de Olivos Espigón,VL032,24/2/2021,2021,verano,25.7,Ausencia,Ausencia,Presencia,0.7,1.2,29,<0.001
+17,Costa y Melo,VL031,24/2/2021,2021,verano,24.7,Ausencia,Ausencia,Presencia,0.39,1.6,45,<0.001
+18,Parque de los Niños,CA041,24/2/2021,2021,verano,25.2,Ausencia,Ausencia,Ausencia,0.3,0.76,84,0.018
+19,Costanera Norte - Espigón Abanico,CA044,24/2/2021,2021,verano,26.1,Ausencia,Ausencia,Ausencia,1.2,0.64,59,0.019
+20,Club de Pescadores,CA046,24/2/2021,2021,verano,24.9,Ausencia,Ausencia,Ausencia,0.3,0.69,91,0.02
+21,Reserva Ecológica Costanera Sur - Playita,CA047,24/2/2021,2021,verano,26.5,Ausencia,Ausencia,Ausencia,0.8,0.76,105,0.021
+22,Escollera de Propaneros,AV054,24/2/2021,2021,verano,26.1,Ausencia,Ausencia,Ausencia,0.59,2.5,45,<0.001
+23,Polo Petroquímico Dock Sud,AV051,24/2/2021,2021,verano,25.3,Ausencia,Ausencia,Ausencia,0.36,1,45,<0.001
+24,Arroyo Sarandí,AV052,24/2/2021,2021,verano,25.5,Ausencia,Ausencia,Ausencia,1.6,0.98,32,<0.001
+25,Costa de Villa Domínico     ,AV055,24/2/2021,2021,verano,25.6,Ausencia,Ausencia,Ausencia,1.5,0.74,34,<0.001
+26,Arroyo Santo Domingo,AV053,24/2/2021,2021,verano,26.1,Ausencia,Ausencia,Ausencia,23,0.82,21,<0.001
+27,Espora 400 m,QU061,24/2/2021,2021,verano,24.9,Ausencia,Ausencia,Ausencia,1.5,1.2,23,<0.001
+28,Náutico 400 m,QU062,24/2/2021,2021,verano,20.8,Ausencia,Ausencia,Ausencia,1.2,0.98,22,<0.001
+29,Pejerrey Club 400 m,QU063,24/2/2021,2021,verano,25.5,Ausencia,Ausencia,Presencia,0.76,1,31,<0.001
+30,Calle 14 y Costa - Salida cloaca,BZ078,24/2/2021,2021,verano,no se midió,Presencia,Ausencia,Presencia,0.42,0.82,75,<0.001
+31,Puerto Trinidad calle 47,BZ077,24/2/2021,2021,verano,25.5,Ausencia,Ausencia,Ausencia,0.54,0.64,120,<0.001
+32,Costanera Hudson Calle 63,BZ080,24/2/2021,2021,verano,23.5,Ausencia,Ausencia,Ausencia,0.15,0.58,50,<0.001
+33,Camping Eva Perón,EN081,24/2/2021,2021,verano,23.8,Ausencia,Ausencia,Ausencia,0.16,1.1,39,<0.001
+34,Toma de agua Club de Pesca,EN082,24/2/2021,2021,verano,24.5,Ausencia,Ausencia,Ausencia,0.2,0.88,40,<0.001
+35,Arroyo El Gato,EN083,24/2/2021,2021,verano,22.9,Ausencia,Ausencia,Presencia,2.4,1,36,<0.001
+36,Ensenada Prefectura Isla Santiago,EN084,24/2/2021,2021,verano,24.7,Ausencia,Ausencia,Ausencia,0.1,0.61,26,<0.001
+37,Balneario Palo Blanco,BS092,24/2/2021,2021,verano,21,Ausencia,Ausencia,Ausencia,2,0.77,16,<0.001
+38,Diagonal 66 (descarga cloaca),BS095,24/2/2021,2021,verano,24,Presencia,Presencia,Presencia,5.3,1.9,5.9,<0.001
+39,Playa La Bagliardi,BS091,24/2/2021,2021,verano,20,Ausencia,Ausencia,Presencia,5.4,1.4,18,<0.001
+40,Balneario Municipal,BS094,24/2/2021,2021,verano,21,Ausencia,Ausencia,Ausencia,0.98,0.78,210,0.0017
+41,Playa La Balandra,BS093,24/2/2021,2021,verano,20,Ausencia,Ausencia,Ausencia,1.8,0.73,5.3,<0.001
+1,Canal Villanueva y Río Luján,TI001,19/5/2021,2021,otoño,15.6,Ausencia,Ausencia,Ausencia,0.98,0.2,<30,<0.005
+2,Río Lujan y Arroyo Caraguatá,TI006,19/5/2021,2021,otoño,15.7,Ausencia,Ausencia,Ausencia,0.57,0.19,<30,<0.005
+3,Canal Aliviador y Río Lujan,TI002,19/5/2021,2021,otoño,15.7,Ausencia,Ausencia,Ausencia,4.3,0.51,<30,<0.005
+4,Río Carapachay y Arroyo Gallo Fiambre,TI003,19/5/2021,2021,otoño,15.1,Ausencia,Ausencia,Ausencia,4.5,0.5,<30,<0.005
+5,Río Reconquista y Río Lujan,TI004,19/5/2021,2021,otoño,15.3,Presencia,Ausencia,Ausencia,3.2,0.44,<30,<0.005
+6,Rio Tigre 100m antes del Rio Luján,TI005,19/5/2021,2021,otoño,15.3,Presencia,Ausencia,Ausencia,4.5,0.55,<30,0.007
+7,Río Lujan y Canal San Fernando,TI007,19/5/2021,2021,otoño,15.9,Presencia,Ausencia,Ausencia,5.6,0.62,<30,<0.005
+8,Río Capitán y Río San Antonio,TI008,19/5/2021,2021,otoño,15.2,Ausencia,Ausencia,Ausencia,0.16,0.19,<30,<0.005
+9,Arroyo Abra Vieja y Santa Rosa,TI009,19/5/2021,2021,otoño,12.8,Ausencia,Ausencia,Ausencia,0.98,0.19,<30,<0.005
+10,Del Arca,SF015,19/5/2021,2021,otoño,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+11,Espigón La Farola,SI021,19/5/2021,2021,otoño,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+12,Reserva Ecológica,SI022,19/5/2021,2021,otoño,16,Ausencia,Ausencia,Ausencia,0.97,0.27,<30,<0.005
+13,Playa Espigón de Pacheco,SI024,19/5/2021,2021,otoño,15,Ausencia,Ausencia,Ausencia,0.82,0.36,<30,0.007
+14,Perú Puente,SI023,19/5/2021,2021,otoño,18,Ausencia,Ausencia,Ausencia,5,0.51,<30,<0.005
+15,Reserva Barrio El Ceibo ,VL033,19/5/2021,2021,otoño,15,Ausencia,Ausencia,Ausencia,0.9,0.36,<30,0.005
+16,Puerto de Olivos Espigón,VL032,19/5/2021,2021,otoño,14.8,Ausencia,Ausencia,Ausencia,0.9,0.3,<30,<0.005
+17,Costa y Melo,VL031,19/5/2021,2021,otoño,14.8,Ausencia,Ausencia,Ausencia,2.1,0.36,<30,<0.005
+18,Parque de los Niños,CA041,19/5/2021,2021,otoño,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+19,Costanera Norte - Espigón Abanico,CA044,19/5/2021,2021,otoño,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+20,Club de Pescadores,CA046,19/5/2021,2021,otoño,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+21,Reserva Ecológica Costanera Sur - Playita,CA047,19/5/2021,2021,otoño,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+22,Escollera de Propaneros,AV054,19/5/2021,2021,otoño,16.8,Ausencia,Ausencia,Ausencia,3.9,0.77,36,<0.005
+23,Polo Petroquímico Dock Sud,AV051,19/5/2021,2021,otoño,16.2,Ausencia,Ausencia,Ausencia,3.3,0.33,<30,<0.005
+24,Arroyo Sarandí,AV052,19/5/2021,2021,otoño,16.2,Ausencia,Ausencia,Ausencia,2.7,0.48,30,0.005
+25,Costa de Villa Domínico     ,AV055,19/5/2021,2021,otoño,16.7,Ausencia,Ausencia,Ausencia,2.6,0.55,34,<0.005
+26,Arroyo Santo Domingo,AV053,19/5/2021,2021,otoño,16.7,Ausencia,Ausencia,Ausencia,2.9,0.61,<30,<0.005
+27,Espora 400 m,QU061,19/5/2021,2021,otoño,14.5,Ausencia,Ausencia,Presencia,1.4,0.87,<30,<0.005
+28,Náutico 400 m,QU062,19/5/2021,2021,otoño,14,Ausencia,Ausencia,Presencia,3,0.53,<30,<0.005
+29,Pejerrey Club 400 m,QU063,19/5/2021,2021,otoño,15,Ausencia,Ausencia,Ausencia,0.82,0.73,<30,0.005
+30,Calle 14 y Costa - Salida cloaca,BZ078,19/5/2021,2021,otoño,13,Ausencia,Ausencia,Ausencia,0.08,0.22,40,<0.005
+31,Puerto Trinidad calle 47,BZ077,19/5/2021,2021,otoño,13,Ausencia,Ausencia,Ausencia,0.24,0.22,33,<0.005
+32,Costanera Hudson Calle 63,BZ080,19/5/2021,2021,otoño,11,Ausencia,Ausencia,Ausencia,0.1,0.75,43,0.008
+33,Camping Eva Perón,EN081,19/5/2021,2021,otoño,12.9,Ausencia,Ausencia,Ausencia,7,0.57,<30,<0.005
+34,Toma de agua Club de Pesca,EN082,19/5/2021,2021,otoño,14.2,Ausencia,Ausencia,Ausencia,0.26,0.26,<30,<0.005
+35,Arroyo El Gato,EN083,19/5/2021,2021,otoño,14.5,Ausencia,Ausencia,Ausencia,4.3,0.38,<30,<0.005
+36,Ensenada Prefectura Isla Santiago,EN084,19/5/2021,2021,otoño,14.4,Ausencia,Ausencia,Ausencia,0.06,0.23,<30,<0.005
+37,Balneario Palo Blanco,BS092,19/5/2021,2021,otoño,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+38,Diagonal 66 (descarga cloaca),BS095,19/5/2021,2021,otoño,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+39,Playa La Bagliardi,BS091,19/5/2021,2021,otoño,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+40,Balneario Municipal,BS094,19/5/2021,2021,otoño,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+41,Playa La Balandra,BS093,19/5/2021,2021,otoño,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+1,Canal Villanueva y Río Luján,TI001,25/8/2021,2021,invierno,14.8,Ausencia,Ausencia,Ausencia,1.1,<0.20,27,<0.001
+2,Río Lujan y Arroyo Caraguatá,TI006,25/8/2021,2021,invierno,14.5,Ausencia,Ausencia,Ausencia,4.7,0.48,22,<0.001
+3,Canal Aliviador y Río Lujan,TI002,25/8/2021,2021,invierno,14.7,Presencia,Ausencia,Ausencia,3,0.57,21,<0.001
+4,Río Carapachay y Arroyo Gallo Fiambre,TI003,25/8/2021,2021,invierno,14.4,Ausencia,Ausencia,Ausencia,2.8,0.44,20,<0.001
+5,Río Reconquista y Río Lujan,TI004,25/8/2021,2021,invierno,14.8,Presencia,Ausencia,Ausencia,0.8,0.36,21,<0.001
+6,Rio Tigre 100m antes del Rio Luján,TI005,25/8/2021,2021,invierno,14.4,Presencia,Presencia,Ausencia,5.7,0.65,16,<0.001
+7,Río Lujan y Canal San Fernando,TI007,25/8/2021,2021,invierno,14.4,Presencia,Presencia,Ausencia,2.5,0.43,16,<0.001
+8,Río Capitán y Río San Antonio,TI008,25/8/2021,2021,invierno,14.6,Ausencia,Ausencia,Ausencia,0.3,<0.20,22,<0.001
+9,Arroyo Abra Vieja y Santa Rosa,TI009,25/8/2021,2021,invierno,13.8,Ausencia,Ausencia,Ausencia,<0.05,<0.20,29,<0.001
+10,Del Arca,SF015,25/8/2021,2021,invierno,18,Ausencia,Ausencia,Ausencia,1,0.26,25,<0.001
+11,Espigón La Farola,SI021,25/8/2021,2021,invierno,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+12,Reserva Ecológica,SI022,25/8/2021,2021,invierno,16,Ausencia,Ausencia,Ausencia,0.8,0.35,20,<0.001
+13,Playa Espigón de Pacheco,SI024,25/8/2021,2021,invierno,15.7,Ausencia,Ausencia,Ausencia,0.5,0.35,23,<0.001
+14,Perú Puente,SI023,25/8/2021,2021,invierno,17,Ausencia,Ausencia,Ausencia,1.6,0.41,9,<0.001
+15,Reserva Barrio El Ceibo ,VL033,25/8/2021,2021,invierno,13.8,Ausencia,Ausencia,Ausencia,0.3,0.34,19,<0.001
+16,Puerto de Olivos Espigón,VL032,25/8/2021,2021,invierno,13.5,Ausencia,Ausencia,Ausencia,0.3,0.32,24,<0.001
+17,Costa y Melo,VL031,25/8/2021,2021,invierno,14,Ausencia,Ausencia,Ausencia,0.1,0.31,16,<0.001
+18,Parque de los Niños,CA041,25/8/2021,2021,invierno,15.2,Ausencia,Ausencia,Ausencia,3.09,0.1,32,<0.001
+19,Costanera Norte - Espigón Abanico,CA044,25/8/2021,2021,invierno,14.5,Ausencia,Ausencia,Ausencia,1.8,0.08,31,<0.001
+20,Club de Pescadores,CA046,25/8/2021,2021,invierno,14.7,Ausencia,Ausencia,Ausencia,1.8,0.08,31,<0.001
+21,Reserva Ecológica Costanera Sur - Playita,CA047,25/8/2021,2021,invierno,15.5,Ausencia,Ausencia,Ausencia,2.06,0.1,39.6,<0.001
+22,Escollera de Propaneros,AV054,25/8/2021,2021,invierno,15.4,Ausencia ,Ausencia ,Ausencia ,2.3,0.65,22,<0.001
+23,Polo Petroquímico Dock Sud,AV051,25/8/2021,2021,invierno,15.1,Ausencia ,Ausencia ,Ausencia ,2,0.61,13,<0.001
+24,Arroyo Sarandí,AV052,25/8/2021,2021,invierno,14.8,Ausencia ,Ausencia ,Ausencia ,2.2,0.73,11,<0.001
+25,Costa de Villa Domínico     ,AV055,25/8/2021,2021,invierno,14.6,Ausencia ,Ausencia ,Ausencia ,3.1,0.75,10,<0.001
+26,Arroyo Santo Domingo,AV053,25/8/2021,2021,invierno,14.7,Ausencia ,Ausencia ,Ausencia ,2.7,0.63,21,<0.001
+27,Espora 400 m,QU061,25/8/2021,2021,invierno,14.5,Ausencia,Ausencia,Presencia,0.1,0.52,29,<0.001
+28,Náutico 400 m,QU062,25/8/2021,2021,invierno,13.6,Ausencia,Ausencia,Ausencia,0.2,0.38,30,<0.001
+29,Pejerrey Club 400 m,QU063,25/8/2021,2021,invierno,13.1,Ausencia,Ausencia,Ausencia,1,0.46,18,<0.001
+30,Calle 14 y Costa - Salida cloaca,BZ078,25/8/2021,2021,invierno,12,Ausencia,Ausencia,Ausencia,0.6,0.29,16,<0.001
+31,Puerto Trinidad calle 47,BZ077,25/8/2021,2021,invierno,13,Ausencia,Ausencia,Ausencia,0.7,0.22,12,<0.001
+32,Costanera Hudson Calle 63,BZ080,25/8/2021,2021,invierno,12,Ausencia,Ausencia,Ausencia,0.7,<0.20,21,<0.001
+33,Camping Eva Perón,EN081,25/8/2021,2021,invierno,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+34,Toma de agua Club de Pesca,EN082,25/8/2021,2021,invierno,11.4,Ausencia,Ausencia,Ausencia,1.1,0.41,31,<0.001
+35,Arroyo El Gato,EN083,25/8/2021,2021,invierno,12.1,Ausencia,Ausencia,Ausencia,0.7,<0.20,23,<0.001
+36,Ensenada Prefectura Isla Santiago,EN084,25/8/2021,2021,invierno,12.9,Ausencia,Ausencia,Ausencia,2.9,0.28,19,<0.001
+37,Balneario Palo Blanco,BS092,25/8/2021,2021,invierno,11.9,Ausencia,Ausencia,Ausencia,1.8,<0.20,23,<0.001
+38,Diagonal 66 (descarga cloaca),BS095,25/8/2021,2021,invierno,10,Ausencia ,Ausencia,Ausencia,9.3,1.3,10,<0.010
+39,Playa La Bagliardi,BS091,25/8/2021,2021,invierno,10,Presencia,Presencia,Presencia,13,1.5,8.7,<0.001
+40,Balneario Municipal,BS094,25/8/2021,2021,invierno,8,Ausencia,Ausencia,Ausencia,0.2,0.56,29,<0.001
+41,Playa La Balandra,BS093,25/8/2021,2021,invierno,7,Ausencia,Ausencia,Ausencia,1.3,0.33,75,<0.001
+42,Playa La Balandra,BS093,25/8/2021,2021,invierno,7,Ausencia,Ausencia,Ausencia,0.7,0.45,75,<0.001
+1,Canal Villanueva y Río Luján,TI001,27/10/2021,2021,primavera,24.4,Ausencia,Ausencia,Presencia,0.44,0.27,45,<0.001
+2,Río Lujan y Arroyo Caraguatá,TI006,27/10/2021,2021,primavera,25.4,Ausencia,Ausencia,Presencia,3.3,<0.20,36,<0.001
+3,Canal Aliviador y Río Lujan,TI002,27/10/2021,2021,primavera,24.6,Presencia,Ausencia,Presencia,3.1,0.47,19,<0.001
+4,Río Carapachay y Arroyo Gallo Fiambre,TI003,27/10/2021,2021,primavera,23.8,Ausencia,Ausencia,Presencia,0.3,0.2,33,<0.001
+5,Río Reconquista y Río Lujan,TI004,27/10/2021,2021,primavera,24.7,Presencia,Ausencia,Presencia,<0.05,0.21,31,<0.001
+6,Rio Tigre 100m antes del Rio Luján,TI005,27/10/2021,2021,primavera,23,Presencia,Ausencia,Presencia,9.7,1.1,13,<0.001
+7,Río Lujan y Canal San Fernando,TI007,27/10/2021,2021,primavera,24.2,Ausencia,Ausencia,Presencia,1.8,0.25,21,<0.001
+8,Río Capitán y Río San Antonio,TI008,27/10/2021,2021,primavera,24.8,Ausencia,Ausencia,Ausencia,0.09,<0.20,32,<0.001
+9,Arroyo Abra Vieja y Santa Rosa,TI009,27/10/2021,2021,primavera,24,Ausencia,Ausencia,Ausencia,0.44,<0.20,33,<0.001
+10,Del Arca,SF015,27/10/2021,2021,primavera,22,Ausencia,Ausencia,Ausencia,1.1,0.27,17,<0.001
+11,Espigón La Farola,SI021,27/10/2021,2021,primavera,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+12,Reserva Ecológica,SI022,27/10/2021,2021,primavera,25,Ausencia,Ausencia,Ausencia,2.1,0.31,11,<0.001
+13,Playa Espigón de Pacheco,SI024,27/10/2021,2021,primavera,27.5,Ausencia,Ausencia,Ausencia,0.1,0.31,7.6,<0.001
+14,Perú Puente,SI023,27/10/2021,2021,primavera,26,Ausencia,Ausencia,Ausencia,0.6,0.36,9.4,<0.001
+15,Reserva Barrio El Ceibo ,VL033,27/10/2021,2021,primavera,25.8,Ausencia,Ausencia,Ausencia,1.1,0.34,6,<0.001
+16,Puerto de Olivos Espigón,VL032,27/10/2021,2021,primavera,23.6,Ausencia,Presencia,Presencia,0.6,0.32,7.1,<0.001
+17,Costa y Melo,VL031,27/10/2021,2021,primavera,22.4,Ausencia,Ausencia,Ausencia,<0.05,0.28,9.3,<0.001
+18,Parque de los Niños,CA041,27/10/2021,2021,primavera,24.7,Ausencia,Ausencia,Ausencia,1.6,0.27,16,<0.001
+19,Costanera Norte - Espigón Abanico,CA044,27/10/2021,2021,primavera,24.9,Ausencia,Ausencia,Ausencia,1.7,0.25,13,<0.001
+20,Club de Pescadores,CA046,27/10/2021,2021,primavera,24.2,Ausencia,Ausencia,Ausencia,2.5,<0.20,21,<0.001
+21,Reserva Ecológica Costanera Sur - Playita,CA047,27/10/2021,2021,primavera,23.8,Ausencia,Ausencia,Ausencia,<0.05,0.33,10,<0.001
+22,Escollera de Propaneros,AV054,27/10/2021,2021,primavera,21.4,Ausencia,Ausencia,Ausencia,1,0.25,14,<0.001
+23,Polo Petroquímico Dock Sud,AV051,27/10/2021,2021,primavera,23.9,Ausencia,Ausencia,Ausencia,1.5,0.25,15,<0.001
+24,Arroyo Sarandí,AV052,27/10/2021,2021,primavera,21.4,Ausencia,Ausencia,Ausencia,0.1,0.35,13,<0.001
+25,Costa de Villa Domínico     ,AV055,27/10/2021,2021,primavera,25,Ausencia,Ausencia,Ausencia,0.4,0.36,12,<0.001
+26,Arroyo Santo Domingo,AV053,27/10/2021,2021,primavera,26,Ausencia,Ausencia,Ausencia,3.1,0.75,10,<0.001
+27,Espora 400 m,QU061,27/10/2021,2021,primavera,23.1,Presencia,Ausencia,Ausencia,0.8,0.24,9.9,<0.001
+28,Náutico 400 m,QU062,27/10/2021,2021,primavera,23.5,Ausencia,Ausencia,Ausencia,1.6,0.32,16,<0.001
+29,Pejerrey Club 400 m,QU063,27/10/2021,2021,primavera,24.3,Ausencia,Ausencia,Ausencia,0.6,0.57,11,<0.001
+30,Calle 14 y Costa - Salida cloaca,BZ078,27/10/2021,2021,primavera,27,Ausencia,Ausencia,Ausencia,0.89,0.75,70,<0.001
+31,Puerto Trinidad calle 47,BZ077,27/10/2021,2021,primavera,26,Ausencia,Ausencia,Ausencia,0.5,0.36,27,<0.001
+32,Costanera Hudson Calle 63,BZ080,27/10/2021,2021,primavera,26,Ausencia,Ausencia,Ausencia,0.34,0.47,50,<0.001
+33,Boca Cerrada (Res.Nat. Punta Lara),EN-adic,27/10/2021,2021,primavera,no se midió,Ausencia,Ausencia,Ausencia,0.07,0.43,31,<0.001
+34,Camping Eva Perón,EN081,27/10/2021,2021,primavera,22.7,Ausencia,Ausencia,Ausencia,0.14,0.33,45,<0.001
+35,Toma de agua Club de Pesca,EN082,27/10/2021,2021,primavera,24.7,Ausencia,Ausencia,Ausencia,0.61,0.21,14,<0.001
+36,Arroyo El Gato,EN083,27/10/2021,2021,primavera,22.4,Ausencia,Ausencia,Ausencia,4.1,0.28,15,<0.001
+37,Ensenada Prefectura Isla Santiago,EN084,27/10/2021,2021,primavera,22,Ausencia,Ausencia,Ausencia,0.74,0.22,25,<0.001
+38,Balneario Palo Blanco,BS092,27/10/2021,2021,primavera,10,Ausencia,Ausencia,Presencia,3.1,1.1,14,<0.001
+39,Diagonal 66 (descarga cloaca),BS095,27/10/2021,2021,primavera,10,Presencia,Presencia,Presencia,14,1.6,7,<0.001
+40,Playa La Bagliardi,BS091,27/10/2021,2021,primavera,11,Ausencia,Ausencia,Presencia,0.9,1.1,4.9,<0.001
+41,Balneario Municipal,BS094,27/10/2021,2021,primavera,11,Ausencia,Ausencia,Ausencia,0.41,0.31,70,<0.001
+42,Playa La Balandra,BS093,27/10/2021,2021,primavera,11,Ausencia,Ausencia,Presencia,0.11,<0.20,50,<0.001
+1,Canal Villanueva y Río Luján,TI001,19/2/2020,2020,verano,26.6,Ausencia,Ausencia,Ausencia,<0.05,0.15,110,<0.002
+2,Río Lujan y Arroyo Caraguatá,TI006,19/2/2020,2020,verano,26,Ausencia,Ausencia,Ausencia,0.73,0.16,70,<0.002
+3,Canal Aliviador y Río Lujan,TI002,19/2/2020,2020,verano,26,Ausencia,Ausencia,Ausencia,1.4,0.17,55,<0.002
+4,Río Carapachay y Arroyo Gallo Fiambre,TI003,19/2/2020,2020,verano,25.5,Ausencia,Ausencia,Ausencia,0.56,0.25,60,<0.002
+5,Río Reconquista y Río Lujan,TI004,19/2/2020,2020,verano,25.7,Ausencia,Ausencia,Ausencia,1.72,0.12,50,<0.002
+6,Rio Tigre 100m antes del Rio Luján,TI005,19/2/2020,2020,verano,26.1,Ausencia,Ausencia,Ausencia,1.87,0.42,38,<0.002
+7,Río Lujan y Canal San Fernando,TI007,19/2/2020,2020,verano,26.8,Ausencia,Ausencia,Ausencia,1.98,0.35,41,<0.002
+8,Río Capitán y Río San Antonio,TI008,19/2/2020,2020,verano,26.9,Ausencia,Ausencia,Ausencia,0.18,0.2,125,<0.002
+9,Arroyo Abra Vieja y Santa Rosa,TI009,19/2/2020,2020,verano,26.3,Ausencia,Ausencia,Ausencia,0.13,0.17,100,<0.002
+10,Del Arca,SF015,19/2/2020,2020,verano,27.2,Ausencia,Ausencia,Presencia,2.25,0.25,60,<0.002
+11,Espigón La Farola,SI021,19/2/2020,2020,verano,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+12,Reserva Ecológica,SI022,19/2/2020,2020,verano,27,Ausencia,Ausencia,Ausencia,0.77,0.34,65,<0.002
+13,Playa Espigón de Pacheco,SI024,19/2/2020,2020,verano,27.5,Ausencia,Ausencia,Ausencia,0.71,0.51,53,<0.002
+14,Perú Puente,SI023,19/2/2020,2020,verano,25,Ausencia,Ausencia,Presencia,3.49,0.21,5.5,<0.002
+15,Reserva Barrio El Ceibo ,VL033,19/2/2020,2020,verano,25.5,Ausencia,Ausencia,Ausencia,0.75,0.06,52,<0.002
+16,Puerto de Olivos Espigón,VL032,19/2/2020,2020,verano,25.4,Ausencia,Ausencia,Ausencia,0.73,0.12,43,<0.002
+17,Costa y Melo,VL031,19/2/2020,2020,verano,26.9,Ausencia,Ausencia,Ausencia,1.12,0.31,61,<0.002
+18,Parque de los Niños,CA041,12/2/2020,2020,verano,25.6,no se midió,no se midió,no se midió,0.3,0.16,81,<0.002
+19,Costanera Norte - Espigón Abanico,CA044,12/2/2020,2020,verano,25.2,no se midió,no se midió,no se midió,0.8,0.18,72,<0.002
+20,Club de Pescadores,CA046,12/2/2020,2020,verano,25.1,no se midió,no se midió,no se midió,0.5,0.22,150,<0.002
+21,Reserva Ecológica Costanera Sur - Playita,CA047,12/2/2020,2020,verano,25.4,no se midió,no se midió,no se midió,<0.1,0.18,103,<0.002
+22,Escollera de Propaneros,AV054,19/2/2020,2020,verano,27.2,Ausencia,Ausencia,Ausencia,0.42,0.25,68,<0.002
+23,Polo Petroquímico Dock Sud,AV051,19/2/2020,2020,verano,27.1,Ausencia,Ausencia,Ausencia,0.62,0.1,85,<0.002
+24,Arroyo Sarandí,AV052,19/2/2020,2020,verano,27.4,Ausencia,Ausencia,Ausencia,0.15,0.16,46,<0.002
+25,Costa de Villa Domínico     ,AV055,19/2/2020,2020,verano,27.3,Ausencia,Ausencia,Ausencia,0.2,0.31,36,<0.002
+26,Arroyo Santo Domingo,AV053,19/2/2020,2020,verano,27,Ausencia,Ausencia,Ausencia,0.09,0.12,40,<0.002
+27,Espora 400 m,QU061,19/2/2020,2020,verano,18.7,Ausencia,Ausencia,Ausencia,0.15,0.16,110,<0.002
+28,Náutico 400 m,QU062,19/2/2020,2020,verano,19,Ausencia,Ausencia,Ausencia,<0.05,0.16,100,<0.002
+29,Pejerrey Club 400 m,QU063,19/2/2020,2020,verano,21,Ausencia,Ausencia,Presencia,0.17,0.13,70,<0.002
+30,Calle 14 y Costa - Salida cloaca,BZ078,19/2/2020,2020,verano,27,Ausencia,Ausencia,Ausencia,0.4,0.2,20,<0.002
+31,Puerto Trinidad calle 47,BZ077,19/2/2020,2020,verano,27.5,Ausencia,Ausencia,Ausencia,0.66,0.06,31,<0.002
+32,Costanera Hudson Calle 63,BZ080,19/2/2020,2020,verano,27.3,Ausencia,Ausencia,Ausencia,0.26,0.67,36,<0.002
+33,Camping Eva Perón,EN081,19/2/2020,2020,verano,25.5,Ausencia,Ausencia,Ausencia,0.16,0.24,70,<0.002
+34,Toma de agua Club de Pesca,EN082,19/2/2020,2020,verano,25.9,Ausencia,Ausencia,Ausencia,0.05,0.24,58,<0.002
+35,Arroyo El Gato,EN083,19/2/2020,2020,verano,24.4,Ausencia,Ausencia,Presencia,3.35,0.09,18,<0.002
+36,Ensenada Prefectura Isla Santiago,EN084,19/2/2020,2020,verano,26.3,Ausencia,Ausencia,Ausencia,0.18,0.28,43,<0.002
+37,Balneario Palo Blanco,BS092,19/2/2020,2020,verano,no se midió,Ausencia,Ausencia,Ausencia,<0.05,0.28,10,<0.002
+38,Diagonal 66 (descarga cloaca),BS095,19/2/2020,2020,verano,no se midió,Presencia,Presencia,Presencia,8.8,0.13,5.5,<0.002
+39,Playa La Bagliardi,BS091,19/2/2020,2020,verano,no se midió,Ausencia,Ausencia,Ausencia,0.3,0.13,35,<0.002
+40,Balneario Municipal,BS094,19/2/2020,2020,verano,no se midió,Ausencia,Ausencia,Presencia,0.33,0.24,200,<0.002
+41,Playa La Balandra,BS093,23/2/2020,2020,verano,no se midió,Ausencia,Ausencia,Ausencia,<0.05,0.24,85,<0.002
+1,Canal Villanueva y Río Luján,TI001,4/11/2020,2020,primavera,22.3,Ausencia,Ausencia,Ausencia,<0.05,0.64,80,<0.002
+2,Río Lujan y Arroyo Caraguatá,TI006,4/11/2020,2020,primavera,22.3,Ausencia,Ausencia,Presencia,5.2,1.1,65,<0.002
+3,Canal Aliviador y Río Lujan,TI002,4/11/2020,2020,primavera,22.3,Ausencia,Ausencia,Ausencia,5.7,1,75,<0.002
+4,Río Carapachay y Arroyo Gallo Fiambre,TI003,4/11/2020,2020,primavera,22.1,Ausencia,Ausencia,Ausencia,3.2,0.84,80,<0.002
+5,Río Reconquista y Río Lujan,TI004,4/11/2020,2020,primavera,20.8,Ausencia,Ausencia,Ausencia,4.5,0.84,65,<0.002
+6,Rio Tigre 100m antes del Rio Luján,TI005,4/11/2020,2020,primavera,22.2,Ausencia,Ausencia,Ausencia,4.5,0.84,65,<0.002
+7,Río Lujan y Canal San Fernando,TI007,4/11/2020,2020,primavera,21.8,Ausencia,Ausencia,Ausencia,4.13,0.77,55,<0.002
+8,Río Capitán y Río San Antonio,TI008,4/11/2020,2020,primavera,22.6,Ausencia,Ausencia,Ausencia,0.14,0.45,85,<0.002
+9,Arroyo Abra Vieja y Santa Rosa,TI009,4/11/2020,2020,primavera,21.6,Ausencia,Ausencia,Ausencia,0.19,0.45,>100,<0.002
+10,Del Arca,SF015,4/11/2020,2020,primavera,no se midió,Ausencia,Ausencia,Ausencia,2.3,0.77,80,<0.002
+11,Espigón La Farola,SI021,4/11/2020,2020,primavera,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+12,Reserva Ecológica,SI022,4/11/2020,2020,primavera,20,Ausencia,Ausencia,Ausencia,0.88,0.58,95,<0.002
+13,Playa Espigón de Pacheco,SI024,4/11/2020,2020,primavera,20,Ausencia,Ausencia,Ausencia,0.24,0.71,>100,<0.002
+14,Perú Puente,SI023,4/11/2020,2020,primavera,20,Ausencia,Ausencia,Presencia,7.8,1,15,<0.002
+15,Reserva Barrio El Ceibo ,VL033,4/11/2020,2020,primavera,20.4,Ausencia,Ausencia,Ausencia,0.9,0.64,92,<0.002
+16,Puerto de Olivos Espigón,VL032,4/11/2020,2020,primavera,19.8,Ausencia,Ausencia,Ausencia,0.65,0.58,95,<0.002
+17,Costa y Melo,VL031,4/11/2020,2020,primavera,19.4,Ausencia,Ausencia,Presencia,1.2,0.64,>100,<0.002
+18,Parque de los Niños,CA041,4/11/2020,2020,primavera,22.4,Ausencia,Ausencia,Ausencia,0.5,0.77,73,<0.002
+19,Costanera Norte - Espigón Abanico,CA044,4/11/2020,2020,primavera,20.4,Ausencia,Ausencia,Ausencia,0.8,0.51,95,<0.002
+20,Club de Pescadores,CA046,4/11/2020,2020,primavera,21.5,Ausencia,Ausencia,Ausencia,0.73,0.71,112,<0.002
+21,Reserva Ecológica Costanera Sur - Playita,CA047,4/11/2020,2020,primavera,20.5,Ausencia,Ausencia,Ausencia,0.3,0.77,68,<0.002
+22,Escollera de Propaneros,AV054,4/11/2020,2020,primavera,21.8,no se midió,no se midió,no se midió,1.8,2.2,55,<0.002
+23,Polo Petroquímico Dock Sud,AV051,4/11/2020,2020,primavera,21.8,Ausencia,Ausencia,Ausencia,2.5,0.77,70,<0.002
+24,Arroyo Sarandí,AV052,4/11/2020,2020,primavera,19.4,no se midió,no se midió,no se midió,0.76,0.45,>100,<0.002
+25,Costa de Villa Domínico     ,AV055,4/11/2020,2020,primavera,20.1,Ausencia,Ausencia,Ausencia,0.72,0.64,>100,<0.002
+26,Arroyo Santo Domingo,AV053,4/11/2020,2020,primavera,19.9,no se midió,no se midió,no se midió,0.75,0.64,>100,<0.002
+27,Espora 400 m,QU061,no salieron,2020,primavera,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+28,Náutico 400 m,QU062,no salieron,2020,primavera,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+29,Pejerrey Club 400 m,QU063,no salieron,2020,primavera,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+30,Calle 14 y Costa - Salida cloaca,BZ078,4/11/2020,2020,primavera,22,Ausencia,Ausencia,Ausencia,0.87,1.05,68,<0.002
+31,Puerto Trinidad calle 47,BZ077,4/11/2020,2020,primavera,20,Ausencia,Ausencia,Ausencia,0.23,0.84,>100,<0.002
+32,Costanera Hudson Calle 63,BZ080,4/11/2020,2020,primavera,18,Ausencia,Ausencia,Ausencia,0.05,0.71,>100,<0.002
+33,Camping Eva Perón,EN081,4/11/2020,2020,primavera,19.7,Ausencia,Ausencia,Ausencia,0.81,0.71,>100,<0.002
+34,Toma de agua Club de Pesca,EN082,4/11/2020,2020,primavera,18.5,Ausencia,Ausencia,Presencia,0.47,0.38,>100,<0.002
+35,Arroyo El Gato,EN083,4/11/2020,2020,primavera,21.2,Ausencia,Ausencia,Ausencia,11.4,0.7,35,<0.002
+36,Ensenada Prefectura Isla Santiago,EN084,4/11/2020,2020,primavera,19.6,Ausencia,Ausencia,Ausencia,0.29,0.58,>100,<0.002
+37,Balneario Palo Blanco,BS092,4/11/2020,2020,primavera,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+38,Diagonal 66 (descarga cloaca),BS095,4/11/2020,2020,primavera,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+39,Playa La Bagliardi,BS091,4/11/2020,2020,primavera,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+40,Balneario Municipal,BS094,4/11/2020,2020,primavera,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+41,Playa La Balandra,BS093,4/11/2020,2020,primavera,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+1,Canal Villanueva y Río Luján,TI001,6/2/2019,2019,verano,26.7,ausencia,ausencia,ausencia,<0.05,0.62,56,<0.002
+2,Río Lujan y Arroyo Caraguatá,TI006,6/2/2019,2019,verano,26,ausencia,ausencia,ausencia,0.16,0.43,42,<0.002
+3,Canal Aliviador y Río Lujan,TI002,6/2/2019,2019,verano,26.5,ausencia,ausencia,ausencia,0.59,0.39,49,<0.002
+4,Río Carapachay y Arroyo Gallo Fiambre,TI003,6/2/2019,2019,verano,26.3,ausencia,ausencia,ausencia,0.1,0.19,51,<0.002
+5,Río Reconquista y Río Lujan,TI004,6/2/2019,2019,verano,26.5,presencia,ausencia,ausencia,0.62,0.37,50,<0.002
+6,Rio Tigre 100m antes del Rio Luján,TI005,6/2/2019,2019,verano,27,ausencia,ausencia,ausencia,0.25,0.5,51,<0.002
+7,Río Lujan y Canal San Fernando,TI007,6/2/2019,2019,verano,26.9,ausencia,ausencia,ausencia,1.87,0.29,44,<0.002
+8,Río Capitán y Río San Antonio,TI008,6/2/2019,2019,verano,27.5,ausencia,ausencia,presencia,<0.05,2.34,71,<0.002
+9,Arroyo Abra Vieja y Santa Rosa,TI009,6/2/2019,2019,verano,26,ausencia,ausencia,ausencia,<0.05,0.37,60,<0.002
+10,Del Arca,SF015,6/2/2019,2019,verano,26.3,ausencia,presencia,presencia,0.57,0.68,54,<0.002
+11,Espigón La Farola,SI021,6/2/2019,2019,verano,28,ausencia,ausencia,ausencia,0.43,0.25,50,<0.002
+12,Reserva Ecológica,SI022,6/2/2019,2019,verano,28.8,ausencia,ausencia,ausencia,0.17,0.62,64,<0.002
+13,Playa Espigón de Pacheco,SI024,6/2/2019,2019,verano,28.4,ausencia,ausencia,ausencia,0.7,1.42,41,<0.002
+14,Perú Puente,SI023,6/2/2019,2019,verano,25.2,presencia,presencia,presencia,7.46,0.94,8,<0.002
+15,Reserva Barrio El Ceibo ,VL033,6/2/2019,2019,verano,26.6,ausencia,ausencia,presencia,0.38,0.43,42,<0.002
+16,Puerto de Olivos Espigón,VL032,6/2/2019,2019,verano,25.9,ausencia,ausencia,ausencia,0.34,0.19,49,<0.002
+17,Costa y Melo,VL031,6/2/2019,2019,verano,25.5,ausencia,ausencia,presencia,0.16,1.29,50,<0.002
+18,Parque de los Niños,CA041,6/2/2019,2019,verano,27.4,no se midió,no se midió,no se midió,0.25,0.23,49,<0.002
+19,Costanera Norte - Espigón Abanico,CA044,6/2/2019,2019,verano,26.2,no se midió,no se midió,no se midió,2.31,0.26,38,<0.002
+20,Club de Pescadores,CA046,6/2/2019,2019,verano,27.3,no se midió,no se midió,no se midió,2.44,0.29,163,<0.002
+21,Reserva Ecológica Costanera Sur - Playita,CA047,6/2/2019,2019,verano,25.9,no se midió,no se midió,no se midió,0.25,0.16,61,<0.002
+22,Escollera de Propaneros,AV054,6/2/2019,2019,verano,26.7,ausencia,ausencia,ausencia,0.35,0.43,55,<0.002
+23,Polo Petroquímico Dock Sud,AV051,6/2/2019,2019,verano,26.4,ausencia,ausencia,ausencia,0.66,0.25,58,<0.002
+24,Arroyo Sarandí,AV052,6/2/2019,2019,verano,26.9,ausencia,ausencia,ausencia,0.66,0.74,34,<0.002
+25,Costa de Villa Domínico     ,AV055,6/2/2019,2019,verano,26.7,ausencia,ausencia,ausencia,0.79,0.25,54,<0.002
+26,Arroyo Santo Domingo,AV053,6/2/2019,2019,verano,27,ausencia,ausencia,ausencia,0.93,0.99,39,<0.002
+27,Espora 400 m,QU061,6/2/2019,2019,verano,24,ausencia,ausencia,presencia,0.33,0.68,61,<0.002
+28,Náutico 400 m,QU062,6/2/2019,2019,verano,24,ausencia,ausencia,presencia,0.37,0.42,79,<0.002
+29,Pejerrey Club 400 m,QU063,6/2/2019,2019,verano,25,ausencia,ausencia,presencia,0.37,0.19,66,<0.002
+30,Calle 14 y Costa - Salida cloaca,BZ078,13/2/2019,2019,verano,25,presencia,ausencia,presencia,0.61,0.42,35,<0.002
+31,Puerto Trinidad calle 47,BZ077,13/2/2019,2019,verano,22.1,ausencia,ausencia,ausencia,0.05,0.99,33,<0.002
+32,Costanera Hudson Calle 63,BZ080,13/2/2019,2019,verano,22,ausencia,ausencia,ausencia,<0.05,1.42,31,<0.002
+33,Camping Eva Perón,EN081,6/2/2019,2019,verano,25.2,ausencia,ausencia,ausencia,0.23,0.56,41,<0.002
+34,Toma de agua Club de Pesca,EN082,6/2/2019,2019,verano,25.7,ausencia,ausencia,ausencia,0.08,0.18,90,<0.002
+35,Arroyo El Gato,EN083,6/2/2019,2019,verano,25.5,ausencia,ausencia,ausencia,4.95,1.17,41,<0.002
+36,Ensenada Prefectura Isla Santiago,EN084,6/2/2019,2019,verano,25.9,ausencia,ausencia,ausencia,0.05,0.25,39,<0.002
+37,Balneario Palo Blanco,BS092,6/2/2019,2019,verano,20,ausencia,presencia,ausencia,2.41,0.19,25,<0.002
+38,Diagonal 66 (descarga cloaca),BS095,6/2/2019,2019,verano,18,presencia,presencia,presencia,10.1,0.62,8,<0.002
+39,Playa La Bagliardi,BS091,6/2/2019,2019,verano,20,ausencia,presencia,ausencia,0.47,0.99,46,<0.002
+40,Balneario Municipal,BS094,6/2/2019,2019,verano,20,ausencia,ausencia,ausencia,0.28,1.66,86,<0.002
+41,Playa La Balandra,BS093,6/2/2019,2019,verano,20,ausencia,ausencia,ausencia,0.09,0.25,36,<0.002
+1,Canal Villanueva y Río Luján,TI001,28/5/2019,2019,otoño,16,Ausencia,Ausencia,Presencia,0.07,1.3,74,<0.002
+2,Río Lujan y Arroyo Caraguatá,TI006,28/5/2019,2019,otoño,16.4,Ausencia,Ausencia,Ausencia,0.17,1.8,69,<0.002
+3,Canal Aliviador y Río Lujan,TI002,28/5/2019,2019,otoño,16,Ausencia,Ausencia,Presencia,2.62,0.52,45,<0.002
+4,Río Carapachay y Arroyo Gallo Fiambre,TI003,28/5/2019,2019,otoño,16.8,Ausencia,Ausencia,Ausencia,0.25,0.49,74,<0.002
+5,Río Reconquista y Río Lujan,TI004,28/5/2019,2019,otoño,16.8,Ausencia,Ausencia,Presencia,0.73,1.37,66,<0.002
+6,Rio Tigre 100m antes del Rio Luján,TI005,28/5/2019,2019,otoño,16.5,Ausencia,Ausencia,Presencia,9.5,0.8,29,<0.002
+7,Río Lujan y Canal San Fernando,TI007,28/5/2019,2019,otoño,16.5,Ausencia,Ausencia,Presencia,1,0.26,62,<0.002
+8,Río Capitán y Río San Antonio,TI008,28/5/2019,2019,otoño,17.8,Ausencia,Ausencia,Ausencia,<0.05,0.7,89,<0.002
+9,Arroyo Abra Vieja y Santa Rosa,TI009,28/5/2019,2019,otoño,16.5,Ausencia,Ausencia,Ausencia,<0.05,0.59,90,<0.002
+10,Del Arca,SF015,28/5/2019,2019,otoño,14,Ausencia,Ausencia,Vegetacion,2.3,0.39,51,<0.002
+11,Espigón La Farola,SI021,28/5/2019,2019,otoño,dragando por obras de remodelación en el Puerto de SI,dragando por obras de remodelación en el Puerto de SI,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+12,Reserva Ecológica,SI022,28/5/2019,2019,otoño,17.5,Ausencia,Ausencia,Ausencia,0.65,0.62,60,<0.002
+13,Playa Espigón de Pacheco,SI024,28/5/2019,2019,otoño,16,Ausencia,Ausencia,Ausencia,0.35,0.6,82,<0.002
+14,Perú Puente,SI023,28/5/2019,2019,otoño,19.7,Ausencia,Ausencia,Ausencia,1.19,0.6,5.5,<0.002
+15,Reserva Barrio El Ceibo ,VL033,15/5/2019,2019,otoño,17.7,Ausencia,Ausencia,Ausencia,1.28,0.25,83,<0.002
+16,Puerto de Olivos Espigón,VL032,15/5/2019,2019,otoño,16.8,Ausencia,Ausencia,Ausencia,0.6,0.13,90,<0.002
+17,Costa y Melo,VL031,15/5/2019,2019,otoño,16.2,Ausencia,Ausencia,Presencia,0.05,0.34,10,<0.002
+18,Parque de los Niños,CA041,15/5/2019,2019,otoño,16.3,no se midió,no se midió,no se midió,1.54,0.28,132,<0.002
+19,Costanera Norte - Espigón Abanico,CA044,15/5/2019,2019,otoño,16.7,no se midió,no se midió,no se midió,2.19,0.3,120,<0.002
+20,Club de Pescadores,CA046,15/5/2019,2019,otoño,20.1,no se midió,no se midió,no se midió,1.41,0.26,153,<0.002
+21,Reserva Ecológica Costanera Sur - Playita,CA047,15/5/2019,2019,otoño,17.1,no se midió,no se midió,no se midió,0.6,0.21,10,<0.002
+22,Escollera de Propaneros,AV054,15/5/2019,2019,otoño,18.2,Ausente,Ausente,Ausente,1.44,0.55,85,<0.002
+23,Polo Petroquímico Dock Sud,AV051,15/5/2019,2019,otoño,17.6,Ausente,Ausente,Ausente,1.21,0.75,94,<0.002
+24,Arroyo Sarandí,AV052,15/5/2019,2019,otoño,18.5,Ausente,Ausente,Ausente,1.54,0.98,67,<0.002
+25,Costa de Villa Domínico     ,AV055,15/5/2019,2019,otoño,17.7,Ausente,Ausente,Ausente,1.93,0.73,51,<0.002
+26,Arroyo Santo Domingo,AV053,15/5/2019,2019,otoño,17.6,Ausente,Ausente,Ausente,2.34,0.96,44,<0.002
+27,Espora 400 m,QU061,15/5/2019,2019,otoño,14,Ausente,Ausente,2 cayalotes,2.21,0.63,53,<0.002
+28,Náutico 400 m,QU062,15/5/2019,2019,otoño,15,Ausente,Ausente,Ausente,1,0.75,84,<0.002
+29,Pejerrey Club 400 m,QU063,15/5/2019,2019,otoño,15,Ausente,Ausente,Presencia,0.78,0.4,99,<0.002
+30,Calle 14 y Costa - Salida cloaca,BZ078,15/5/2019,2019,otoño,16.9,Presencia,Ausencia,Ausencia,0.76,0.59,85,<0.002
+31,Puerto Trinidad calle 47,BZ077,15/5/2019,2019,otoño,16.4,Ausencia,Ausencia,Ausencia,0.43,0.65,45,<0.002
+32,Costanera Hudson Calle 63,BZ080,15/5/2019,2019,otoño,14.2,Ausencia,Ausencia,Ausencia,0.1,0.55,67,<0.002
+33,Camping Eva Perón,EN081,15/5/2019,2019,otoño,16.7,Ausencia,Ausencia,Ausencia,0.22,0.41,100,<0.002
+34,Toma de agua Club de Pesca,EN082,15/5/2019,2019,otoño,16.7,Ausencia,Ausencia,Ausencia,<0.05,0.6,97,<0.002
+35,Arroyo El Gato,EN083,15/5/2019,2019,otoño,15.6,Ausencia,Ausencia,Ausencia,8.5,0.87,53,<0.002
+36,Ensenada Prefectura Isla Santiago,EN084,15/5/2019,2019,otoño,16.3,Ausencia,Ausencia,Ausencia,0.2,0.17,56,<0.002
+37,Balneario Palo Blanco,BS092,15/5/2019,2019,otoño,10,Ausencia,Ausencia,Ausencia,2.6,0.57,31,<0.002
+38,Diagonal 66 (descarga cloaca),BS095,15/5/2019,2019,otoño,10,Presencia,Presencia,Ausencia,4.17,0.7,65,<0.002
+39,Playa La Bagliardi,BS091,15/5/2019,2019,otoño,10,Ausencia,Ausencia,Ausencia,0.97,0.5,87,<0.002
+40,Balneario Municipal,BS094,15/5/2019,2019,otoño,10,Ausencia,Ausencia,Presencia,0.17,0.4,96,<0.002
+41,Playa La Balandra,BS093,15/5/2019,2019,otoño,10,Ausencia,Ausencia,Ausencia,0.21,0.99,41,<0.002
+1,Canal Villanueva y Río Luján,TI001,7/8/2019,2019,invierno,14.1,Ausencia,Ausencia,Ausencia,0.14,0.12,96,<0.002
+2,Río Lujan y Arroyo Caraguatá,TI006,7/8/2019,2019,invierno,14.1,Ausencia,Ausencia,Ausencia,0.1,0.87,99,<0.002
+3,Canal Aliviador y Río Lujan,TI002,7/8/2019,2019,invierno,14,Ausencia,Ausencia,Ausencia,0.42,1.65,91,<0.002
+4,Río Carapachay y Arroyo Gallo Fiambre,TI003,7/8/2019,2019,invierno,13.9,Ausencia,Ausencia,Ausencia,0.51,1.12,96,<0.002
+5,Río Reconquista y Río Lujan,TI004,7/8/2019,2019,invierno,13.9,Ausencia,Ausencia,Ausencia,0.83,0.81,87,<0.002
+6,Rio Tigre 100m antes del Rio Luján,TI005,7/8/2019,2019,invierno,14.1,Ausencia,Ausencia,Ausencia,1.44,0.32,81,<0.002
+7,Río Lujan y Canal San Fernando,TI007,7/8/2019,2019,invierno,14.1,Ausencia,Ausencia,Ausencia,0.66,0.24,92,<0.002
+8,Río Capitán y Río San Antonio,TI008,7/8/2019,2019,invierno,14.3,Ausencia,Ausencia,Ausencia,0.09,0.81,100,<0.002
+9,Arroyo Abra Vieja y Santa Rosa,TI009,7/8/2019,2019,invierno,14.3,Ausencia,Ausencia,Ausencia,<0.05,0.12,98,<0.002
+10,Del Arca,SF015,7/8/2019,2019,invierno,14.2,Ausencia,Ausencia,presencia,0.74,0.56,79,<0.002
+11,Espigón La Farola,SI021,no se midió,2019,invierno,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+12,Reserva Ecológica,SI022,7/8/2019,2019,invierno,13.7,Ausencia,Ausencia,Ausencia,0.53,0.21,105,<0.002
+13,Playa Espigón de Pacheco,SI024,7/8/2019,2019,invierno,13.9,Ausencia,Presencia,Ausencia,0.7,0,70,<0.002
+14,Perú Puente,SI023,7/8/2019,2019,invierno,16.6,Ausencia,Ausencia,presencia,0.87,0.26,34,<0.002
+15,Reserva Barrio El Ceibo ,VL033,7/8/2019,2019,invierno,13.3,ausencia,ausencia,ausencia,0.44,0.38,79,<0.002
+16,Puerto de Olivos Espigón,VL032,7/8/2019,2019,invierno,13.3,ausencia,ausencia,ausencia,0.78,0.32,81,<0.002
+17,Costa y Melo,VL031,7/8/2019,2019,invierno,13,ausencia,ausencia,presencia,1.12,0.37,70,<0.002
+18,Parque de los Niños,CA041,31/7/2019,2019,invierno,19.9,no se midió,no se midió,no se midió,3.21,-,-,<0.02
+19,Costanera Norte - Espigón Abanico,CA044,31/7/2019,2019,invierno,14.5,no se midió,no se midió,no se midió,1.93,-,-,<0.02
+20,Club de Pescadores,CA046,31/7/2019,2019,invierno,14.9,no se midió,no se midió,no se midió,1.41,-,-,<0.02
+21,Reserva Ecológica Costanera Sur - Playita,CA047,31/7/2019,2019,invierno,14.2,no se midió,no se midió,no se midió,3.21,-,-,<0.02
+22,Escollera de Propaneros,AV054,7/8/2019,2019,invierno,13.73,Ausencia,Ausencia,Ausencia,0.75,0.21,86,<0.002
+23,Polo Petroquímico Dock Sud,AV051,7/8/2019,2019,invierno,13.17,Ausencia,Ausencia,Ausencia,0.53,0.11,94,<0.002
+24,Arroyo Sarandí,AV052,7/8/2019,2019,invierno,13.67,Ausencia,Ausencia,Ausencia,0.83,0.5,56,<0.002
+25,Costa de Villa Domínico     ,AV055,7/8/2019,2019,invierno,13.44,Ausencia,Ausencia,Ausencia,0.75,0.56,71,<0.002
+26,Arroyo Santo Domingo,AV053,7/8/2019,2019,invierno,13.04,Ausencia,Ausencia,Ausencia,0.91,0.59,85,<0.002
+27,Espora 400 m,QU061,no se midió,2019,invierno,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+28,Náutico 400 m,QU062,no se midió,2019,invierno,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+29,Pejerrey Club 400 m,QU063,7/8/2019,2019,invierno,-,Ausencia,Ausencia,Ausencia,0.91,0.42,81,<0.002
+30,Calle 14 y Costa - Salida cloaca,BZ078,7/8/2109,2019,invierno,11.6,Ausencia,Ausencia,Presencia,2.46,0.24,62,<0.002
+31,Puerto Trinidad calle 47,BZ077,7/8/2109,2019,invierno,12.9,Ausencia,Ausencia,Presencia,2.32,0.13,36,<0.002
+32,Costanera Hudson Calle 63,BZ080,7/8/2109,2019,invierno,11.3,Ausencia,Ausencia,Presencia,1.63,0.36,79,<0.002
+33,Camping Eva Perón,EN081,7/8/2019,2019,invierno,11.9,Ausencia,Ausencia,Ausencia,1.02,0.57,75,<0.002
+34,Toma de agua Club de Pesca,EN082,7/8/2019,2019,invierno,19.12,Ausencia,Ausencia,Ausencia,1.06,0.53,46,<0.002
+35,Arroyo El Gato,EN083,7/8/2019,2019,invierno,13.1,Ausencia,Ausencia,Ausencia,4.51,0.12,67,<0.002
+36,Ensenada Prefectura Isla Santiago,EN084,7/8/2019,2019,invierno,12.4,Ausencia,Ausencia,Ausencia,0.9,0.25,46,<0.002
+37,Balneario Palo Blanco,BS092,15/5/2019,2019,invierno,9,Ausencia,Ausencia,Presencia,1.93,1.35,22,<0.002
+38,Diagonal 66 (descarga cloaca),BS095,15/5/2019,2019,invierno,8,Presencia,Presencia,Presencia,4.47,0.34,24,<0.002
+39,Playa La Bagliardi,BS091,15/5/2019,2019,invierno,7,Ausencia,ausencia,Presencia,0.4,0.48,31,<0.002
+40,Balneario Municipal,BS094,15/5/2019,2019,invierno,7,Ausencia,Ausencia,Presencia,0.12,0.18,73,<0.002
+41,Playa La Balandra,BS093,15/5/2019,2019,invierno,7,Ausencia,Ausencia,Presencia,0.81,0.18,60,<0.002
+1,Canal Villanueva y Río Luján,TI001, 29/10/2019,2019,primavera,21.2,Ausencia,Ausencia,Ausencia,0.049,0.48,89,<0.002
+2,Río Lujan y Arroyo Caraguatá,TI006, 29/10/2019,2019,primavera,21.7,Ausencia,Ausencia,Ausencia,2.17,1.18,40,<0.002
+3,Canal Aliviador y Río Lujan,TI002, 29/10/2019,2019,primavera,21.6,Ausencia,Ausencia,Ausencia,1.94,0.56,42,<0.002
+4,Río Carapachay y Arroyo Gallo Fiambre,TI003, 29/10/2019,2019,primavera,21.4,Ausencia,Ausencia,Ausencia,1.35,0.48,49,<0.002
+5,Río Reconquista y Río Lujan,TI004, 29/10/2019,2019,primavera,21.3,Ausencia,Ausencia,Ausencia,1.51,0.62,58,<0.002
+6,Rio Tigre 100m antes del Rio Luján,TI005, 29/10/2019,2019,primavera,21.7,Ausencia,Ausencia,Ausencia,2,0.6,56,<0.002
+7,Río Lujan y Canal San Fernando,TI007, 29/10/2019,2019,primavera,21.4,Ausencia,Ausencia,Ausencia,2.93,0.8,35,<0.002
+8,Río Capitán y Río San Antonio,TI008, 29/10/2019,2019,primavera,21.6,Ausencia,Ausencia,Ausencia,0.049,0.58,82,<0.002
+9,Arroyo Abra Vieja y Santa Rosa,TI009, 29/10/2019,2019,primavera,21.5,Ausencia,Ausencia,Ausencia,0.049,0.83,69,<0.002
+10,Del Arca,SF015, 29/10/2019,2019,primavera,20.5,Ausencia,Ausencia,Presencia,0.9,1.7,62,<0.002
+11,Espigón La Farola,SI021, 29/10/2019,2019,primavera,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+12,Reserva Ecológica,SI022, 29/10/2019,2019,primavera,21.6,Ausencia,Ausencia,Ausencia,1.24,0.77,76,<0.002
+13,Playa Espigón de Pacheco,SI024, 29/10/2019,2019,primavera,21.6,Ausencia,Ausencia,Ausencia,0.7,0.4,60,<0.002
+14,Perú Puente,SI023, 29/10/2019,2019,primavera,21.4,Ausencia,Presencia,Ausencia,3.28,0.29,22,<0.002
+15,Reserva Barrio El Ceibo ,VL033,30/10/2019,2019,primavera,20.8,Ausencia,Ausencia,Ausencia,0.47,0.32,53,<0.002
+16,Puerto de Olivos Espigón,VL032,30/10/2019,2019,primavera,20.1,Ausencia,Ausencia,Ausencia,0.3,0.5,52,<0.002
+17,Costa y Melo,VL031,30/10/2019,2019,primavera,20.5,Ausencia,Ausencia,Ausencia,0.14,1.18,85,<0.002
+18,Parque de los Niños,CA041,30/10/2019,2019,primavera,20.5,no se midió,no se midió,no se midió,0.72,0.312,57,<0.002
+19,Costanera Norte - Espigón Abanico,CA044,30/10/2019,2019,primavera,21.3,no se midió,no se midió,no se midió,0.95,0.175,83,<0.002
+20,Club de Pescadores,CA046,30/10/2019,2019,primavera,21.4,no se midió,no se midió,no se midió,2.54,0.197,63,<0.002
+21,Reserva Ecológica Costanera Sur - Playita,CA047,30/10/2019,2019,primavera,20.5,no se midió,no se midió,no se midió,0.99,0.263,86,<0.002
+22,Escollera de Propaneros,AV054,6/11/2019,2019,primavera,22.9,Ausencia,Ausencia,Ausencia,1.2,0.5,70,<0.002
+23,Polo Petroquímico Dock Sud,AV051,6/11/2019,2019,primavera,22.8,Ausencia,Ausencia,Ausencia,1.6,0.37,46,<0.002
+24,Arroyo Sarandí,AV052,6/11/2019,2019,primavera,22.9,Ausencia,Ausencia,Ausencia,1.2,0.5,60,<0.002
+25,Costa de Villa Domínico     ,AV055,6/11/2019,2019,primavera,26.7,Ausencia,Ausencia,Ausencia,1.3,0.36,44,<0.002
+26,Arroyo Santo Domingo,AV053,6/11/2019,2019,primavera,24.3,Ausencia,Ausencia,Ausencia,2.4,0.54,61,<0.002
+27,Espora 400 m,QU061,30/10/2019,2019,primavera,no se midió,no se midió,no se midió,no se midió,0.65,0.6,84,<0.002
+28,Náutico 400 m,QU062,30/10/2019,2019,primavera,no se midió,no se midió,no se midió,no se midió,0.41,0.42,67,<0.002
+29,Pejerrey Club 400 m,QU063,30/10/2019,2019,primavera,no se midió,no se midió,no se midió,no se midió,1.17,0.33,54,<0.002
+30,Calle 14 y Costa - Salida cloaca,BZ078,30/10/2019,2019,primavera,22.5,Ausencia,Ausencia,Ausencia,0.88,0.83,101,<0.002
+31,Puerto Trinidad calle 47,BZ077,30/10/2019,2019,primavera,20.5,Ausencia,Ausencia,Ausencia,0.14,1.1,101,<0.002
+32,Costanera Hudson Calle 63,BZ080,30/10/2019,2019,primavera,19.2,Ausencia,Ausencia,Ausencia,0.049,0.66,91,<0.002
+33,Camping Eva Perón,EN081,30/10/2019,2019,primavera,19.2,Ausencia,Ausencia,Ausencia,0.36,1.05,78,<0.002
+34,Toma de agua Club de Pesca,EN082,30/10/2019,2019,primavera,19.6,Ausencia,Ausencia,Ausencia,0.35,0.42,76,<0.002
+35,Arroyo El Gato,EN083,30/10/2019,2019,primavera,19.6,Ausencia,Ausencia,Ausencia,4.3,0.38,24,<0.002
+36,Ensenada Prefectura Isla Santiago,EN084,30/10/2019,2019,primavera,19.9,Ausencia,Ausencia,Ausencia,0.35,0.25,55,<0.002
+37,Balneario Palo Blanco,BS092,30/10/2019,2019,primavera,12.4,Ausencia,Ausencia,Ausencia,4.05,0.6,6.5,<0.002
+38,Diagonal 66 (descarga cloaca),BS095,30/10/2019,2019,primavera,12,Presencia,Presencia,Presencia,5.5,0.68,8.9,<0.002
+39,Playa La Bagliardi,BS091,30/10/2019,2019,primavera,12.2,Ausencia,Ausencia,Ausencia,6.18,0.66,7.6,<0.002
+40,Balneario Municipal,BS094,30/10/2019,2019,primavera,13,Ausencia,Ausencia,Ausencia,3.77,0.5,8.1,<0.002
+41,Playa La Balandra,BS093,30/10/2019,2019,primavera,12.3,Ausencia,Ausencia,Ausencia,3.5,0.81,6.2,<0.002
+1,Canal Villanueva y Río Luján,TI001,21/3/2018,2018,verano,23,no se midió,no se midió,no se midió,0.05,0.5,501,0.005
+2,Río Lujan y Arroyo Caraguatá,TI006,21/3/2018,2018,verano,20.7,no se midió,no se midió,no se midió,0.05,0.5,397.5,0.005
+3,Canal Aliviador y Río Lujan,TI002,21/3/2018,2018,verano,23.1,no se midió,no se midió,no se midió,0.05,0.5,336,0.005
+4,Río Carapachay y Arroyo Gallo Fiambre,TI003,21/3/2018,2018,verano,23.7,no se midió,no se midió,no se midió,0.05,0.5,367.5,0.005
+5,Río Reconquista y Río Lujan,TI004,21/3/2018,2018,verano,21.1,no se midió,no se midió,no se midió,0.05,0.5,391.5,0.005
+6,Rio Tigre 100m antes del Rio Luján,TI005,21/3/2018,2018,verano,20.6,no se midió,no se midió,no se midió,0.05,0.5,262.5,0.005
+7,Río Lujan y Canal San Fernando,TI007,21/3/2018,2018,verano,20.8,no se midió,no se midió,no se midió,0.05,0.5,312,0.005
+8,Río Capitán y Río San Antonio,TI008,21/3/2018,2018,verano,20.5,no se midió,no se midió,no se midió,0.06,0.5,276,0.005
+9,Arroyo Abra Vieja y Santa Rosa,TI009,21/3/2018,2018,verano,20.6,no se midió,no se midió,no se midió,0.08,0.5,309,0.005
+10,Del Arca,SF015,21/3/2018,2018,verano,21.6,ausencia,ausencia,no se midió,no se midió,no se midió,no se midió,no se midió
+11,Espigón La Farola,SI021,21/3/2018,2018,verano,21,ausencia,no hay,no se midió,0.05,0.5,201,0.005
+12,Reserva Ecológica,SI022,21/3/2018,2018,verano,21.5,ausencia,no hay,no se midió,0.05,0.5,214.5,0.005
+13,Playa Espigón de Pacheco,SI024,21/3/2018,2018,verano,21,ausencia,no hay,no se midió,0.05,0.5,121.5,0.005
+14,Perú Puente,SI023,21/3/2018,2018,verano,22,ausencia,no hay,no se midió,0.05,0.5,43.5,0.005
+15,Reserva Barrio El Ceibo ,VL033,21/3/2018,2018,verano,20.8,ausencia,ausencia,ausencia,0.05,0.5,67.5,0.005
+16,Puerto de Olivos Espigón,VL032,21/3/2018,2018,verano,20.9,ausencia,presencia,no se midió,0.05,0.5,369,0.005
+17,Costa y Melo,VL031,21/3/2018,2018,verano,20.8,ausencia,solo por olas,no se midió,0.05,0.5,93,0.005
+18,Parque de los Niños,CA041,21/3/2018,2018,verano,20.6,no se midió,no se midió,no se midió,0.12,0.2,52.3,0.0019
+19,Costanera Norte - Espigón Abanico,CA044,21/3/2018,2018,verano,20.9,no se midió,no se midió,no se midió,0.12,0.2,53.3,0.0019
+20,Club de Pescadores,CA046,21/3/2018,2018,verano,20.9,no se midió,no se midió,no se midió,0.26,0.2,40,0.0019
+21,Reserva Ecológica Costanera Sur - Playita,CA047,21/3/2018,2018,verano,21.7,no se midió,no se midió,no se midió,0.12,0.3,53,0.0019
+22,Escollera de Propaneros,AV054,21/3/2018,2018,verano,25,no perceptible,ausencia,ausencia,0.21,0.5,232.5,0.005
+23,Polo Petroquímico Dock Sud,AV051,21/3/2018,2018,verano,24.5,no perceptible,ausencia,ausencia,0.08,0.5,289.5,0.005
+24,Arroyo Sarandí,AV052,21/3/2018,2018,verano,24.9,no perceptible,ausencia,ausencia,0.05,0.5,162,0.005
+25,Costa de Villa Domínico     ,AV055,21/3/2018,2018,verano,24.7,no perceptible,ausencia,ausencia,0.05,0.5,201,0.005
+26,Arroyo Santo Domingo,AV053,21/3/2018,2018,verano,24.8,no se midió,no se midió,no se midió,0.05,0.5,97.5,0.005
+27,Espora 400 m,QU061,21/3/2018,2018,verano,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+28,Náutico 400 m,QU062,21/3/2018,2018,verano,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+29,Pejerrey Club 400 m,QU063,21/3/2018,2018,verano,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+30,Calle 14 y Costa - Salida cloaca,BZ078,21/3/2018,2018,verano,20.6,ausencia,no se midió,ausencia,0.05,0.9,150,0.005
+31,Puerto Trinidad calle 47,BZ077,21/3/2018,2018,verano,20.4,ausencia,no se midió,ausencia,0.05,0.5,139.5,0.005
+32,Costanera Hudson Calle 63,BZ080,21/3/2018,2018,verano,20,ausencia,no se midió,ausencia,0.05,0.5,150,0.005
+33,Camping Eva Perón,EN081,21/3/2018,2018,verano,19.5,ausencia,ausencia,no se midió,0.07,0.5,165,0.005
+34,Toma de agua Club de Pesca,EN082,21/3/2018,2018,verano,20.02,ausencia,ausencia,no se midió,0.05,0.5,207,0.005
+35,Arroyo El Gato,EN083,21/3/2018,2018,verano,20,ausencia,ausencia,no se midió,0.05,0.5,208.5,0.005
+36,Ensenada Prefectura Isla Santiago,EN084,21/3/2018,2018,verano,20,ausencia,ausencia,no se midió,0.05,0.5,100.5,0.005
+37,Balneario Palo Blanco,BS092,21/3/2018,2018,verano,13,ausencia,ausencia,presencia,0.05,0.5,172.5,0.005
+38,Diagonal 66 (descarga cloaca),BS095,21/3/2018,2018,verano,13,presencia,ausencia,presencia,0.05,0.5,78,0.005
+39,Playa La Bagliardi,BS091,21/3/2018,2018,verano,11,ausencia,ausencia,ausencia,0.05,0.5,147,0.005
+40,Balneario Municipal,BS094,21/3/2018,2018,verano,12,ausencia,ausencia,ausencia,0.05,0.5,142.5,0.005
+41,Playa La Balandra,BS093,21/3/2018,2018,verano,10,ausencia,ausencia,presencia,0.13,0.5,126,0.005
+1,Canal Villanueva y Río Luján,TI001,16/5/2018,2018,otoño,19.7,no se midió,no se midió,no se midió,<0.05,0.25,71,<0.002
+2,Río Lujan y Arroyo Caraguatá,TI006,16/5/2018,2018,otoño,19,no se midió,no se midió,no se midió,0.66,0.39,50,<0.002
+3,Canal Aliviador y Río Lujan,TI002,16/5/2018,2018,otoño,18.4,no se midió,no se midió,no se midió,1.27,0.49,39,<0.002
+4,Río Carapachay y Arroyo Gallo Fiambre,TI003,16/5/2018,2018,otoño,18.5,no se midió,no se midió,no se midió,0.48,0.41,53,<0.002
+5,Río Reconquista y Río Lujan,TI004,16/5/2018,2018,otoño,18.6,no se midió,no se midió,no se midió,1.06,0.49,54,<0.002
+6,Rio Tigre 100m antes del Rio Luján,TI005,16/5/2018,2018,otoño,18.5,no se midió,no se midió,no se midió,0.79,0.51,54,<0.002
+7,Río Lujan y Canal San Fernando,TI007,16/5/2018,2018,otoño,19.1,no se midió,no se midió,no se midió,0.95,0.52,41,<0.002
+8,Río Capitán y Río San Antonio,TI008,16/5/2018,2018,otoño,19.9,no se midió,no se midió,no se midió,<0.05,0.63,82,<0.002
+9,Arroyo Abra Vieja y Santa Rosa,TI009,16/5/2018,2018,otoño,18.8,no se midió,no se midió,no se midió,0.07,0.33,60,<0.002
+10,Del Arca,SF015,16/5/2018,2018,otoño,18,no se midió,no se midió,ausencia,0.4,0.58,69,<0.002
+11,Espigón La Farola,SI021,16/5/2018,2018,otoño,18.3,no se midió,no se midió,ausencia,<0.05,0.27,60,<0.002
+12,Reserva Ecológica,SI022,16/5/2018,2018,otoño,17.6,no se midió,no se midió,ausencia,0.4,0.39,64,<0.002
+13,Playa Espigón de Pacheco,SI024,16/5/2018,2018,otoño,20.2,no se midió,no se midió,presencia,0.38,0.32,44,<0.002
+14,Perú Puente,SI023,16/5/2018,2018,otoño,18,no se midió,no se midió,presencia,1.14,1.35,6.6,<0.002
+15,Reserva Barrio El Ceibo ,VL033,16/5/2018,2018,otoño,17.33,ausencia,ausencia,ausencia,0.81,1.05,40,<0.002
+16,Puerto de Olivos Espigón,VL032,16/5/2018,2018,otoño,16.5,ausencia,presencia,ausencia,0.52,0.33,36,<0.002
+17,Costa y Melo,VL031,16/5/2018,2018,otoño,16,ausencia,ausencia,ausencia,0.44,0.22,46,<0.002
+18,Parque de los Niños,CA041,27/6/2018,2018,otoño,11.4,no se midió,no se midió,no se midió,3.21,0.38,61,<0.002
+19,Costanera Norte - Espigón Abanico,CA044,27/6/2018,2018,otoño,11.4,no se midió,no se midió,no se midió,3.21,0.04,62,<0.002
+20,Club de Pescadores,CA046,27/6/2018,2018,otoño,11.2,no se midió,no se midió,no se midió,2.7,0.04,60,<0.002
+21,Reserva Ecológica Costanera Sur - Playita,CA047,27/6/2018,2018,otoño,11.5,no se midió,no se midió,no se midió,1.8,0.10,53,<0.002
+22,Escollera de Propaneros,AV054,16/5/2018,2018,otoño,17.5,ausencia,ausencia,ausencia,0.82,0.39,31,<0.002
+23,Polo Petroquímico Dock Sud,AV051,16/5/2018,2018,otoño,17.4,presencia,ausencia,ausencia,0.79,0.63,38,<0.002
+24,Arroyo Sarandí,AV052,16/5/2018,2018,otoño,17.6,ausencia,ausencia,ausencia,0.47,0.24,46,<0.002
+25,Costa de Villa Domínico     ,AV055,16/5/2018,2018,otoño,17.5,no se midió,ausencia,ausencia,0.62,0.63,47,<0.002
+26,Arroyo Santo Domingo,AV053,16/5/2018,2018,otoño,13.5,no perceptible,ausencia,ausencia,0.79,0.29,36,<0.002
+27,Espora 400 m,QU061,16/5/2018,2018,otoño,16.5,ausencia,presencia,ausencia,0.65,0.33,40,<0.002
+28,Náutico 400 m,QU062,16/5/2018,2018,otoño,16.9,ausencia,presencia,ausencia,0.6,0.22,44,<0.002
+29,Pejerrey Club 400 m,QU063,16/5/2018,2018,otoño,15.6,ausencia,presencia,ausencia,0.76,0.35,35,<0.002
+30,Calle 14 y Costa - Salida cloaca,BZ078,16/5/2018,2018,otoño,14.5,ausencia,presencia,ausencia,0.74,0.48,39,<0.002
+31,Puerto Trinidad calle 47,BZ077,16/5/2018,2018,otoño,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+32,Costanera Hudson Calle 63,BZ080,16/5/2018,2018,otoño,15.1,ausencia,presencia,ausencia,<0.05,0.39,31,<0.002
+33,Camping Eva Perón,EN081,16/5/2018,2018,otoño,16.2,ausencia,ausencia,ausencia,0.25,0.33,41,<0.002
+34,Toma de agua Club de Pesca,EN082,16/5/2018,2018,otoño,no se midió,no se midió,no se midió,no se midió,0.35,0.28,36,<0.002
+35,Arroyo El Gato,EN083,16/5/2018,2018,otoño,16.5,ausencia,ausencia,ausencia,0.97,0.31,39,<0.002
+36,Ensenada Prefectura Isla Santiago,EN084,16/5/2018,2018,otoño,17.1,ausencia,ausencia,ausencia,0.06,0.27,56,<0.002
+37,Balneario Palo Blanco,BS092,16/5/2018,2018,otoño,11,ausencia,ausencia,ausencia,0.12,0.45,39,<0.002
+38,Diagonal 66 (descarga cloaca),BS095,16/5/2018,2018,otoño,11,ausencia,presencia,presencia,0.81,0.94,14,<0.002
+39,Playa La Bagliardi,BS091,16/5/2018,2018,otoño,11,ausencia,presencia,ausencia,0.32,0.56,44,<0.002
+40,Balneario Municipal,BS094,16/5/2018,2018,otoño,11,ausencia,ausencia,ausencia,0.14,0.81,49,<0.002
+41,Playa La Balandra,BS093,16/5/2018,2018,otoño,11,ausencia,ausencia,ausencia,<0.05,0.38,46,<0.002
+1,Canal Villanueva y Río Luján,TI001,15/8/2018,2018,invierno,14.3,ausencia,ausencia,ausencia,0.05,0.86,52,0.001
+2,Río Lujan y Arroyo Caraguatá,TI006,15/8/2018,2018,invierno,14,ausencia,ausencia,ausencia,3.11,0.26,44,0.001
+3,Canal Aliviador y Río Lujan,TI002,15/8/2018,2018,invierno,14,ausencia,ausencia,ausencia,1.52,0.20,49,0.001
+4,Río Carapachay y Arroyo Gallo Fiambre,TI003,15/8/2018,2018,invierno,13.8,ausencia,ausencia,ausencia,2.62,0.15,45,0.001
+5,Río Reconquista y Río Lujan,TI004,15/8/2018,2018,invierno,13.9,ausencia,ausencia,ausencia,1.05,0.16,54,0.001
+6,Rio Tigre 100m antes del Rio Luján,TI005,15/8/2018,2018,invierno,13.8,ausencia,ausencia,ausencia,1.29,0.23,50,0.001
+7,Río Lujan y Canal San Fernando,TI007,15/8/2018,2018,invierno,13.7,ausencia,ausencia,presencia,1.34,0.29,50,0.001
+8,Río Capitán y Río San Antonio,TI008,15/8/2018,2018,invierno,14.3,ausencia,ausencia,ausencia,0.04,0.19,56,0.001
+9,Arroyo Abra Vieja y Santa Rosa,TI009,15/8/2018,2018,invierno,13.9,ausencia,ausencia,ausencia,0.04,0.18,64,0.001
+10,Del Arca,SF015,15/8/2018,2018,invierno,13.8,presencias,ausencia,ausencia,1.03,0.58,39,0.001
+11,Espigón La Farola,SI021,15/8/2018,2018,invierno,15,no se midió,no se midió,no se midió,0.84,0.25,39,0.001
+12,Reserva Ecológica,SI022,15/8/2018,2018,invierno,14.6,no se midió,no se midió,no se midió,0.85,0.20,31,0.001
+13,Playa Espigón de Pacheco,SI024,15/8/2018,2018,invierno,14.5,no se midió,no se midió,no se midió,0.89,0.25,26,0.001
+14,Perú Puente,SI023,15/8/2018,2018,invierno,17.5,no se midió,no se midió,no se midió,2.82,0.93,15,0.001
+15,Reserva Barrio El Ceibo ,VL033,15/8/2018,2018,invierno,14.3,ausencia,ausencia,ausencia,0.85,0.49,27,0.001
+16,Puerto de Olivos Espigón,VL032,15/8/2018,2018,invierno,13.7,presencia,ausencia,ausencia,2.35,0.30,30,0.001
+17,Costa y Melo,VL031,15/8/2018,2018,invierno,14.1,presencia,ausencia,presencia,1.46,0.09,35,0.001
+18,Parque de los Niños,CA041,15/8/2018,2018,invierno,11.9,no se midió,no se midió,no se midió,<0.1,0.11,28,<0.02
+19,Costanera Norte - Espigón Abanico,CA044,15/8/2018,2018,invierno,14.5,no se midió,no se midió,no se midió,<0.1,0.67,29,<0.02
+20,Club de Pescadores,CA046,15/8/2018,2018,invierno,14.9,no se midió,no se midió,no se midió,<0.1,0.48,25,<0.02
+21,Reserva Ecológica Costanera Sur - Playita,CA047,15/8/2018,2018,invierno,14.8,no se midió,no se midió,no se midió,<0.1,0.15,25,<0.02
+22,Escollera de Propaneros,AV054,15/8/2018,2018,invierno,14.5,ausencia,ausencia,ausencia,1.39,1,41,0.001
+23,Polo Petroquímico Dock Sud,AV051,15/8/2018,2018,invierno,14,ausencia,ausencia,ausencia,1.53,0.45,38,0.001
+24,Arroyo Sarandí,AV052,15/8/2018,2018,invierno,14.2,presencia,ausencia,ausencia,1.8,0.37,32,0.001
+25,Costa de Villa Domínico     ,AV055,15/8/2018,2018,invierno,14,ausencia,ausencia,ausencia,1.66,0.63,31,0.001
+26,Arroyo Santo Domingo,AV053,15/8/2018,2018,invierno,13.9,ausencia,presencia,ausencia,1.33,0.22,31,0.001
+27,Espora 400 m,QU061,15/8/2018,2018,invierno,14.4,ausencia,presencia,presencia,1.28,0.57,31,0.001
+28,Náutico 400 m,QU062,15/8/2018,2018,invierno,14.2,ausencia,presencia,presencia,1.9,0.42,21,0.001
+29,Pejerrey Club 400 m,QU063,15/8/2018,2018,invierno,14.3,ausencia,presencia,presencia,2.5,0.55,35,0.001
+30,Calle 14 y Costa - Salida cloaca,BZ078,15/8/2018,2018,invierno,11.2,ausencia,ausencia,presencia,3.4,0.36,30,0.001
+31,Puerto Trinidad calle 47,BZ077,15/8/2018,2018,invierno,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió,no se midió
+32,Costanera Hudson Calle 63,BZ080,15/8/2018,2018,invierno,12.7,ausencia,ausencia,ausencia,0.06,0.55,39,0.001
+33,Camping Eva Perón,EN081,15/8/2018,2018,invierno,12.9,ausencia,ausencia,ausencia,0.32,0.4,43,0.001
+34,Toma de agua Club de Pesca,EN082,15/8/2018,2018,invierno,12.8,ausencia,ausencia,ausencia,0.6,1.45,29,0.001
+35,Arroyo El Gato,EN083,15/8/2018,2018,invierno,13.3,ausencia,ausencia,ausencia,2.46,1.64,35,0.001
+36,Ensenada Prefectura Isla Santiago,EN084,15/8/2018,2018,invierno,12.4,ausencia,ausencia,ausencia,1.37,0.17,29,0.001
+37,Balneario Palo Blanco,BS092,15/8/2018,2018,invierno,no se midió,ausencia,ausencia,ausencia,1.79,0.41,21,0.001
+38,Diagonal 66 (descarga cloaca),BS095,15/8/2018,2018,invierno,10,presencia,ausencia,presencia,2.78,0.40,54,0.001
+39,Playa La Bagliardi,BS091,15/8/2018,2018,invierno,11,ausencia,presencia,presencia,5.17,0.9',45,0.001
+40,Balneario Municipal,BS094,15/8/2018,2018,invierno,10.5,ausencia,ausencia,ausencia,0.04,0.37,63,0.001
+41,Playa La Balandra,BS093,15/8/2018,2018,invierno,11.3,presencia,presencia,presencia,0.19,1.26,59,0.001
+1,Canal Villanueva y Río Luján,TI001,29/10/2018,2018,primavera,22,ausencia,ausencia,ausencia,<0.05,0.49,80,<0.002
+2,Río Lujan y Arroyo Caraguatá,TI006,29/10/2018,2018,primavera,23.4,ausencia,ausencia,ausencia,0.73,0.49,58,<0.002
+3,Canal Aliviador y Río Lujan,TI002,29/10/2018,2018,primavera,22.6,ausencia,ausencia,ausencia,0.66,0.83,59,<0.002
+4,Río Carapachay y Arroyo Gallo Fiambre,TI003,29/10/2018,2018,primavera,22.4,ausencia,ausencia,ausencia,0.65,0.16,54,<0.002
+5,Río Reconquista y Río Lujan,TI004,29/10/2018,2018,primavera,22.6,ausencia,ausencia,ausencia,2.21,0.33,59,<0.002
+6,Rio Tigre 100m antes del Rio Luján,TI005,29/10/2018,2018,primavera,22.3,ausencia,ausencia,ausencia,1.88,1.66,53,<0.002
+7,Río Lujan y Canal San Fernando,TI007,29/10/2018,2018,primavera,22.4,ausencia,ausencia,ausencia,2.2,0.99,61,<0.002
+8,Río Capitán y Río San Antonio,TI008,29/10/2018,2018,primavera,22.3,ausencia,ausencia,ausencia,<0.05,1.66,72,<0.002
+9,Arroyo Abra Vieja y Santa Rosa,TI009,29/10/2018,2018,primavera,23.2,ausencia,ausencia,ausencia,<0.05,0.1,71,<0.002
+10,Del Arca,SF015,7/11/2018,2018,primavera,22.6,ausencia,presencia,ausencia,0.69,0.83,52,<0.002
+11,Espigón La Farola,SI021,7/11/2018,2018,primavera,22.9,ausencia,ausencia,ausencia,0.48,1.16,54,<0.002
+12,Reserva Ecológica,SI022,7/11/2018,2018,primavera,22.9,ausencia,ausencia,ausencia,0.44,3.66,49,<0.002
+13,Playa Espigón de Pacheco,SI024,7/11/2018,2018,primavera,22.4,ausencia,ausencia,ausencia,0.55,0.66,46,<0.002
+14,Perú Puente,SI023,7/11/2018,2018,primavera,22.5,ausencia,ausencia,presencia,0.88,0.57,25,<0.002
+15,Reserva Barrio El Ceibo ,VL033,7/11/2018,2018,primavera,21.9,ausencia,ausencia,presencia,0.38,4.33,35,<0.002
+16,Puerto de Olivos Espigón,VL032,7/11/2018,2018,primavera,21.8,ausencia,ausencia,presencia,0.32,1.16,56,<0.002
+17,Costa y Melo,VL031,7/11/2018,2018,primavera,20.9,ausencia,ausencia,ausencia,0.74,0.66,69,<0.002
+18,Parque de los Niños,CA041,31/10/2018,2018,primavera,21.6,no se midió,no se midió,no se midió,<0.1,0.49,251,<0.002
+19,Costanera Norte - Espigón Abanico,CA044,31/10/2018,2018,primavera,21.1,no se midió,no se midió,no se midió,<0.1,0.062,241,<0.002
+20,Club de Pescadores,CA046,31/10/2018,2018,primavera,21.5,no se midió,no se midió,no se midió,<0.1,0.045,230,<0.002
+21,Reserva Ecológica Costanera Sur - Playita,CA047,31/1/2018,2018,primavera,22.4,no se midió,no se midió,no se midió,<0.1,<0.02,191,<0.002
+22,Escollera de Propaneros,AV054,7/11/2018,2018,primavera,22.9,ausencia,ausencia,ausencia,0.77,0.66,39,<0.002
+23,Polo Petroquímico Dock Sud,AV051,7/11/2018,2018,primavera,22.7,ausencia,ausencia,ausencia,0.62,0.66,45,<0.002
+24,Arroyo Sarandí,AV052,7/11/2018,2018,primavera,22.5,ausencia,ausencia,ausencia,0.72,0.16,41,<0.002
+25,Costa de Villa Domínico     ,AV055,7/11/2018,2018,primavera,22.1,ausencia,ausencia,ausencia,0.62,0.33,32,<0.002
+26,Arroyo Santo Domingo,AV053,7/11/2018,2018,primavera,22.1,ausencia,ausencia,ausencia,0.6,1.16,45,<0.002
+27,Espora 400 m,QU061,7/11/2018,2018,primavera,18,ausencia,ausencia,presencia,0.82,0.66,50,<0.002
+28,Náutico 400 m,QU062,7/11/2018,2018,primavera,18,ausencia,ausencia,presencia,0.62,1.33,56,<0.002
+29,Pejerrey Club 400 m,QU063,7/11/2018,2018,primavera,18,ausencia,presencia,presencia,0.29,0.83,40,<0.002
+30,Calle 14 y Costa - Salida cloaca,BZ078,7/11/2018,2018,primavera,20.7,ausencia,ausencia,ausencia,0.25,0.24,95,<0.002
+31,Puerto Trinidad calle 47,BZ077,7/11/2018,2018,primavera,21.8,ausencia,ausencia,presencia,0.26,0.83,70,<0.002
+32,Costanera Hudson Calle 63,BZ080,7/11/2018,2018,primavera,20.7,ausencia,ausencia,ausencia,0.2,0.16,65,<0.002
+33,Camping Eva Perón,EN081,7/11/2018,2018,primavera,21.2,ausencia,ausencia,ausencia,0.22,0.83,52,<0.002
+34,Toma de agua Club de Pesca,EN082,7/11/2018,2018,primavera,21.7,ausencia,ausencia,ausencia,0.42,0.55,31,<0.002
+35,Arroyo El Gato,EN083,7/11/2018,2018,primavera,21.8,ausencia,ausencia,ausencia,0.63,0.35,39,<0.002
+36,Ensenada Prefectura Isla Santiago,EN084,7/11/2018,2018,primavera,21,ausencia,ausencia,ausencia,0.2,0.33,31,<0.002
+37,Balneario Palo Blanco,BS092,7/11/2018,2018,primavera,10,ausencia,ausencia,ausencia,0.5,2.99,23,<0.002
+38,Diagonal 66 (descarga cloaca),BS095,7/11/2018,2018,primavera,10,ausencia,ausencia,ausencia,0.81,1.66,55,<0.002
+39,Playa La Bagliardi,BS091,7/11/2018,2018,primavera,10,ausencia,ausencia,ausencia,0.54,1.83,35,<0.002
+40,Balneario Municipal,BS094,7/11/2018,2018,primavera,10,ausencia,ausencia,ausencia,0.17,0.83,69,<0.002
+41,Playa La Balandra,BS093,7/11/2018,2018,primavera,10,ausencia,ausencia,ausencia,0.17,0.99,55,<0.002

@@ -1,0 +1,78 @@
+orden;sitios;codigo;fecha;A�o;Campa�a;tem_agua;tem_aire;od;ph;olores;color;espumas;mat_susp;colif_fecales_ufc_100ml;escher_coli_ufc_100ml;enteroc_ufc_100ml;nitrato_mg_l;nh4_mg_l;p_total_l_mg_l;fosf_ortofos_mg_l;dbo_mg_l;dqo_mg_l;turbiedad_ntu;hidr_deriv_petr_ug_l;cr_total_mg_l;cd_total_mg_l;clorofila_a_ug_l;microcistina_ug_l;ica;calidad_de_agua
+1;Canal Villanueva y Río Luján;TI001;28/8/2013;2013;invierno;10.3;;0.7;7.9;;;;;130;130;;7.56;1.18;;;;31;;;;;;;62;Muy deteriorada
+2;Río Lujan y Arroyo Caraguatá;TI006;28/8/2013;2013;invierno;10.5;;0.5;7.5;;;;;490;230;;6.04;0.98;;;;30;;;;;;;50;Muy deteriorada
+3;Canal Aliviador y Río Lujan;TI002;28/8/2013;2013;invierno;10.6;;0.5;7.5;;;;;34.800;34.800;;3.61;7.47;;;;48;;;;;;;27;Extremadamente deteriorada
+4;Río Carapachay y Arroyo Gallo Fiambre;TI003;28/8/2013;2013;invierno;10.4;;0.7;7.4;;;;;330;230;;8.37;0.85;;;;30;;;;;;;54;Muy deteriorada
+5;Río Reconquista y Río Lujan;TI004;28/8/2013;2013;invierno;10.3;;0.8;7.5;;;;;91.800;91.800;;10.97;7.29;;;;41;;;;;;;26;Extremadamente deteriorada
+6;Rio Tigre 100m antes del Rio Luján;TI005;28/8/2013;2013;invierno;10;;0.7;7.8;;;;;172.000;172.000;;7.75;18.85;;;;61;;;;;;;26;Extremadamente deteriorada
+7;Río Lujan y Canal San Fernando;TI007;28/8/2013;2013;invierno;10.4;;0.8;7.5;;;;;91.800;91.800;;6.21;4.43;;;;44;;;;;;;26;Extremadamente deteriorada
+8;Río Capitán y Río San Antonio;TI008;28/8/2013;2013;invierno;10.5;;0.6;7.6;;;;;490;330;;3.46;0.66;;;;30;;;;;;;52;Muy deteriorada
+9;Arroyo Abra Vieja y Santa Rosa;TI009;28/8/2013;2013;invierno;10.5;;0.7;7.4;;;;;230;130;;2.78;1.11;;;;30;;;;;;;54;Muy deteriorada
+10;Del Arca;SF015;28/8/2013;2013;invierno;;;<0.5;7.9;;;;;91.800;91.800;;5.81;8.59;;;;45;;;;;;;21;Extremadamente deteriorada
+11;Espigón La Farola;SI021;28/8/2013;2013;invierno;;;0.8;7.6;;;;;3.500;3.500;;8.3;2.17;;;;30;;;;;;;27;Extremadamente deteriorada
+12;Reserva Ecológica;SI022;28/8/2013;2013;invierno;;;0.8;7.4;;;;;790;490;;5.76;1.32;;;;42;;;;;;;35;Extremadamente deteriorada
+13;Playa Espigón de Pacheco;SI024;28/8/2013;2013;invierno;;;1;7.7;;;;;221.000;221.000;;0.25;14.29;;;;42;;;;;;;21;Extremadamente deteriorada
+14;Perú Puente;SI023;28/8/2013;2013;invierno;;;<0.5;7.4;;;;;1.609.000;1.609.000;;9.85;6.35;;;;125;;;;;;;21;Extremadamente deteriorada
+15;Reserva Barrio El Ceibo ;VL033;28/8/2013;2013;invierno;;;0.7;7.7;;;;;240.000;240.000;;11.65;4.19;;;;42;;;;;;;21;Extremadamente deteriorada
+16;Puerto de Olivos Espigón;VL032;28/8/2013;2013;invierno;;;0.7;7.5;;;;;9.200;9.200;;9.61;4.39;;;;40;;;;;;;23;Extremadamente deteriorada
+17;Costa y Melo;VL031;28/8/2013;2013;invierno;;;0.5;7.4;;;;;54.200;54.200;;4.83;4.14;;;;30;;;;;;;21;Extremadamente deteriorada
+18;Parque de los Niños;CA041;28/8/2013;2013;invierno;;;;;;;;;;;;;;;;;;;;;;;;;
+19;Mirador toma de agua;CA043;28/8/2013;2013;invierno;;;;;;;;;;;;;;;;;;;;;;;;;
+20;Costanera Norte - Espigón Abanico;CA044;28/8/2013;2013;invierno;;;;;;;;;;;;;;;;;;;;;;;;;
+21;Club de Pescadores;CA046;28/8/2013;2013;invierno;;;;;;;;;;;;;;;;;;;;;;;;;
+22;Reserva Ecológica Costanera Sur - Playita;CA047;28/8/2013;2013;invierno;;;;;;;;;;;;;;;;;;;;;;;;;
+23;Escollera de Propaneros;AV054;28/8/2013;2013;invierno;16.2;;2.99;7.14;;;;;1.200;;;7.6;3.72;;;;35;;;;;;;44;Extremadamente deteriorada
+24;Polo Petroquímico Dock Sud;AV051;28/8/2013;2013;invierno;13.7;;8.87;7.52;;;;;800;;;13.04;0.99;;;;100;;;;;;;64;Muy deteriorada
+25;Arroyo Sarandí;AV052;28/8/2013;2013;invierno;13.5;;8.98;7.37;;;;;230;;;7.84;0.66;;;;35;;;;;;;72;Deteriorada
+26;Costa de Villa Domínico     ;AV055;28/8/2013;2013;invierno;13;;8.37;7.3;;;;;170;;;7.15;1.22;;;;37;;;;;;;82;Levemente deteriorada
+27;Arroyo Santo Domingo;AV053;28/8/2013;2013;invierno;13.4;;2.7;7.43;;;;;140.000;;;6.37;1.52;;;;30;;;;;;;30;Extremadamente deteriorada
+28;Espora 400 m;QU061;28/8/2013;2013;invierno;9;;<0.5;7.9;;;;;700.000;;;11.56;5.39;;;;82;;;;;;;29;Extremadamente deteriorada
+29;Náutico 400 m;QU062;28/8/2013;2013;invierno;9;;<0.5;7.9;;;;;8.000.000;;;12.3;4.62;;;;71;;;;;;;29;Extremadamente deteriorada
+30;Pejerrey Club 400 m;QU063;28/8/2013;2013;invierno;9;;<0.5;7.9;;;;;70.000;;;24.54;5.75;;;;75;;;;;;;30;Extremadamente deteriorada
+31;Calle 14 y Costa - Salida cloaca;BZ078;28/8/2013;2013;invierno;11;;0.8;7.7;;;;;1.400.000;;;8.13;3.32;;;;77;;;;;;;29;Extremadamente deteriorada
+32;Puerto Trinidad calle 47;BZ077;28/8/2013;2013;invierno;12;;0.8;7.9;;;;;1.100.000;;;2.17;9.17;;;;72;;;;;;;29;Extremadamente deteriorada
+33;Costanera Hudson Calle 63;BZ080;28/8/2013;2013;invierno;13;;4.2;8.1;;;;;70.000;;;9.45;5.1;;;;57;;;;;;;30;Extremadamente deteriorada
+34;Camping Eva Perón;EN081;28/8/2013;2013;invierno;11;;0.8;8.1;;;;;5.000;;;11.46;5.15;;;;53;;;;;;;35;Extremadamente deteriorada
+35;Toma de agua Club de Pesca;EN082;28/8/2013;2013;invierno;11;;1.7;7.8;;;;;13.000;;;7.53;3.29;;;;32;;;;;;;33;Extremadamente deteriorada
+36;Arroyo El Gato;EN083;28/8/2013;2013;invierno;12;;<0.5;7.7;;;;;80.000;;;3.04;7.77;;;;75;;;;;;;30;Extremadamente deteriorada
+37;Ensenada Prefectura Isla Santiago;EN084;28/8/2013;2013;invierno;12;;1.6;7.6;;;;;800;;;9.32;1.77;;;;30;;;;;;;48;Muy deteriorada
+38;Balneario Palo Blanco;BS092;28/8/2013;2013;invierno;8.9;;1.3;8.2;;;;;1.300;;;16.55;1.4;;;;41;;;;;;;45;Muy deteriorada
+39;Playa La Bagliardi;BS091;28/8/2013;2013;invierno;9.1;;1;7.8;;;;;2.700;;;7.76;0.77;;;;33;;;;;;;41;Extremadamente deteriorada
+40;Playa La Balandra;BS093;28/8/2013;2013;invierno;9.4;;2.5;8.1;;;;;14.000;;;12.93;1.61;;;;41;;;;;;;33;Extremadamente deteriorada
+1;Canal Villa Nueva y Río Luján;TI001;13/11/2013;2013;primavera;;;;;;;;;2.400;790;;;;;;;70;;;;;;;;
+2;Canal Aliviador y Río Lujan;TI002;13/11/2013;2013;primavera;;;;;;;;;2.400;2.400;;;;;;;66;;;;;;;;
+3;Río Carapachay y Arroyo Gallo Fiambre;TI003;13/11/2013;2013;primavera;;;;;;;;;;;;;;;;;65;;;;;;;;
+4;Río Reconquista y Río Lujan;TI004;13/11/2013;2013;primavera;;;;;;;;;9.200;9.200;;;;;;;;;;;;;;;
+5;Rio Tigre 100m antes del Rio Luján;TI005;13/11/2013;2013;primavera;;;;;;;;;34.800;17.200;;;;;;;;;;;;;;;
+6;Río Lujan y Canal San Fernando;TI007;13/11/2013;2013;primavera;;;;;;;;;160.900;160.900;;;;;;;;;;;;;;;
+7;Del Arca;SF015;13/11/2013;2013;primavera;16;;;;;;;;17.200;17.200;;8;0.116;;;;72;;;;;;;36;Extremadamente deteriorada
+8;Espigón La Farola;SI021;13/11/2013;2013;primavera;22.9;;7.96;7.8;;;;;24.000;24.000;;;;;;;70;;;;;;;35;Extremadamente deteriorada
+9;Reserva Ecológica;SI022;13/11/2013;2013;primavera;22.4;;7.39;7.7;;;;;9.200;9.200;;8.8;0.128;;;;72;;;;;;;43;Extremadamente deteriorada
+10;Playa Espigón de Pacheco;SI024;13/11/2013;2013;primavera;22.5;;7.42;7.8;;;;;34.800;34.800;;;;;;;77;;;;;;;35;Extremadamente deteriorada
+11;Perú Puente;SI023;13/11/2013;2013;primavera;21.3;;1.05 (*);7;;;;;2.400.000;2.400.000;;;;;;;84;;;;;;;24;Extremadamente deteriorada
+12;Reserva Barrio El Ceibo;VL033;13/11/2013;2013;primavera;22.2;;7.5;7.9;;;;;16.000;3.500;;14.1;0.092;;;;72;;;;;;;42;Extremadamente deteriorada
+13;Puerto de Olivos Espigón;VL032;13/11/2013;2013;primavera;21.8;;7.1;7.8;;;;;9.200;9.200;;15.2;0.202;;;;69;;;;;;;43;Extremadamente deteriorada
+14;Costa y Melo;VL031;13/11/2013;2013;primavera;21.7;;8.2;8;;;;;24.000;24.000;;16.5;0.192;;;;75;;;;;;;40;Extremadamente deteriorada
+15;Parque de los Niños;CA041;13/11/2013;2013;primavera;25.2;;5.27;7.37;;;;;10.000;8.100;;5;0.6;;;;88;;;;;;;35;Extremadamente deteriorada
+16;Mirador toma de agua;CA043;13/11/2013;2013;primavera;24.1;;5.23;7.32;;;;;19.000;16.000;;5;1.6;;;;99;;;;;;;34;Extremadamente deteriorada
+17;Costanera Norte - Espigón Abanico;CA044;13/11/2013;2013;primavera;23.9;;5.72;7.27;;;;;3.800;3.000;;5;3.1;;;;87;;;;;;;38;Extremadamente deteriorada
+18;Club de Pescadores;CA046;13/11/2013;2013;primavera;25.4;;5.26;7.27;;;;;19.000;14.000;;6;2.6;;;;134;;;;;;;34;Extremadamente deteriorada
+19;Reserva Ecológica Costanera Sur - Playita;CA047;13/11/2013;2013;primavera;25.6;;6.06;7.59;;;;;3.100;2.300;;5;1.1;;;;93;;;;;;;40;Extremadamente deteriorada
+20;Escollera de Propaneros;AV054;13/11/2013;2013;primavera;23.93;;5.04;7.54;;;;;;;;12.7;1.295;;;;76;;;;;;;;
+21;Polo Petroquímico Dock Sud;AV051;13/11/2013;2013;primavera;23;;5.74;7.6;;;;;;;;13.3;1.174;;;;63;;;;;;;;
+22;Arroyo Sarandí;AV052;13/11/2013;2013;primavera;22;;5.53;7.75;;;;;;;;9.9;0.887;;;;58;;;;;;;;
+23;Costa de Villa Domínico;AV055;13/11/2013;2013;primavera;22.56;;5.67;7.78;;;;;;;;13.3;1.057;;;;73;;;;;;;;
+24;Arroyo Santo Domingo;AV053;13/11/2013;2013;primavera;22.46;;5.81;7.85;;;;;;;;10.1;1.922;;;;77;;;;;;;;
+25;Espora 400 m;QU061;13/11/2013;2013;primavera;22.1;;5.78;7.25;;;;;;;;7.2;0.294;;;;66;;;;;;;;
+26;Náutico 400 m;QU062;13/11/2013;2013;primavera;21.9;;5.87;7.43;;;;;;;;7.09;0.338;;;;68;;;;;;;;
+27;Pejerrey Club 400 m;QU063;13/11/2013;2013;primavera;21.6;;6.75;7.49;;;;;;;;7.43;0.082;;;;68;;;;;;;;
+28;Calle 14 y Costa - Salida cloaca;BZ078;13/11/2013;2013;primavera;20.2;;8.5;;;;;;;;;6.39;0.068;;;;145;;;;;;;;
+29;Puerto Trinidad calle 47;BZ077;13/11/2013;2013;primavera;21;;9;;;;;;;;;7.22;0.412;;;;;;;;;;;;
+30;Costanera Hudson Calle 63;BZ080;13/11/2013;2013;primavera;;;;;;;;;;;;5.63;0.184;;;;;;;;;;;;
+31;Camping Eva Perón;EN081;13/11/2013;2013;primavera;20.9;;8.88;8.17;;;;;2.400;2.400;;13.2;0.142;;;;77;;;;;;;54;Muy deteriorada
+32;Toma de agua Club de Pesca;EN082;13/11/2013;2013;primavera;21.6;;6.49;7.65;;;;;;;;18;0.012;;;;56;;;;;;;;
+33;Arroyo El Gato;EN083;13/11/2013;2013;primavera;21.6;;0.96;7.54;;;;;;;;18.5;0.704;;;;68;;;;;;;;
+34;Ensenada Prefectura Isla Santiago;EN084;13/11/2013;2013;primavera;21.4;;7.25;7.78;;;;;;;;17.5;0.046;;;;56;;;;;;;;
+35;Diagonal 66 (descarga cloaca);BS095;13/11/2013;2013;primavera;21.6;;7.95;7.58;;;;;;;;;1.516;;;;120;;;;;;;;
+36;Balneario Municipal;BS094;13/11/2013;2013;primavera;21.1;;9.36;8.09;;;;;;;;8.94;0.066;;;;61;;;;;;;;
+37;Playa La Balandra;BS093;13/11/2013;2013;primavera;20.9;;9.66;7.68;;;;;490;490;;9.61;0.146;;;;70;;;;;;;74;Deteriorada

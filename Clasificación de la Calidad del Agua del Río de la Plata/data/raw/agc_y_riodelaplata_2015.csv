@@ -1,0 +1,157 @@
+"orden";"sitios";"gobierno_local";"codigo";"fecha";"año";"campaña";"tem_agua";"od";"ph";"colif_totales_nmp_100ml";"colif_fecales_nmp_100ml";"escher_coli_sin_filtrar_ufc_100ml";"escher_coli_filtrada_ufc_100ml";"nitrato_mg_l";"amonio_mg_l";"dbo_mg_l";"dqo_mg_l"
+"1";"Canal Villa Nueva y Río Luján";"Tigre";"TI001";"No se muestreó";"2015";"verano";"";"";"";"";"";"";"";"";"";"";""
+"2";"Río Lujan y Arroyo Caraguatá";"Tigre";"TI006";"No se muestreó";"2015";"verano";"";"";"";"";"";"";"";"";"";"";""
+"3";"Canal Aliviador y Río Lujan";"Tigre";"TI002";"No se muestreó";"2015";"verano";"";"";"";"";"";"";"";"";"";"";""
+"4";"Río Carapachay y Arroyo Gallo Fiambre";"Tigre";"TI003";"No se muestreó";"2015";"verano";"";"";"";"";"";"";"";"";"";"";""
+"5";"Río Reconquista y Río Lujan";"Tigre";"TI004";"No se muestreó";"2015";"verano";"";"";"";"";"";"";"";"";"";"";""
+"6";"Rio Tigre 100m antes del Rio Luján";"Tigre";"TI005";"No se muestreó";"2015";"verano";"";"";"";"";"";"";"";"";"";"";""
+"7";"Río Lujan y Canal San Fernando";"Tigre";"TI007";"No se muestreó";"2015";"verano";"";"";"";"";"";"";"";"";"";"";""
+"8";"Río Capitán y Río San Antonio";"Tigre";"TI008";"No se muestreó";"2015";"verano";"";"";"";"";"";"";"";"";"";"";""
+"9";"Arroyo Abra Vieja y Santa Rosa";"Tigre";"TI009";"No se muestreó";"2015";"verano";"";"";"";"";"";"";"";"";"";"";""
+"10";"Del Arca";"San Fernando";"SF015";"No se muestreó";"2015";"verano";"";"";"";"";"";"";"";"";"";"";""
+"11";"Espigón La Farola";"San Isidro";"SI021";"11/3/2015";"2015";"verano";"28";"4.54";"7.87";"1600";"";"";"";"";"";"";""
+"12";"Reserva Ecológica";"San Isidro";"SI022";"11/3/2015";"2015";"verano";"29";"5.57";"7.92";"1600";"";"";"";"";"";"";""
+"13";"Playa Espigón de Pacheco";"San Isidro";"SI024";"No se muestreó";"2015";"verano";"";"";"";"";"";"";"";"";"";"";""
+"14";"Perú Puente";"San Isidro";"SI023";"11/3/2015";"2015";"verano";"26";"4.98";"8.01";"2400";"";"";"";"";"";"";""
+"15";"Reserva Barrio El Ceibo ";"Vicente López";"VL033";"11/3/2015";"2015";"verano";"30";"7.3";"6.8";"23";"23";"";"";"4.4";"<0.04";"";""
+"16";"Puerto de Olivos Espigón";"Vicente López";"VL032";"11/3/2015";"2015";"verano";"27";"5.3";"7.51";"23";"23";"";"";"2.7";"<0.04";"";""
+"17";"Costa y Melo";"Vicente López";"VL031";"11/3/2015";"2015";"verano";"29";"7.3";"8.4";"23";"23";"";"";"3.6";"<0.04";"";""
+"18";"Parque de los Niños";"CABA";"CA041";"No se muestreó";"2015";"verano";"";"";"";"";"";"";"";"";"";"";""
+"19";"Costanera Norte - Espigón Abanico";"CABA";"CA044";"No se muestreó";"2015";"verano";"";"";"";"";"";"";"";"";"";"";""
+"20";"Club de Pescadores";"CABA";"CA046";"No se muestreó";"2015";"verano";"";"";"";"";"";"";"";"";"";"";""
+"21";"Reserva Ecológica Costanera Sur - Playita";"CABA";"CA047";"No se muestreó";"2015";"verano";"";"";"";"";"";"";"";"";"";"";""
+"22";"Escollera de Propaneros";"Avellaneda";"AV054";"No se muestreó";"2015";"verano";"";"";"";"";"";"";"";"";"";"";""
+"23";"Polo Petroquímico Dock Sud";"Avellaneda";"AV051";"No se muestreó";"2015";"verano";"";"";"";"";"";"";"";"";"";"";""
+"24";"Arroyo Sarandí";"Avellaneda";"AV052";"No se muestreó";"2015";"verano";"";"";"";"";"";"";"";"";"";"";""
+"25";"Costa de Villa Domínico     ";"Avellaneda";"AV055";"No se muestreó";"2015";"verano";"";"";"";"";"";"";"";"";"";"";""
+"26";"Arroyo Santo Domingo";"Avellaneda";"AV053";"No se muestreó";"2015";"verano";"";"";"";"";"";"";"";"";"";"";""
+"27";"Espora 400 m";"Quilmes";"QU061";"No se muestreó";"2015";"verano";"";"";"";"";"";"";"";"";"";"";""
+"28";"Náutico 400 m";"Quilmes";"QU062";"No se muestreó";"2015";"verano";"";"";"";"";"";"";"";"";"";"";""
+"29";"Pejerrey Club 400 m";"Quilmes";"QU063";"No se muestreó";"2015";"verano";"";"";"";"";"";"";"";"";"";"";""
+"30";"Calle 14 y Costa - Salida cloaca";"Berazategui";"BZ078";"No se muestreó";"2015";"verano";"";"";"";"";"";"";"";"";"";"";""
+"31";"Puerto Trinidad calle 47";"Berazategui";"BZ077";"No se muestreó";"2015";"verano";"";"";"";"";"";"";"";"";"";"";""
+"32";"Costanera Hudson Calle 63";"Berazategui";"BZ080";"11/3/2015";"2015";"verano";"25.5";"7.5";"7.34";"";"";"";"";"";"";"";""
+"33";"Camping Eva Perón";"Ensenada";"EN081";"11/3/2015";"2015";"verano";"24.7";"5.83";"7.63";"";"";"";"";"";"";"";""
+"34";"Toma de agua Club de Pesca";"Ensenada";"EN082";"11/3/2015";"2015";"verano";"26.6";"5.83";"7.63";"";"";"";"";"";"";"";""
+"35";"Arroyo El Gato";"Ensenada";"EN083";"11/3/2015";"2015";"verano";"27.2";"0.47";"7.9";"";"";"";"";"";"";"";""
+"36";"Ensenada Prefectura Isla Santiago";"Ensenada";"EN084";"11/3/2015";"2015";"verano";"25.7";"6.3";"7.65";"";"";"";"";"";"";"";""
+"37";"Diagonal 66 (descarga cloaca)";"Berisso";"BS095";"No se muestreó";"2015";"verano";"";"";"";"";"";"";"";"";"";"";""
+"38";"Playa Municipal";"Berisso";"BS094";"No se muestreó";"2015";"verano";"";"";"";"";"";"";"";"";"";"";""
+"39";"Playa La Balandra";"Berisso";"BS093";"No se muestreó";"2015";"verano";"";"";"";"";"";"";"";"";"";"";""
+"1";"Canal Villa Nueva y Río Luján";"Tigre";"TI001";"No se muestreó";"2015";"otoño";"";"";"";"";"";"";"";"";"";"";""
+"2";"Río Lujan y Arroyo Caraguatá";"Tigre";"TI006";"No se muestreó";"2015";"otoño";"";"";"";"";"";"";"";"";"";"";""
+"3";"Canal Aliviador y Río Lujan";"Tigre";"TI002";"No se muestreó";"2015";"otoño";"";"";"";"";"";"";"";"";"";"";""
+"4";"Río Carapachay y Arroyo Gallo Fiambre";"Tigre";"TI003";"No se muestreó";"2015";"otoño";"";"";"";"";"";"";"";"";"";"";""
+"5";"Río Reconquista y Río Lujan";"Tigre";"TI004";"No se muestreó";"2015";"otoño";"";"";"";"";"";"";"";"";"";"";""
+"6";"Rio Tigre 100m antes del Rio Luján";"Tigre";"TI005";"No se muestreó";"2015";"otoño";"";"";"";"";"";"";"";"";"";"";""
+"7";"Río Lujan y Canal San Fernando";"Tigre";"TI007";"No se muestreó";"2015";"otoño";"";"";"";"";"";"";"";"";"";"";""
+"8";"Río Capitán y Río San Antonio";"Tigre";"TI008";"No se muestreó";"2015";"otoño";"";"";"";"";"";"";"";"";"";"";""
+"9";"Arroyo Abra Vieja y Santa Rosa";"Tigre";"TI009";"No se muestreó";"2015";"otoño";"";"";"";"";"";"";"";"";"";"";""
+"10";"Del Arca";"San Fernando";"SF015";"No se muestreó";"2015";"otoño";"";"";"";"";"";"";"";"";"";"";""
+"11";"Espigón La Farola";"San Isidro";"SI021";"3/6/2015";"2015";"otoño";"18.1";"7.84";"8";"2920";"";"";"<1";"";"";"";""
+"12";"Reserva Ecológica";"San Isidro";"SI022";"No se muestreó";"2015";"otoño";"";"";"";"";"";"";"";"";"";"";""
+"13";"Playa Espigón de Pacheco";"San Isidro";"SI024";"No se muestreó";"2015";"otoño";"";"";"";"";"";"";"";"";"";"";""
+"14";"Perú Puente";"San Isidro";"SI023";"No se muestreó";"2015";"otoño";"";"";"";"";"";"";"";"";"";"";""
+"15";"Reserva Barrio El Ceibo";"Vicente López";"VL033";"3/6/2015";"2015";"otoño";"17.6";"6.7";"7.8";">11000";">11000";">11000";"";"3";"";"10";"23"
+"16";"Puerto de Olivos Espigón";"Vicente López";"VL032";"3/6/2015";"2015";"otoño";"17.1";"6";"7.59";"";">11000";">11000";"";"3.2";"";"4";"12"
+"17";"Costa y Melo";"Vicente López";"VL031";"3/6/2015";"2015";"otoño";"16.9";"8.9";"8.11";">11000";"11000";"";"";"4.9";"<0.04";"4";"15"
+"18";"Parque de los Niños";"CABA";"CA041";"No se muestreó";"2015";"otoño";"";"";"";"";"";"";"";"";"";"";""
+"19";"Costanera Norte - Espigón Abanico";"CABA";"CA044";"No se muestreó";"2015";"otoño";"";"";"";"";"";"";"";"";"";"";""
+"20";"Club de Pescadores";"CABA";"CA046";"No se muestreó";"2015";"otoño";"";"";"";"";"";"";"";"";"";"";""
+"21";"Reserva Ecológica Costanera Sur - Playita";"CABA";"CA047";"No se muestreó";"2015";"otoño";"";"";"";"";"";"";"";"";"";"";""
+"22";"Escollera de Propaneros";"Avellaneda";"AV054";"No se muestreó";"2015";"otoño";"";"";"";"";"";"";"";"";"";"";""
+"23";"Polo Petroquímico Dock Sud";"Avellaneda";"AV051";"No se muestreó";"2015";"otoño";"";"";"";"";"";"";"";"";"";"";""
+"24";"Arroyo Sarandí";"Avellaneda";"AV052";"No se muestreó";"2015";"otoño";"";"";"";"";"";"";"";"";"";"";""
+"25";"Costa de Villa Domínico";"Avellaneda";"AV055";"No se muestreó";"2015";"otoño";"";"";"";"";"";"";"";"";"";"";""
+"26";"Arroyo Santo Domingo";"Avellaneda";"AV053";"No se muestreó";"2015";"otoño";"";"";"";"";"";"";"";"";"";"";""
+"27";"Espora 400 m";"Quilmes";"QU061";"No se muestreó";"2015";"otoño";"";"";"";"";"";"";"";"";"";"";""
+"28";"Náutico 400 m";"Quilmes";"QU062";"No se muestreó";"2015";"otoño";"";"";"";"";"";"";"";"";"";"";""
+"29";"Pejerrey Club 400 m";"Quilmes";"QU063";"No se muestreó";"2015";"otoño";"";"";"";"";"";"";"";"";"";"";""
+"30";"Calle 14 y Costa - Salida cloaca";"Berazategui";"BZ078";"3/6/2015";"2015";"otoño";"17.1";"5.45";"7.32";"";"";"";"";"";"";"";""
+"31";"Puerto Trinidad calle 47";"Berazategui";"BZ077";"No se muestreó";"2015";"otoño";"";"";"";"";"";"";"";"";"";"";""
+"32";"Costanera Hudson Calle 63";"Berazategui";"BZ080";"3/6/2015";"2015";"otoño";"16.8";"8.27";"7";"";"";"";"";"";"";"";""
+"33";"Camping Eva Perón";"Ensenada";"EN081";"3/6/2015";"2015";"otoño";"16.1";"9.82";"8.42";"";"";"";"";"";"";"";""
+"34";"Toma de agua Club de Pesca";"Ensenada";"EN082";"3/6/2015";"2015";"otoño";"16.6";"8.65";"8.15";"";"";"";"";"";"";"";""
+"35";"Arroyo El Gato";"Ensenada";"EN083";"3/6/2015";"2015";"otoño";"16.9";"0.98";"7.64";"";"";"";"";"";"";"";""
+"36";"Ensenada Prefectura Isla Santiago";"Ensenada";"EN084";"3/6/2015";"2015";"otoño";"16.6";"8.07";"7.88";"";"";"";"";"";"";"";""
+"37";"Diagonal 66 (descarga cloaca)";"Berisso";"BS095";"3/6/2015";"2015";"otoño";"17.1";"5.83";"7.3";"";"";"";"";"";"";"";""
+"38";"Playa Municipal";"Berisso";"BS094";"3/6/2015";"2015";"otoño";"15.5";"7.45";"7.89";"";"";"";"";"";"";"";""
+"39";"Playa La Balandra";"Berisso";"BS093";"3/6/2015";"2015";"otoño";"15";"7.67";"7.48";"";"";"";"";"";"";"";""
+"1";"Canal Villa Nueva y Río Luján";"Tigre";"TI001";"No se muestreó";"2015";"invierno";"";"";"";"";"";"";"";"";"";"";""
+"2";"Río Lujan y Arroyo Caraguatá";"Tigre";"TI006";"No se muestreó";"2015";"invierno";"";"";"";"";"";"";"";"";"";"";""
+"3";"Canal Aliviador y Río Lujan";"Tigre";"TI002";"No se muestreó";"2015";"invierno";"";"";"";"";"";"";"";"";"";"";""
+"4";"Río Carapachay y Arroyo Gallo Fiambre";"Tigre";"TI003";"No se muestreó";"2015";"invierno";"";"";"";"";"";"";"";"";"";"";""
+"5";"Río Reconquista y Río Lujan";"Tigre";"TI004";"No se muestreó";"2015";"invierno";"";"";"";"";"";"";"";"";"";"";""
+"6";"Rio Tigre 100m antes del Rio Luján";"Tigre";"TI005";"No se muestreó";"2015";"invierno";"";"";"";"";"";"";"";"";"";"";""
+"7";"Río Lujan y Canal San Fernando";"Tigre";"TI007";"No se muestreó";"2015";"invierno";"";"";"";"";"";"";"";"";"";"";""
+"8";"Río Capitán y Río San Antonio";"Tigre";"TI008";"No se muestreó";"2015";"invierno";"";"";"";"";"";"";"";"";"";"";""
+"9";"Arroyo Abra Vieja y Santa Rosa";"Tigre";"TI009";"No se muestreó";"2015";"invierno";"";"";"";"";"";"";"";"";"";"";""
+"10";"Del Arca";"San Fernando";"SF015";"No se muestreó";"2015";"invierno";"";"";"";"";"";"";"";"";"";"";""
+"11";"Espigón La Farola";"San Isidro";"SI021";"2/9/2015";"2015";"invierno";"15.6";"8.88";"8.16";"";"";"";"";"";"";"";""
+"12";"Reserva Ecológica";"San Isidro";"SI022";"No se muestreó";"2015";"invierno";"";"";"";"";"";"";"";"";"";"";""
+"13";"Playa Espigón de Pacheco";"San Isidro";"SI024";"No se muestreó";"2015";"invierno";"";"";"";"";"";"";"";"";"";"";""
+"14";"Perú Puente";"San Isidro";"SI023";"No se muestreó";"2015";"invierno";"";"";"";"";"";"";"";"";"";"";""
+"15";"Reserva Barrio El Ceibo";"Vicente López";"VL033";"2/9/2015";"2015";"invierno";"14.7";"9.3";"7.93";"2400";"2400";"";"";"4.7";"0.2";"5";"34"
+"16";"Puerto de Olivos Espigón";"Vicente López";"VL032";"2/9/2015";"2015";"invierno";"15.3";"7.7";"7.64";"";"";"";"";"6.7";"0.38";"3";"29"
+"17";"Costa y Melo";"Vicente López";"VL031";"2/9/2015";"2015";"invierno";"13.6";"9.4";"7.38";"24000";"24000";"";"";"5";"0.16";"2";"36"
+"18";"Parque de los Niños";"CABA";"CA041";"No se muestreó";"2015";"invierno";"";"";"";"";"";"";"";"";"";"";""
+"19";"Costanera Norte - Espigón Abanico";"CABA";"CA044";"No se muestreó";"2015";"invierno";"";"";"";"";"";"";"";"";"";"";""
+"20";"Club de Pescadores";"CABA";"CA046";"No se muestreó";"2015";"invierno";"";"";"";"";"";"";"";"";"";"";""
+"21";"Reserva Ecológica Costanera Sur - Playita";"CABA";"CA047";"No se muestreó";"2015";"invierno";"";"";"";"";"";"";"";"";"";"";""
+"22";"Escollera de Propaneros";"Avellaneda";"AV054";"26/8/2015";"2015";"invierno";"16.12";"4.73";"7.26";"";"";"";"";"";"";"";"100"
+"23";"Polo Petroquímico Dock Sud";"Avellaneda";"AV051";"26/8/2015";"2015";"invierno";"16.23";"4.47";"7.38";"";"";"";"";"";"";"";"111.2"
+"24";"Arroyo Sarandí";"Avellaneda";"AV052";"26/8/2015";"2015";"invierno";"16.7";"3.35";"7.24";"";"";"";"";"";"";"";"71.2"
+"25";"Costa de Villa Domínico";"Avellaneda";"AV055";"26/8/2015";"2015";"invierno";"16.14";"5.6";"7.13";"";"";"";"";"";"";"";"60"
+"26";"Arroyo Santo Domingo";"Avellaneda";"AV053";"26/8/2015";"2015";"invierno";"16.3";"4.26";"7.42";"";"";"";"";"";"";"";"91.2"
+"27";"Espora 400 m";"Quilmes";"QU061";"No se muestreó";"2015";"invierno";"";"";"";"";"";"";"";"";"";"";""
+"28";"Náutico 400 m";"Quilmes";"QU062";"No se muestreó";"2015";"invierno";"";"";"";"";"";"";"";"";"";"";""
+"29";"Pejerrey Club 400 m";"Quilmes";"QU063";"10/9/2015";"2015";"invierno";"";"";"7.25";"";"";"";"<126";"7";"";"";""
+"30";"Calle 14 y Costa - Salida cloaca";"Berazategui";"BZ078";"No se muestreó";"2015";"invierno";"";"";"";"";"";"";"";"";"";"";""
+"31";"Puerto Trinidad calle 47";"Berazategui";"BZ077";"No se muestreó";"2015";"invierno";"";"";"";"";"";"";"";"";"";"";""
+"32";"Costanera Hudson Calle 63";"Berazategui";"BZ080";"No se muestreó";"2015";"invierno";"";"";"";"";"";"";"";"";"";"";""
+"33";"Camping Eva Perón";"Ensenada";"EN081";"2/9/2015";"2015";"invierno";"";"13.7";"10.36";"8.32";"";"";"";"";"";"";""
+"34";"Toma de agua Club de Pesca";"Ensenada";"EN082";"2/9/2015";"2015";"invierno";"";"14.5";"7.05";"7.83";"";"";"";"";"";"";""
+"35";"Arroyo El Gato";"Ensenada";"EN083";"2/9/2015";"2015";"invierno";"";"14.8";"5.1";"7.73";"";"";"";"";"";"";""
+"36";"Ensenada Prefectura Isla Santiago";"Ensenada";"EN084";"2/9/2015";"2015";"invierno";"";"14.3";"8.27";"7.91";"";"";"";"";"";"";""
+"37";"Diagonal 66 (descarga cloaca)";"Berisso";"BS095";"No se muestreó";"2015";"invierno";"";"";"";"";"";"";"";"";"";"";""
+"38";"Playa Municipal";"Berisso";"BS094";"No se muestreó";"2015";"invierno";"";"";"";"";"";"";"";"";"";"";""
+"39";"Playa La Balandra";"Berisso";"BS093";"No se muestreó";"2015";"invierno";"";"";"";"";"";"";"";"";"";"";""
+"1";"Canal Villa Nueva y Río Luján";"Tigre";"TI001";"No se muestreó";"2015";"primavera";"";"";"";"";"";"";"";"";"";"";""
+"2";"Río Lujan y Arroyo Caraguatá";"Tigre";"TI006";"No se muestreó";"2015";"primavera";"";"";"";"";"";"";"";"";"";"";""
+"3";"Canal Aliviador y Río Lujan";"Tigre";"TI002";"No se muestreó";"2015";"primavera";"";"";"";"";"";"";"";"";"";"";""
+"4";"Río Carapachay y Arroyo Gallo Fiambre";"Tigre";"TI003";"No se muestreó";"2015";"primavera";"";"";"";"";"";"";"";"";"";"";""
+"5";"Río Reconquista y Río Lujan";"Tigre";"TI004";"No se muestreó";"2015";"primavera";"";"";"";"";"";"";"";"";"";"";""
+"6";"Rio Tigre 100m antes del Rio Luján";"Tigre";"TI005";"No se muestreó";"2015";"primavera";"";"";"";"";"";"";"";"";"";"";""
+"7";"Río Lujan y Canal San Fernando";"Tigre";"TI007";"No se muestreó";"2015";"primavera";"";"";"";"";"";"";"";"";"";"";""
+"8";"Río Capitán y Río San Antonio";"Tigre";"TI008";"No se muestreó";"2015";"primavera";"";"";"";"";"";"";"";"";"";"";""
+"9";"Arroyo Abra Vieja y Santa Rosa";"Tigre";"TI009";"No se muestreó";"2015";"primavera";"";"";"";"";"";"";"";"";"";"";""
+"10";"Del Arca";"San Fernando";"SF015";"No se muestreó";"2015";"primavera";"";"";"";"";"";"";"";"";"";"";""
+"11";"Espigón La Farola";"San Isidro";"SI021";"9/12/2015";"2015";"primavera";"28";"5.94";"7.67";"24000";"";"";"";"";"";"";""
+"12";"Reserva Ecológica";"San Isidro";"SI022";"9/12/2015";"2015";"primavera";"28.4";"5.84";"7.92";"24000";"";"";"";"";"";"";""
+"13";"Playa Espigón de Pacheco";"San Isidro";"SI024";"9/12/2015";"2015";"primavera";"28.4";"5.1";"7.98";"16000";"";"";"";"";"";"";""
+"14";"Perú Puente";"San Isidro";"SI023";"9/12/2015";"2015";"primavera";"24";"3.59";"7.87";"4300";"";"";"";"";"";"";""
+"15";"Reserva Barrio El Ceibo";"Vicente López";"VL033";"9/12/2015";"2015";"primavera";"25.4";"3.7";"7.38";"11000";"";"";"";"1.7";"0.08";"8";"28"
+"16";"Puerto de Olivos Espigón";"Vicente López";"VL032";"9/12/2015";"2015";"primavera";"24.7";"4.2";"7.46";"11000";"";"";"";"1.6";"0.13";"10";"31"
+"17";"Costa y Melo";"Vicente López";"VL031";"9/12/2015";"2015";"primavera";"25.1";"4.3";"7.29";"11000";"";"";"";"1.7";"7";"3";"27"
+"18";"Parque de los Niños";"CABA";"CA041";"No se muestreó";"2015";"primavera";"";"";"";"";"";"";"";"";"";"";""
+"19";"Costanera Norte - Espigón Abanico";"CABA";"CA044";"9/12/2015";"2015";"primavera";"26.5";"6.12";"7.73";"28000";"6000";"";"6000";"2";"0.1";"5";"294"
+"20";"Club de Pescadores";"CABA";"CA046";"No se muestreó";"2015";"primavera";"";"";"";"";"";"";"";"";"";"";""
+"21";"Reserva Ecológica Costanera Sur - Playita";"CABA";"CA047";"No se muestreó";"2015";"primavera";"";"";"";"";"";"";"";"";"";"";""
+"22";"Escollera de Propaneros";"Avellaneda";"AV054";"No se muestreó";"2015";"primavera";"";"";"";"";"";"";"";"";"";"";""
+"23";"Polo Petroquímico Dock Sud";"Avellaneda";"AV051";"No se muestreó";"2015";"primavera";"";"";"";"";"";"";"";"";"";"";""
+"24";"Arroyo Sarandí";"Avellaneda";"AV052";"No se muestreó";"2015";"primavera";"";"";"";"";"";"";"";"";"";"";""
+"25";"Costa de Villa Domínico";"Avellaneda";"AV055";"No se muestreó";"2015";"primavera";"";"";"";"";"";"";"";"";"";"";""
+"26";"Arroyo Santo Domingo";"Avellaneda";"AV053";"No se muestreó";"2015";"primavera";"";"";"";"";"";"";"";"";"";"";""
+"27";"Espora 400 m";"Quilmes";"QU061";"No se muestreó";"2015";"primavera";"";"";"";"";"";"";"";"";"";"";""
+"28";"Náutico 400 m";"Quilmes";"QU062";"No se muestreó";"2015";"primavera";"";"";"";"";"";"";"";"";"";"";""
+"29";"Pejerrey Club 400 m";"Quilmes";"QU063";"29/12/2015";"2015";"primavera";"";"";"";"<23";"";"";"<126";"1";"";"";""
+"30";"Calle 14 y Costa - Salida cloaca";"Berazategui";"BZ078";"No se muestreó";"2015";"primavera";"";"";"";"";"";"";"";"";"";"";""
+"31";"Puerto Trinidad calle 47";"Berazategui";"BZ077";"No se muestreó";"2015";"primavera";"";"";"";"";"";"";"";"";"";"";""
+"32";"Costanera Hudson Calle 63";"Berazategui";"BZ080";"No se muestreó";"2015";"primavera";"";"";"";"";"";"";"";"";"";"";""
+"33";"Camping Eva Perón";"Ensenada";"EN081";"No se muestreó";"2015";"primavera";"";"";"";"";"";"";"";"";"";"";""
+"34";"Toma de agua Club de Pesca";"Ensenada";"EN082";"No se muestreó";"2015";"primavera";"";"";"";"";"";"";"";"";"";"";""
+"35";"Arroyo El Gato";"Ensenada";"EN083";"No se muestreó";"2015";"primavera";"";"";"";"";"";"";"";"";"";"";""
+"36";"Ensenada Prefectura Isla Santiago";"Ensenada";"EN084";"No se muestreó";"2015";"primavera";"";"";"";"";"";"";"";"";"";"";""
+"37";"Diagonal 66 (descarga cloaca)";"Berisso";"BS095";"No se muestreó";"2015";"primavera";"";"";"";"";"";"";"";"";"";"";""
+"38";"Playa Municipal";"Berisso";"BS094";"No se muestreó";"2015";"primavera";"";"";"";"";"";"";"";"";"";"";""
+"39";"Playa La Balandra";"Berisso";"BS093";"No se muestreó";"2015";"primavera";"";"";"";"";"";"";"";"";"";"";""

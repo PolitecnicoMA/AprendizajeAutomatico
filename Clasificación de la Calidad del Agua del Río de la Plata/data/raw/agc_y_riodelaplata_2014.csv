@@ -1,0 +1,121 @@
+"orden";"sitios";"gobierno_local";"codigo";"fecha";"año";"campaña";"tem_agua";"od";"ph";"colif_totales_nmp_100ml";"colif_fecales_nmp_100ml";"escher_coli_nmp_100ml";"nitrato_mg_l";"nh4_mg_l";"dqo_mg_l";"ica";"clase_ica"
+"1";"Canal Villanueva y Río Luján";"Tigre";"TI001";"26/3/2014";"2014";"verano";"22";"6.68";"8.04";"2300";"2300";"<300";"2.9";"0.15";"-";"61";"Muy deteriorada"
+"2";"Río Lujan y Arroyo Caraguatá";"Tigre";"TI006";"26/3/2014";"2014";"verano";"20";"6.13";"7.91";"2300";"2300";"400";"7.5";"0.14";"-";"54";"Muy deteriorada"
+"3";"Canal Aliviador y Río Lujan";"Tigre";"TI002";"26/3/2014";"2014";"verano";"22";"2.99";"8.23";"46000";"46000";"700";"12";"8.6";"-";"30";"Extremadamente deteriorada"
+"4";"Río Carapachay y Arroyo Gallo Fiambre";"Tigre";"TI003";"26/3/2014";"2014";"verano";"21";"4.95";"7.82";"900";"900";"900";"2.9";"0.62";"-";"53";"Muy deteriorada"
+"5";"Río Reconquista y Río Lujan";"Tigre";"TI004";"26/3/2014";"2014";"verano";"21";"4.54";"8.07";"46000";"15000";"400";"9.2";"4.77";"-";"32";"Extremadamente deteriorada"
+"6";"Rio Tigre 100m antes del Rio Luján";"Tigre";"TI005";"26/3/2014";"2014";"verano";"22";"8.33";"8.21";"110000";"110000";"4300";"13.2";"5.8";"-";"37";"Extremadamente deteriorada"
+"7";"Río Lujan y Canal San Fernando";"Tigre";"TI007";"26/3/2014";"2014";"verano";"22";"3.12";"8.13";"4300";"4300";"<300";"2.6";"8.99";"-";"35";"Extremadamente deteriorada"
+"8";"Río Capitán y Río San Antonio";"Tigre";"TI008";"26/3/2014";"2014";"verano";"20";"7.48";"8.3";"900";"900";"400";"2.2";"0.03";"-";"75";"Deteriorada"
+"9";"Arroyo Abra Vieja y Santa Rosa";"Tigre";"TI009";"26/3/2014";"2014";"verano";"20";"6.44";"7.89";"1500";"1500";"<300";"1.5";"0.17";"-";"59";"Muy deteriorada"
+"10";"Del Arca";"San Fernando";"SF015";"26/3/2014";"2014";"verano";"22";"4.65";"7.44";"46000";"24000";"<300";"6.4";"1.29";"-";"31";"Extremadamente deteriorada"
+"11";"Espigón La Farola";"San Isidro";"SI021";"26/3/2014";"2014";"verano";"21.3";"8.26";"7.76";"2300";"900";"<300";"5.9";"0.31";"-";"75";"Deteriorada"
+"12";"Reserva Ecológica";"San Isidro";"SI022";"26/3/2014";"2014";"verano";"21.5";"6.83";"7.49";"2300";"400";"400";"9.7";"0.41";"-";"84";"Levemente deteriorada"
+"13";"Playa Espigón de Pacheco";"San Isidro";"SI024";"26/3/2014";"2014";"verano";"22";"8.04";"7.85";"46000";"24000";"<300";"13.1";"8.93";"-";"38";"Extremadamente deteriorada"
+"14";"Perú Puente";"San Isidro";"SI023";"26/3/2014";"2014";"verano";"21.6";"2.42";"7.53";"2300";"2300";"<300";"15.5";"1.54";"-";"42";"Extremadamente deteriorada"
+"15";"Reserva Barrio El Ceibo ";"Vicente López";"VL033";"26/3/2014";"2014";"verano";"21.3";"7.8";"7.85";"9300";"9300";"<300";"13.1";"4.3";"-";"41";"Extremadamente deteriorada"
+"16";"Puerto de Olivos Espigón";"Vicente López";"VL032";"26/3/2014";"2014";"verano";"21.1";"6.5";"7.61";"9300";"9300";"2100";"11.2";"0.53";"-";"42";"Extremadamente deteriorada"
+"17";"Costa y Melo";"Vicente López";"VL031";"26/3/2014";"2014";"verano";"21.1";"7";"7.8";"240000";"46000";"<300";"9.6";"0.77";"-";"37";"Extremadamente deteriorada"
+"18";"Parque de los Niños";"CABA";"CA041";"12/2/2014";"2014";"verano";"27.2";"3.08";"7.13";"200000";"42000";"42000";"3";"0.8";"-";"31";"Extremadamente deteriorada"
+"19";"Mirador toma de agua";"CABA";"CA043";"12/2/2014";"2015";"verano";"26.1";"3.56";"7.12";"150000";"25000";"15000";"3";"0.9";"-";"31";"Extremadamente deteriorada"
+"20";"Costanera Norte - Espigón Abanico";"CABA";"CA044";"12/2/2014";"2014";"verano";"27.2";"3.89";"7.07";"140000";"50000";"19000";"4";"1";"-";"30";"Extremadamente deteriorada"
+"21";"Club de Pescadores";"CABA";"CA046";"12/2/2014";"2014";"verano";"26.8";"3.73";"7.15";"400000";"35000";"35000";"5";"0.5";"-";"38";"Extremadamente deteriorada"
+"22";"Reserva Ecológica Costanera Sur - Playita";"CABA";"CA047";"12/2/2014";"2014";"verano";"28.3";"4.12";"7.65";"40000";"13000";"4000";"4";"0.3";"-";"41";"Extremadamente deteriorada"
+"23";"Escollera de Propaneros";"Avellaneda";"AV054";"26/3/2014";"2014";"verano";"23.8";"3.75";"7.35";"4300";"4300";"700";"13.7";"5.92";"-";"36";"Extremadamente deteriorada"
+"24";"Polo Petroquímico Dock Sud";"Avellaneda";"AV051";"26/3/2014";"2014";"verano";"22.7";"9.72";"7.25";"4300";"4300";"<300";"4.5";"9.74";"-";"35";"Extremadamente deteriorada"
+"25";"Arroyo Sarandí";"Avellaneda";"AV052";"26/3/2014";"2014";"verano";"22.7";"3.82";"7.28";"110000";"110000";"400";"5.7";"1.9";"-";"30";"Extremadamente deteriorada"
+"26";"Costa de Villa Domínico     ";"Avellaneda";"AV055";"26/3/2014";"2014";"verano";"21.9";"4.2";"7.18";"400";"400";"<300";"30";"1.01";"-";"56";"Muy deteriorada"
+"27";"Arroyo Santo Domingo";"Avellaneda";"AV053";"26/3/2014";"2014";"verano";"22.1";"4.12";"7.3";"9300";"9300";"<300";"8.3";"0.91";"-";"35";"Extremadamente deteriorada"
+"28";"Espora 400 m";"Quilmes";"QU061";"26/3/2014";"2014";"verano";"15.6";"6.78";"5.84";"400";"400";"400";"19.2";"0.47";"-";"84";"Levemente deteriorada"
+"29";"Náutico 400 m";"Quilmes";"QU062";"26/3/2014";"2014";"verano";"15.6";"6.78";"5.86";"400";"400";"400";"8.6";"0.45";"-";"84";"Levemente deteriorada"
+"30";"Pejerrey Club 400 m";"Quilmes";"QU063";"26/3/2014";"2014";"verano";"15.5";"6.82";"5.87";"900";"900";"<300";"10.8";"0.61";"-";"65";"Deteriorada"
+"31";"Calle 14 y Costa - Salida cloaca";"Berazategui";"BZ078";"26/3/2014";"2014";"verano";"20.7";"11.3";"no se midió";"2300";"2300";"900";"7.6";"0.6";"-";"37";"Extremadamente deteriorada"
+"32";"Puerto Trinidad calle 47";"Berazategui";"BZ077";"26/3/2014";"2014";"verano";"21.1";"8.7";"no se midió";"<300";"<300";"<300";"9.7";"0.53";"-";"51";"Muy deteriorada"
+"33";"Costanera Hudson Calle 63";"Berazategui";"BZ080";"26/3/2014";"2014";"verano";"21.9";"9.1";"no se midió";"900";"900";"<300";"10.3";"0.13";"-";"59";"Muy deteriorada"
+"34";"Camping Eva Perón";"Ensenada";"EN081";"26/3/2014";"2014";"verano";"20.6";"9.15";"8.32";"9300";"<300";"<300";"11.8";"1.23";"-";"57";"Muy deteriorada"
+"35";"Toma de agua Club de Pesca";"Ensenada";"EN082";"26/3/2014";"2014";"verano";"21.2";"6.63";"7.79";"<300";"<300";"<300";"11.4";"1.25";"-";"69";"Deteriorada"
+"36";"Arroyo El Gato";"Ensenada";"EN083";"26/3/2014";"2014";"verano";"21.6";"0.51";"7.74";"24000";"9300";"<300";"<0.2";"12.14";"-";"33";"Extremadamente deteriorada"
+"37";"Ensenada Prefectura Isla Santiago";"Ensenada";"EN084";"26/3/2014";"2014";"verano";"20.7";"7.16";"7.86";"<300";"<300";"<300";"13.8";"0.2";"-";"86";"Levemente deteriorada"
+"38";"Diagonal 66 (descarga cloaca)";"Berisso";"BS095";"26/3/2014";"2014";"verano";"21.6";"5.73";"7.7";"<300";"<300";"<300";"3.8";"9.43";"-";"40";"Extremadamente deteriorada"
+"39";"Balneario Municipal";"Berisso";"BS094";"26/3/2014";"2014";"verano";"21.2";"8.5";"8.03";"<300";"<300";"<300";"<0.2";"0.04";"-";"86";"Levemente deteriorada"
+"40";"Playa La Balandra";"Berisso";"BS093";"26/3/2014";"2014";"verano";"20.9";"8.52";"7.99";"110000";"4300";"<300";"7.1";"0.05";"-";"48";"Muy deteriorada"
+"1";"Canal Villa Nueva y Río Luján";"Tigre";"TI001";"27/8/2014";"2014";"invierno";"16";"8.49";"7.45";"2300";"< 300";"< 300";"1.5";"0.3";"35";"86";"Levemente deteriorada"
+"2";"Río Lujan y Arroyo Caraguatá";"Tigre";"TI006";"27/8/2014";"2014";"invierno";"16";"8.02";"7.45";"15000";"< 300";"< 300";"17";"1.3";"20";"69";"Deteriorada"
+"3";"Canal Aliviador y Río Lujan";"Tigre";"TI002";"27/8/2014";"2014";"invierno";"16";"8.47";"7.43";"1500";"< 300";"< 300";"1.5";"2";"28";"65";"Deteriorada"
+"4";"Río Carapachay y Arroyo Gallo Fiambre";"Tigre";"TI003";"27/8/2014";"2014";"invierno";"15";"8.05";"7.48";"4800";"900";"< 300";"10";"1";"27";"63";"Muy deteriorada"
+"5";"Río Reconquista y Río Lujan";"Tigre";"TI004";"27/8/2014";"2014";"invierno";"15";"8.41";"7.53";"9300";"< 300";"< 300";"64";"1.25";"28";"69";"Deteriorada"
+"6";"Rio Tigre 100m antes del Rio Luján";"Tigre";"TI005";"27/8/2014";"2014";"invierno";"12";"8.58";"6.92";"4800";"< 300";"< 300";"4.5";"1.25";"29";"57";"Muy deteriorada"
+"7";"Río Lujan y Canal San Fernando";"Tigre";"TI007";"27/8/2014";"2014";"invierno";"14";"8.05";"7.51";"4800";"400";"< 300";"41";"1.6";"22";"66";"Deteriorada"
+"8";"Río Capitán y Río San Antonio";"Tigre";"TI008";"27/8/2014";"2014";"invierno";"16";"8.89";"7.42";"900";"< 300";"< 300";"1.8";"0.2";"17";"72";"Deteriorada"
+"9";"Arroyo Abra Vieja y Santa Rosa";"Tigre";"TI009";"27/8/2014";"2014";"invierno";"14";"8.75";"7.42";"900";"< 300";"< 300";"13";"0.2";"22";"72";"Deteriorada"
+"10";"Del Arca";"San Fernando";"SF015";"27/8/2014";"2014";"invierno";"15";"8.19";"7.77";"24000";"700";"< 300";"9";"0.9";"22";"66";"Deteriorada"
+"11";"Espigón La Farola";"San Isidro";"SI021";"27/8/2014";"2014";"invierno";"13";"9.18";"7.82";"24000";"400";"400";"3.5";"1.1";"23";"56";"Muy deteriorada"
+"12";"Reserva Ecológica";"San Isidro";"SI022";"27/8/2014";"2014";"invierno";"13";"8.81";"7.91";"46000";"< 300";"< 300";"9.5";"1.4";"27";"56";"Muy deteriorada"
+"13";"Playa Espigón de Pacheco";"San Isidro";"SI024";"27/8/2014";"2014";"invierno";"13";"8.97";"7.89";"12000";"< 300";"< 300";"2.5";"1";"28";"57";"Muy deteriorada"
+"14";"Perú Puente";"San Isidro";"SI023";"27/8/2014";"2014";"invierno";"13";"3.6";"7.84";"15000";"700";"700";"25";"4.1";"20";"45";"Muy deteriorada"
+"15";"Reserva Barrio El Ceibo";"Vicente López";"VL033";"27/8/2014";"2014";"invierno";"14";"8";"7.47";"24000";"< 300";"< 300";"16";"1.3";"31";"69";"Deteriorada"
+"16";"Puerto de Olivos Espigón";"Vicente López";"VL032";"27/8/2014";"2014";"invierno";"13";"7.6";"7.54";"46000";"< 300";"< 300";"19";"1.3";"26";"69";"Deteriorada"
+"17";"Costa y Melo";"Vicente López";"VL031";"27/8/2014";"2014";"invierno";"13";"8.8";"7.54";"2800";"< 300";"< 300";"26";"0.7";"30";"58";"Muy deteriorada"
+"18";"Parque de los Niños";"CABA";"CA041";"27/8/2014";"2014";"invierno";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó"
+"19";"Mirador toma de agua";"CABA";"CA043";"27/8/2014";"2014";"invierno";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó"
+"20";"Costanera Norte - Espigón Abanico";"CABA";"CA044";"27/8/2014";"2014";"invierno";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó"
+"21";"Club de Pescadores";"CABA";"CA046";"27/8/2014";"2014";"invierno";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó"
+"22";"Reserva Ecológica Costanera Sur - Playita";"CABA";"CA047";"27/8/2014";"2014";"invierno";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó"
+"23";"Escollera de Propaneros";"Avellaneda";"AV054";"27/8/2014";"2014";"invierno";"15";"8.15";"7.9";"110000";"9300";"900";"5.5";"3";"36";"42";"Extremadamente deteriorada"
+"24";"Polo Petroquímico Dock Sud";"Avellaneda";"AV051";"27/8/2014";"2014";"invierno";"15";"7.49";"7.9";"15000";"9300";"2300";"3.5";"8";"30";"41";"Extremadamente deteriorada"
+"25";"Arroyo Sarandí";"Avellaneda";"AV052";"27/8/2014";"2014";"invierno";"15";"6.36";"7.8";"110000";"24000";"1500";"23";"5";"28";"31";"Extremadamente deteriorada"
+"26";"Costa de Villa Domínico";"Avellaneda";"AV055";"27/8/2014";"2014";"invierno";"15";"5.72";"7.7";"110000";"110000";"700";"17";"3.8";"28";"30";"Extremadamente deteriorada"
+"27";"Arroyo Santo Domingo";"Avellaneda";"AV053";"27/8/2014";"2014";"invierno";"15";"5.77";"7.8";"21000";"9300";"900";"2";"4";"23";"34";"Extremadamente deteriorada"
+"28";"Espora 400 m";"Quilmes";"QU061";"27/8/2014";"2014";"invierno";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó"
+"29";"Náutico 400 m";"Quilmes";"QU062";"27/8/2014";"2014";"invierno";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó"
+"30";"Pejerrey Club 400 m";"Quilmes";"QU063";"27/8/2014";"2014";"invierno";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó"
+"31";"Calle 14 y Costa - Salida cloaca";"Berazategui";"BZ078";"27/8/2014";"2014";"invierno";"12";"8.7";"";"46000";"9300";"900";"16";"1.8";"37";"28";"Extremadamente deteriorada"
+"32";"Puerto Trinidad calle 47";"Berazategui";"BZ077";"27/8/2014";"2014";"invierno";"13";"9.4";"";"9300";"4800";"900";"3.5";"1.5";"32";"31";"Extremadamente deteriorada"
+"33";"Costanera Hudson Calle 63";"Berazategui";"BZ080";"27/8/2014";"2014";"invierno";"11";"9.2";"";"46000";"4800";"< 300";"16";"0.9";"41";"32";"Extremadamente deteriorada"
+"34";"Camping Eva Perón";"Ensenada";"EN081";"27/8/2014";"2014";"invierno";"11";"9.59";"7.85";"110000";"4800";"< 300";"4";"3";"27";"37";"Extremadamente deteriorada"
+"35";"Toma de agua Club de Pesca";"Ensenada";"EN082";"27/8/2014";"2014";"invierno";"12";"9.26";"7.73";"21000";"900";"< 300";"8";"2.5";"24";"48";"Muy deteriorada"
+"36";"Arroyo El Gato";"Ensenada";"EN083";"27/8/2014";"2014";"invierno";"14";"7.42";"1.09";"24000";"24000";"900";"5";"6.2";"35";"31";"Extremadamente deteriorada"
+"37";"Ensenada Prefectura Isla Santiago";"Ensenada";"EN084";"27/8/2014";"2014";"invierno";"13";"9.27";"7.78";"2100";"900";"< 300";"16";"1";"23";"52";"Muy deteriorada"
+"38";"Diagonal 66 (descarga cloaca)";"Berisso";"BS095";"27/8/2014";"2014";"invierno";"9";"5.67";"6.71";"15000";"2300";"2300";"";"7";"";"32";"Extremadamente deteriorada"
+"39";"Balneario Municipal";"Berisso";"BS094";"27/8/2014";"2014";"invierno";"11";"9.9";"7.58";"2000";"900";"400";"3";"0.6";"83";"53";"Muy deteriorada"
+"40";"Playa La Balandra";"Berisso";"BS093";"27/8/2014";"2014";"invierno";"9";"9.66";"7.82";"21000";"900";"400";"9";"3.2";"32";"46";"Muy deteriorada"
+"1";"Canal Villa Nueva y Río Luján";"Tigre";"TI001";"12/11/2014";"2014";"primavera";"24";"3.68";"7.41";"< 300";"< 300";"< 300";"6.47";"0.2";"39";"71";"Levemente deteriorada"
+"2";"Río Lujan y Arroyo Caraguatá";"Tigre";"TI006";"12/11/2014";"2014";"primavera";"25";"3.57";"7.66";"46000";"400";"< 300";"8.08";"0.36";"41";"70";"Levemente deteriorada"
+"3";"Canal Aliviador y Río Lujan";"Tigre";"TI002";"12/11/2014";"2014";"primavera";"22";"3.82";"7.79";"> 110000";"110000";"400";"9.9";"0.8";"46";"30";"Extremadamente detriorada"
+"4";"Río Carapachay y Arroyo Gallo Fiambre";"Tigre";"TI003";"12/11/2014";"2014";"primavera";"25";"3.89";"7.6";"24000";"4800";"900";"7.24";"0.47";"34";"46";"Muy deteriorada"
+"5";"Río Reconquista y Río Lujan";"Tigre";"TI004";"12/11/2014";"2014";"primavera";"25";"3.96";"7.64";"46000";"2800";"< 300";"7.49";"0.55";"38";"43";"Extremadamente detriorada"
+"6";"Rio Tigre 100m antes del Rio Luján";"Tigre";"TI005";"12/11/2014";"2014";"primavera";"23";"4.05";"7.74";"> 110000";"21000";"700";"9.98";"0.59";"41";"32";"Extremadamente detriorada"
+"7";"Río Lujan y Canal San Fernando";"Tigre";"TI007";"12/11/2014";"2014";"primavera";"22";"3.54";"7.66";"24000";"9300";"700";"8.02";"0.54";"37";"35";"Extremadamente detriorada"
+"8";"Río Capitán y Río San Antonio";"Tigre";"TI008";"12/11/2014";"2014";"primavera";"26";"6.04";"7.63";"400";"< 300";"< 300";"4.5";"0.16";"24";"72";"Levemente deteriorada"
+"9";"Arroyo Abra Vieja y Santa Rosa";"Tigre";"TI009";"12/11/2014";"2014";"primavera";"25";"5.82";"7.58";"400";"400";"< 300";"4.69";"0.77";"30";"57";"Muy deteriorada"
+"10";"Del Arca";"San Fernando";"SF015";"12/11/2014";"2014";"primavera";"24";"3.96";"7.57";"24000";"9300";"9300";"7.08";"0.42";"52";"42";"Extremadamente detriorada"
+"11";"Espigón La Farola";"San Isidro";"SI021";"12/11/2014";"2014";"primavera";"24.3";"8.03";"7.41";"9300";"2300";"900";"6.68";"0.32";"34";"61";"Muy deteriorada"
+"12";"Reserva Ecológica";"San Isidro";"SI022";"12/11/2014";"2014";"primavera";"24.2";"5.55";"7.78";"9300";"9300";"900";"7.61";"0.29";"31";"42";"Extremadamente detriorada"
+"13";"Playa Espigón de Pacheco";"San Isidro";"SI024";"12/11/2014";"2014";"primavera";"24.7";"7.26";"8.15";"46000";"46000";"300";"8.11";"0.22";"30";"42";"Extremadamente detriorada"
+"14";"Perú Puente";"San Isidro";"SI023";"12/11/2014";"2014";"primavera";"24";"2.79";"7.83";"24000";"24000";"300";"16.6";"0.99";"23";"31";"Extremadamente detriorada"
+"15";"Reserva Barrio El Ceibo";"Vicente López";"VL033";"12/11/2014";"2014";"primavera";"24.4";"6.7";"7.59";"";"";"";"7.94";"0.63";"38";"83";"Deteriorada"
+"16";"Puerto de Olivos Espigón";"Vicente López";"VL032";"12/11/2014";"2014";"primavera";"24.4";"4.4";"7.32";"46000";"46000";"< 300";"8.08";"0.64";"37";"30";"Extremadamente detriorada"
+"17";"Costa y Melo";"Vicente López";"VL031";"12/11/2014";"2014";"primavera";"24.1";"4.6";"7.34";"> 110000";"2800";"< 300";"7.97";"0.62";"33";"43";"Extremadamente detriorada"
+"18";"Parque de los Niños";"CABA";"CA041";"12/11/2014";"2014";"primavera";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó"
+"19";"Mirador toma de agua";"CABA";"CA043";"12/11/2014";"2014";"primavera";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó"
+"20";"Costanera Norte - Espigón Abanico";"CABA";"CA044";"12/11/2014";"2014";"primavera";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó"
+"21";"Club de Pescadores";"CABA";"CA046";"12/11/2014";"2014";"primavera";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó"
+"22";"Reserva Ecológica Costanera Sur - Playita";"CABA";"CA047";"12/11/2014";"2014";"primavera";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó"
+"23";"Escollera de Propaneros";"Avellaneda";"AV054";"12/11/2014";"2014";"primavera";"26.2";"2.01";"7.3";"";"";"";"6.67";"0.69";"83";"62";"Muy deteriorada"
+"24";"Polo Petroquímico Dock Sud";"Avellaneda";"AV051";"12/11/2014";"2014";"primavera";"24.2";"5.88";"7.43";"";"";"";"6.17";"0.52";"49";"67";"Levemente deteriorada"
+"25";"Arroyo Sarandí";"Avellaneda";"AV052";"12/11/2014";"2014";"primavera";"24.7";"5.94";"7.3";"";"";"";"6.79";"0.52";"46";"67";"Levemente deteriorada"
+"26";"Costa de Villa Domínico";"Avellaneda";"AV055";"12/11/2014";"2014";"primavera";"23.5";"5.97";"7.42";"";"";"";"7.78";"0.54";"45";"67";"Levemente deteriorada"
+"27";"Arroyo Santo Domingo";"Avellaneda";"AV053";"12/11/2014";"2014";"primavera";"24.1";"5.46";"7.39";"";"";"";"6.89";"0.6";"50";"67";"Levemente deteriorada"
+"28";"Espora 400 m";"Quilmes";"QU061";"12/11/2014";"2014";"primavera";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó"
+"29";"Náutico 400 m";"Quilmes";"QU062";"12/11/2014";"2014";"primavera";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó"
+"30";"Pejerrey Club 400 m";"Quilmes";"QU063";"12/11/2014";"2014";"primavera";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó";"no se muestreó"
+"31";"Calle 14 y Costa - Salida cloaca";"Berazategui";"BZ078";"12/11/2014";"2014";"primavera";"23.6";"no se midió";"no se midió";"7500";"3900";"700";"11.6";"0.57";"30";"37";"Extremadamente detriorada"
+"32";"Puerto Trinidad calle 47";"Berazategui";"BZ077";"12/11/2014";"2014";"primavera";"25.2";"no se midió";"no se midió";"1500";"700";"< 300";"9.69";"1";"38";"51";"Muy deteriorada"
+"33";"Costanera Hudson Calle 63";"Berazategui";"BZ080";"12/11/2014";"2014";"primavera";"23.3";"no se midió";"no se midió";"700";"700";"300";"10.3";"0.35";"42";"70";"Levemente deteriorada"
+"34";"Camping Eva Perón";"Ensenada";"EN081";"12/11/2014";"2014";"primavera";"23.5";"7.36";"7.88";"4800";"1500";"400";"9.23";"0.61";"29";"59";"Muy deteriorada"
+"35";"Toma de agua Club de Pesca";"Ensenada";"EN082";"12/11/2014";"2014";"primavera";"24.1";"4.95";"7.41";"400";"400";"< 300";"8.88";"0.12";"33";"71";"Levemente deteriorada"
+"36";"Arroyo El Gato";"Ensenada";"EN083";"12/11/2014";"2014";"primavera";"24.1";"1.29";"7.53";"24000";"24000";"1100";"6.15";"2";"35";"31";"Extremadamente detriorada"
+"37";"Ensenada Prefectura Isla Santiago";"Ensenada";"EN084";"12/11/2014";"2014";"primavera";"22.6";"4.85";"7.38";"2300";"900";"900";"7.94";"0.39";"25";"65";"Levemente deteriorada"
+"38";"Diagonal 66 (descarga cloaca)";"Berisso";"BS095";"12/11/2014";"2014";"primavera";"26.5";"3.07";"7.32";"> 110000";"46000";"1500";"8.53";"0.8";"63";"30";"Extremadamente detriorada"
+"39";"Balneario Municipal";"Berisso";"BS094";"12/11/2014";"2014";"primavera";"22.3";"5.85";"7.42";"400";"400";"< 300";"10.66";"0.1";"39";"71";"Levemente deteriorada"
+"40";"Playa La Balandra";"Berisso";"BS093";"12/11/2014";"2014";"primavera";"21.3";"8.04";"8.08";"2300";"900";"< 300";"8.96";"0.1";"64";"75";"Levemente deteriorada"
