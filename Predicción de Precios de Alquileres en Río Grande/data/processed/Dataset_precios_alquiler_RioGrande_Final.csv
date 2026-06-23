@@ -1,0 +1,169 @@
+ID;Precio;Barrio;Ciudad;Mapa ubicacion;Latitud;Longitud;Ambientes;Metros²;Tipo_propiedad;Amoblado;Antigüedad;Baños;Cochera;Mascotas_permitidas;Expensas_incluidas;Fecha_publicacion;Fecha_relevamiento;Fuentes;Id_publicacion
+1;400.000,00;centro;rio grande;como llegar;-53,786938;-67,708307;2;85;departamento;no;28;1;no;NaN;no;27-04-2026;16-05-2026;Mercado Libre;slc1871
+2;550.000,00;camionero;rio grande;como llegar;-53,784657;-67,724129;3;70;loft;no;20;1;si;si;no;27-04-2026;16-05-2026;Mercado Libre;slc1872
+3;600.000,00;mutual;rio grande;como llegar;-53,771053;-67,710684;3;56;duplex;semi;NaN;1;no;NaN;NaN;08/05/2026;16-05-2026;Argenprop;slc1873
+4;750.000,00;cgt;rio grande;como llegar;-53,75951;-67,727405;3;60;casa;no;NaN;1;si;si;NaN;08/05/2026;16-05-2026;Argenprop;slc1874
+5;480.000,00;chacra XIII;rio grande;como llegar;-53,800836;-67,753992;4;67;departamento;no;14;1;si;NaN;NaN;08/05/2026;16-05-2026;Argenprop;slc1875
+6;500.000,00;centro;rio grande;como llegar;-32,802409;-70,906997;2;30;departamento;no;a estrenar;1;no;NaN;NaN;08/05/2026;16-05-2026;Argenprop;slc1876
+7;750.000,00;centro;rio grande;como llegar;-53,781672;-67,694712;3;54;departamento;si;NaN;1;no;NaN;NaN;08/05/2026;16-05-2026;Argenprop;slc1877
+8;700.000,00;mutual;rio grande;como llegar;-53,770672;-67,713129;3;100;duplex;no;NaN;1;no;NaN;si;08/05/2026;16-05-2026;Argenprop;slc1878
+9;500.000,00;cgt;rio grande;como llegar;-53,774095;-67,728926;2;40;departamento;no;NaN;1;no;no  ;NaN;08/05/2026;16-05-2026;Argenprop;slc1879
+10;480.000,00;chacra IV;rio grande;como llegar;-53,774314;-67,728872;2;50;departamento;no;NaN;1;no;NaN;NaN;08/05/2026;16-05-2026;Argenprop;slc1880
+11;750.000,00;chacra XIII;rio grande;como llegar;-53,799821;-67,756489;4;67;departamento;no;NaN;1;si;NaN;NaN;08/05/2026;16-05-2026;Inmobiliaria TDF;slc1881
+12;450.000,00;danes;rio grande;como llegar;-53,792378;-67,723764;2;45;departamento;no;NaN;1;no;NaN;NaN;08/05/2026;16-05-2026;Inmobiliaria TDF;slc1882
+13;400.000,00;intevu;rio grande;como llegar;-53,790895;-67,722465;2;45;departamento;no;NaN;1;no;no;NaN;08/05/2026;16-05-2026;Inmobiliaria TDF;slc1883
+14;1.400.000,00;centro;rio grande;como llegar;-53,756865;-67,726086;2;190;casa;no;NaN;1;no;no;no;08/05/2026;16-05-2026;Inmobiliaria TDF;slc1884
+15;450.000,00;chacra XIII;rio grande;como llegar;-53,801155;-67,759848;2;55;departamento;no;NaN;1;no;NaN;NaN;08/05/2026;16-05-2026;Inmobiliaria TDF;slc1885
+16;600.000,00;chacra II;rio grande;como llegar;-53,765856;-67,723841;4;53;departamento;no;NaN;1;no;NaN;NaN;08/05/2026;16-05-2026;Inmobiliaria TDF;slc1886
+17;750.000,00;centro;rio grande;como llegar;-53,791059;-67,691998;3;80;departamento;no;NaN;1;no;NaN;NaN;08/05/2026;16-05-2026;Inmobiliaria TDF;slc1887
+18;700.000,00;buena vista;rio grande;como llegar;-53,772582;-67,721139;3;60;departamento;no;NaN;1;si;NaN;NaN;08/05/2026;16-05-2026;Inmobiliaria TDF;slc1888
+19;450.000,00;chacra XIII;rio grande;como llegar;-53,799418;-67,751896;2;60;departamento;semi;NaN;1;si;NaN;NaN;08/05/2026;16-05-2026;Inmobiliaria TDF;slc1889
+20;1.500.000,00;agp;rio grande;como llegar;-53,796997;-67,683927;6;240;casa;no;NaN;3;si;NaN;NaN;08/05/2026;16-05-2026;Inmobiliaria TDF;slc1890
+21;700.000,00;chacra rafull;rio grande;como llegar;-53,780077;-67,718139;4;70;departamento;no;NaN;1;si;NaN;NaN;08/05/2026;16-05-2026;Inmobiliaria TDF;slc1891
+22;650.000,00;san martin;rio grande;como llegar;-53,789218;-67,734241;4;45;departamento;no;NaN;1;no;NaN;NaN;08/05/2026;16-05-2026;Inmobiliaria TDF;slc1892
+23;2.400.000,00;barrancas;rio grande;como llegar;-53,751535;-67,734949;8;190;casa;si;NaN;3;si;NaN;NaN;08/05/2026;16-05-2026;Inmobiliaria TDF;slc1893
+24;770.000,00;centro;rio grande;como llegar;-53,785055;-67,697889;2;50;departamento;no;NaN;1;no;NaN;NaN;09/05/2026;17-05-2026;Soluciones Inmob.;slc1894
+25;600.000,00;chacra IV;rio grande;como llegar;-53,771072;-67,736591;3;NaN;casa;no;NaN;1;no;NaN;NaN;09/05/2026;17-05-2026;Soliciones Inmob.;slc1895
+26;400.000,00;aeropuerto;rio grande;como llegar;-53,789634;-67,751039;1;20;departamento;no;NaN;1;no;NaN;NaN;09/05/2026;17-05-2026;Soluciones Inmob.;slc1896
+27;600.000,00;danes;rio grande;como llegar;-53,784901;-67,715218;3;NaN;departamento;semi;NaN;1;no;NaN;NaN;09/05/2026;17-05-2026;Soluciones Inmob.;slc1897
+28;450.000,00;uom margen sur;rio grande;como llegar;-53,811352;-67,679979;2;30;departamento;no;a estrenar;1;si;no;NaN;09/05/2026;17-05-2026;Soluciones Inmob.;slc1898
+29;280.000,00;parque industrial;rio grande;como llegar;-53,795998;-67,717963;1;NaN;departamento;no;NaN;1;no;NaN;NaN;09/05/2026;17-05-2026;Soluciones Inmob.;slc1899
+30;790.000,00;chacra II;rio grande;como llegar;-53,768509;-67,718258;3;NaN;casa;no;NaN;1;si;NaN;NaN;09/05/2026;17-05-2026;Soluciones Inmob.;slc1900
+31;550.000,00;chacra II;rio grande;como llegar;-53,764579;-67,717703;3;NaN;departamento;no;NaN;1;no;NaN;NaN;09/05/2026;17-05-2026;Soluciones Inmob.;slc1901
+32;400.000,00;chacra IV;rio grande;como llegar;-53,772965;-67,736876;2;NaN;departamento;no;NaN;1;no;NaN;NaN;09/05/2026;17-05-2026;Soluciones Inmob.;slc1902
+33;900.000,00;centro;rio grande;como llegar;-53,782725;-67,697143;3;70;departamento;no;NaN;1;no;NaN;NaN;09/05/2026;17-05-2026;Soluciones Inmob.;slc1903
+34;1.950.000,00;mutual;rio grande;como llegar;-53,771888;-67,705285;9;NaN;casa;no;NaN;3;si;NaN;NaN;09/05/2026;17-05-2026;Soluciones Inmob.;slc1904
+35;1.700.000,00;chacra IV;rio grande;como llegar;-53,772974;-67,731593;6;180;casa;no;NaN;2;si;NaN;NaN;09/05/2026;17-05-2026;Soluciones Inmob.;slc1905
+36;880.000,00;centro;rio grande;como llegar;-53,789931;-67,705369;4;NaN;casa;no;NaN;1;no;NaN;NaN;09/05/2026;17-05-2026;Soluciones Inmob.;slc1906
+37;350.000,00;vapor amadeo;rio grande;como llegar;-53,794823;-67,782109;1;20;monoambiente;no;a estrenar;1;no;NaN;NaN;09/05/2026;17-05-2026;Soluciones Inmob.;slc1907
+38;450.000,00;aeropuerto;rio grande;como llegar;-53,789058;-67,753533;4;105;casa;no;NaN;1;no;NaN;NaN;23/05/2026;17-05-2026;argenprop;slc1908
+39;750.000,00;aeropuerto;rio grande;como llegar;-53,788145;-67,751928;5;95;casa;no;NaN;2;si;NaN;NaN;23/05/2026;31-05-2026;Inmobiliaria TDF;slc1909
+40;600.000,00;cgt;rio grande;como llegar;-53,762478;-67,730151;5;67;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;31-05-2026;Inmobiliaria TDF;slc1910
+41;500.000,00;centro;rio grande;como llegar;-53,788587;-67,713385;2;35;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;31-05-2026;Soluciones Inmob.;slc1911
+42;490.000,00;san martin;rio grande;como llegar;-53,787951;-67,729965;2;NaN;departamento;no;NaN;1;no;si;NaN;23/05/2026;31-05-2026;Soluciones Inmob.;slc1912
+43;820.000,00;mutual;rio grande;como llegar;-53,773076;-67,706724;3;NaN;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;31-05-2026;Soluciones Inmob.;slc1913
+44;510.000,00;buena vista;rio grande;como llegar;-53,773092;-67,718073;3;NaN;departamento;no;NaN;1;no;si;NaN;23/05/2026;31-05-2026;Soluciones Inmob.;slc1914
+45;430.000,00;austral;rio grande;como llegar;-53,801797;-67,662919;2;NaN;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;31-05-2026;Soluciones Inmob.;slc1915
+46;620.000,00;cgt;rio grande;como llegar;-53,765557;-67,731807;3;NaN;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;31-05-2026;Soluciones Inmob.;slc1916
+47;440.000,00;camionero;rio grande;como llegar;-53,784069;-67,722821;3;NaN;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;31-05-2026;Soluciones Inmob.;slc1917
+48;750.000,00;chacra XI ;rio grande;como llegar;-53,787737;-67,771412;2;40;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;31-05-2026;Solucione Inmob.;slc1918
+49;750.000,00;parque industrial;rio grande;como llegar;-53,795827;-67,719679;6;NaN;casa;no;NaN;1;no;NaN;NaN;23/05/2026;31-05-2026;Soluciones Inmob.;slc1919
+50;490.000,00;cgt;rio grande;como llegar;-53,764921;-67,730727;2;NaN;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;31-05-2026;Soluciones Inmob.;slc1920
+51;920.000,00;mutual;rio grande;como llegar;-53,773512;-67,714424;3;NaN;duplex;no;NaN;1;si;NaN;NaN;23/05/2026;31-05-2026;Soluciones Inmob.;slc1921
+52;400.000,00;centro;rio grande;como llegar;-53,793593;-67,701241;1;NaN;monoambiente;no;NaN;1;no;no;NaN;23/05/2026;31-05-2026;Soluciones Inmob.;slc1922
+53;380.000,00;austral;rio grande;como llegar;-53,805416;-67,673929;3;NaN;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;31-05-2026;Soluciones Inmob.;slc1923
+54;1.200.00,00;mutual;rio grande;como llegar;-53,766945;-67,714493;4;NaN;casa;no;NaN;2;no;NaN;NaN;02-04-2026;31-05-2026;Soluciones Inmob.;slc1924
+55;2.400.000,00;las barrancas;rio grande;como llegar;-53,758105;-67,726599;7;NaN;casa;si;NaN;3;si;NaN;NaN;23/05/2026;31-05-2026;Soluciones Inmob.;slc1925
+56;790.000,00;mutual;rio grande;como llegar;-53,772469;-67,710788;3;NaN;departamento;no;NaN;2;no;NaN;NaN;23/05/2026;31-05-2026;Soluciones Inmob.;slc1926
+57;600.000,00;danes;rio grande;como llegar;-53,785142;-67,715057;3;NaN;departamento;semi;NaN;1;no;NaN;NaN;23/05/2026;31-05-2026;Soluciones Inmob.;slc1927
+58;520.000,00;chacra XI;rio grande;como llegar;-53,791411;-67,711082;2;45;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1928
+59;680.000,00;chacra IV;rio grande;como llegar;-53,786497;-67,706634;3;75;departamento;no;NaN;1;sí;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1929
+60;480.000,00;buena vista;rio grande;como llegar;-53,774622;-67,723618;2;40;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1930
+61;800.000,00;centro;rio grande;como llegar;-53,782944;-67,710486;4;95;casa;no;NaN;2;sí;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1931
+62;390.000,00;vapor amadeo;rio grande;como llegar;-53,807419;-67,779917;1;25;monoambiente;no;a estrenar;1;no;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1932
+63;950.000,00;mutual;rio grande;como llegar;-53,789062;-67,707071;3;85;dúplex;no;NaN;2;sí;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1933
+64;470.000,00;chacra XIII;rio grande;como llegar;-53,801766;-67,758179;2;50;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1934
+65;1.200.000.00;las barrancas;rio grande;como llegar;-53,758149;-67,724837;5;150;casa;sí;NaN;3;sí;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1935
+66;430.000,00;aeropuerto;rio grande;como llegar;-53,788189;-67,748817;2;35;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1936
+67;780.000,00;centro;rio grande;como llegar;-53,786963;-67,696197;3;70;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1937
+68;560.000,00;chacra II;rio grande;como llegar;-53,782452;-67,711181;3;65;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1938
+69;720.000,00;chacra IV;rio grande;como llegar;-53,784741;-67,709719;4;80;casa;no;NaN;2;sí;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1939
+70;480.000,00;buena vista;rio grande;como llegar;-53,773044;-67,727492;2;42;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1940
+71;890.000,00;centro;rio grande;como llegar;-53,789496;-67,699177;3;75;dúplex;no;NaN;2;sí;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1941
+72;410.000,00;chacra XIII;rio grande;como llegar;-53,801159;-67,752399;2;38;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1942
+73;1.050.000,00;barrancas;rio grande;como llegar;-53,757566;-67,725416;5;160;casa;sí;NaN;3;sí;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1943
+74;460.000,00;aeropuerto;rio grande;como llegar;-53,788344;-67,749675;2;36;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1944
+75;780.000,00;mutual;rio grande;como llegar;-53,771838;-67,709451;3;72;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1945
+76;920.000,00;chacra XI;rio grande;como llegar;-53,796141;-67,717124;4;90;casa;no;NaN;2;sí;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1946
+77;500.000,00;vapor amadeo;rio grande;como llegar;-53,807551;-67,779997;2;40;departamento;no;a estrenar;1;no;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1947
+78;620.000,00;centro;rio grande;como llegar;-53,779921;-67,713398;2;55;Departamento;No;NaN;1;No;NaN;NaN;01/06/2026;01/06/2026;Soluciones Inmob.;slc1948
+79;710.000,00;centro;rio grande;como llegar;-53,782944;-67,710486;3;70;Departamento;No;NaN;1;Sí;NaN;NaN;01/06/2026;01/06/2026;Soluciones Inmob.;slc1949
+80;880.000,00;centro;rio grande;como llegar;-53,785072;-67,709396;4;85;Casa;No;NaN;2;Sí;NaN;NaN;01/06/2026;01/06/2026;Soluciones Inmob.;slc1950
+81;470.000,00;mutual;rio grande;como llegar;-53,774051;-67,708024;2;45;Departamento;No;NaN;1;No;NaN;NaN;01/06/2026;01/06/2026;Soluciones Inmob.;slc1951
+82;1.050.000,00;buena vista;rio grande;como llegar;-53,773199;-67,720604;5;150;Casa;Sí;NaN;3;Sí;NaN;NaN;01/06/2026;01/06/2026;Soluciones Inmob.;slc1952
+83;560.000,00;aeropuerto;rio grande;como llegar;-53,788068;-67,750855;2;40;Departamento;No;NaN;1;No;NaN;NaN;01/06/2026;01/06/2026;Soluciones Inmob.;slc1953
+84;780.000,00;buena vista;rio grande;como llegar;-53,774616;-67,723369;3;72;Departamento;No;NaN;1;No;NaN;NaN;01/06/2026;01/06/2026;Soluciones Inmob.;slc1954
+85;920.000,00;vapor amadeo;rio grande;como llegar;-53,807274;-67,779948;4;90;Casa;No;NaN;2;Sí;NaN;NaN;01/06/2026;01/06/2026;Soluciones Inmob.;slc1955
+86;410.000,00;chacra XIII;rio grande;como llegar;-53,801027;67,752321;2;38;Departamento;No;NaN;1;No;NaN;NaN;01/06/2026;01/06/2026;Soluciones Inmob.;slc1956
+87;1.200.000,00;barrancas;rio grande;como llegar;-53,758343;-67,726457;5;160;Casa;Sí;NaN;3;Sí;NaN;NaN;01/06/2026;01/06/2026;Soluciones Inmob.;slc1957
+88;720.000,00;Centro;rio grande;como llegar;-53,785456;-67,703023;2;55;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Autral;slc1968
+89;950.000,00;Chacra II;rio grande;como llegar;-53,766013;-67,723367;3;80;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Autral;slc1969
+90;680.000.00;mutual;rio grande;como llegar;-53,773033;-67,706719;2;50;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1970
+91;1.150.000,00;barrancas;rio grande;como llegar;-53,759757;-67,725835;4;140;Casa;Sí;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1971
+92;850.000,00;buena vista;rio grande;como llegar;-53,771649;-67,717943;3;75;Casa;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Autral;slc1972
+93;620.000,00;aeropuerto;rio grande;como llegar;-53,788068;-67,748859;2;45;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1973
+94;780.000,00;centro;rio grande;como llegar;-53,786591;-67,701911;2;60;Departamento;Sí;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1974
+95;1.350.000,00;vapor amadeo;rio grande;como llegar;-537,81911;-677,14911;5;180;Casa;Sí;3;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Autral;slc1975
+96;890.000,00;chacra XIII;rio grande;como llegar;-537,69191;-677,22911;3;85;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1976
+97;730.000,00;mutual;rio grande;como llegar;-537,74911;-677,19111;2;58;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1977
+98;990.000,00;buena vista;rio grande;como llegar;-537,71911;-677,18911;4;110;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Autral;slc1978
+99;610.000,00;aeropuerto;rio grande;como llegar;-537,88911;-677,48911;2;42;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1979
+100;1.280.000,00;barrancas;rio grande;como llegar;-537,59911;-677,25911;5;170;Casa;Sí;3;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1980
+101;760.000,00;centro;rio grande;como llegar;-53,786591;-67,701911;3;68;Departamento;Sí;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Autral;slc1981
+102;840.000,00;chacra II;rio grande;como llegar;-537,73919;-677,06919;3;78;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1982
+103;690.000,00;vapor amadeo;rio grande;como llegar;-537,81911;-677,14911;2;52;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1983
+104;1.080.000,00;buena vista;rio grande;como llegar;-537,71911;-677,18911;4;125;Casa;Sí;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Autral;slc1984
+105;740.000,00;centro;rio grande;como llegar;-53,787689;-67,700679;2;62;Departamento;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1985
+106;580.000,00;aeropuerto;rio grande;como llegar;-537,88911;-677,48911;1;38;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Autral;slc1986
+107;1.420.000,00;barrancas;rio grande;como llegar;-537,59911;-677,25911;6;210;Casa;Sí;3;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1987
+108;450.000,00;Chacra XI;rio grande;como llegar;-53,788846;-67,767237;2;25;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat148
+109;370.000,00;Chacra IX;rio grande;como llegar;-53,797468;-67,749989;1;30;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat149
+110;690.000,00;Centro;rio grande;como llegar;-53,786613;-67,696811;2;50;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat150
+111;840.000,00;Centro;rio grande;como llegar;-53,788058;-67,700168;3;60;Departamento;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat151
+112;330.000,00;Punta Popper;rio grande;como llegar;-53,792569;-67,671701;2;40;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat152
+113;600.000,00;Mutual;rio grande;como llegar;-53,771589;-67,708608;3;40;Oficina;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat153
+114;820.000,00;Chacra IV;rio grande;como llegar;-53,770376;-67,736807;4;87;Casa;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat154
+115;1.180.000,00;Centro;rio grande;como llegar;-53,786566;-67,701947;4;130;Casa;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat155
+116;1.200.000,00;Chacra II;rio grande;como llegar;-537,73927;-677,06927;4;130;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat156
+117;1.100.000,00;Chacra IV;rio grande;como llegar;-53,770452;-67,736957;4;90;Casa;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat157
+118;1.350.000,00;Chacra II;rio grande;como llegar;-53,767106;-67,723635;5;120;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat158
+119;2.000.000,00;Mutual;rio grande;como llegar;-53,773567;-67,709702;5;200;Casa;Sí;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat159
+120;2.400.000,00;Barrancas;rio grande;como llegar;-53,758889;-67,727023;7;190;Casa;Sí;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat160
+121;1.500.000,00;Profesional;rio grande;como llegar;-53,768318;-67,707069;5;140;Departamento;Sí;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat161
+122;1.500.000,00;Centro;rio grande;como llegar;-53,783885;-67,702291;4;200;Casa;Sí;3;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat162
+123;620.000,00;Chacra XIII;rio grande;como llegar;-53,803974;-67,758214;3;55;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat163
+124;670.000,00;Centro;rio grande;como llegar;-53,782751;-67,697154;2;48;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat164
+125;740.000,00;Centro;rio grande;como llegar;-53,785886;-67,697778;3;58;Departamento;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat165
+126;920.000,00;Chacra II;rio grande;como llegar;-53,767256;-67,723854;4;95;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat166
+127;1.050.000,00;Buena Vista;rio grande;como llegar;-53,773248;-67,720529;4;118;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat167
+128;580.000,00;Punta Popper;rio grande;como llegar;-53,792677;-67,671879;2;45;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat168
+129;790.000,00;Centro;rio grande;como llegar;-53,782062;-67,708925;3;64;Departamento;Sí;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat169
+130;1.180.000,00;Chacra IV;rio grande;como llegar;-53,770632;-67,737112;4;110;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat170
+131;1.260.000,00;Barrancas;rio grande;como llegar;-537,59958;-677,25957;5;155;Casa;Sí;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat171
+132;520.000,00;Chacra XIII;rio grande;como llegar;-53,803898;-67,758116;2;42;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat172
+133;870.000,00;Mutual;rio grande;como llegar;-53,772438;-67,708179;3;82;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat173
+134;760.000,00;Centro;rio grande;como llegar;-53,782913;-67,710518;3;62;Departamento;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat174
+135;940.000,00;Vapor Amadeo;rio grande;como llegar;-53,807239;-67,779884;4;90;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat175
+136;690.000,00;Austral;rio grande;como llegar;-53,804671;-67,666618;2;50;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat176
+137;1.380.000,00;Chacra II;rio grande;como llegar;-53,767233;-67,723855;5;125;Casa;Sí;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat177
+138;450.000,00;Chacra XI;rio grande;como llegar;-53,788852;-67,767248;2;25;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat148
+139;370.000,00;Chacra IX;rio grande;como llegar;-53,797489;-67,749997;1;30;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat149
+140;690.000,00;Centro;rio grande;como llegar;-53,783957;-67,702314;2;50;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat150
+141;840.000,00;Centro;rio grande;como llegar;-53,788096;-67,700125;3;60;Departamento;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat151
+142;330.000,00;Punta Popper;rio grande;como llegar;-53,794063;-67,670416;2;40;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat152
+143;600.000,00;Mutual;rio grande;como llegar;-53,773124;-67,711378;3;40;Oficina;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat153
+144;820.000,00;Chacra IV;rio grande;como llegar;-53,770647;-67,737195;4;87;Casa;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat154
+145;1.180.000,00;Centro;rio grande;como llegar;-53,782978;-67,710575;4;130;Casa;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat155
+146;1.200.000,00;Chacra II;rio grande;como llegar;-53,767275;-67,723898;4;130;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat156
+147;1.100.000,00;Chacra IV;rio grande;como llegar;-53,770647;-67,737127;4;90;Casa;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat157
+148;1.350.000,00;Chacra II;rio grande;como llegar;-53,767357;-67,723945;5;120;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat158
+149;2.000.000,00;Mutual;rio grande;como llegar;-53,773047;-67,711312;5;200;Casa;Sí;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat159
+150;2.400.000,00;Barrancas;rio grande;como llegar;-53,759946;-67,725943;7;190;Casa;Sí;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat160
+151;1.500.000,00;Profesional;rio grande;como llegar;-53,768756;-67,707257;5;140;Departamento;Sí;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat161
+152;1.500.000,00;Centro;rio grande;como llegar;-53,782927;-67,710852;4;200;Casa;Sí;3;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat162
+153;620.000,00;Chacra XIII;rio grande;como llegar;-53,803898;-67,758116;3;55;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat163
+154;670.000,00;Centro;rio grande;como llegar;-53,782611;-67,697165;2;48;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat164
+155;740.000,00;Centro;rio grande;como llegar;-53,786197;-67,697799;3;58;Departamento;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat165
+156;920.000,00;Chacra II;rio grande;como llegar;-53,767774;-67,723994;4;95;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat166
+157;1.050.000,00;Buena Vista;rio grande;como llegar;-53,773357;-67,720552;4;118;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat167
+158;580.000,00;Punta Popper;rio grande;como llegar;-53,794125;-67,670514;2;45;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat168
+159;790.000,00;Centro;rio grande;como llegar;-53,781866;-67,708852;3;64;Departamento;Sí;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat169
+160;1.180.000,00;Chacra IV;rio grande;como llegar;-53,770687;-67,737167;4;110;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat170
+161;1.260.000,00;Barrancas;rio grande;como llegar;-537,59945;-677,25922;5;155;Casa;Sí;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat171
+162;520.000,00;Chacra XIII;rio grande;como llegar;-53,803898;-67,758116;2;42;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat172
+163;870.000,00;Mutual;rio grande;como llegar;-53,772832;-67,710303;3;82;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat173
+164;760.000,00;Centro;rio grande;como llegar;-53,782919;-67,710475;3;62;Departamento;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat174
+165;940.000,00;Vapor Amadeo;rio grande;como llegar;-53,80741;-67,779938;4;90;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat175
+166;690.000,00;Austral;rio grande;como llegar;-53,804677;-67,666621;2;50;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat176
+167;1.380.000,00;Chacra II;rio grande;como llegar;-53,767884;-67,724551;5;125;Casa;Sí;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmob. Latitud;lat177
+

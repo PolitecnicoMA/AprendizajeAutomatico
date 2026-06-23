@@ -1,0 +1,42 @@
+# Requerimientos del Proyecto
+
+## Entorno de desarrollo
+
+Este proyecto fue desarrollado utilizando Python 3.10 y las siguientes bibliotecas:
+
+```txt
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+seaborn>=0.13
+scikit-learn>=1.3
+openpyxl>=3.1
+```
+
+## Instalación
+
+Para instalar todas las dependencias necesarias, ejecutar:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Bibliotecas utilizadas
+
+| Biblioteca   | Descripción                                   |
+| ------------ | --------------------------------------------- |
+| pandas       | Manipulación y análisis de datos              |
+| numpy        | Operaciones numéricas y matrices              |
+| matplotlib   | Generación de gráficos y visualizaciones      |
+| seaborn      | Visualización estadística de datos            |
+| scikit-learn | Implementación de modelos de Machine Learning |
+| openpyxl     | Lectura y escritura de archivos Excel (.xlsx) |
+
+## Proyecto
+
+**Materia:** Aprendizaje Automático 2026
+**Proyecto:** Predicción de Precios de Alquileres en Río Grande, Tierra del Fuego
+**Autor:** Lionel Martínez
+
+El proyecto implementa modelos de Regresión Lineal, Árbol de Decisión y Random Forest para estimar precios de alquiler utilizando datos reales obtenidos de distintas plataformas inmobiliarias.
+
