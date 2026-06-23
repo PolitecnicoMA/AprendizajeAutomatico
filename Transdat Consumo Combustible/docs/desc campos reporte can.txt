@@ -1,0 +1,103 @@
+gral:
+  object: number
+  from: string
+  to: string
+  type: "can"
+  dvcType: "BCE"
+  _v: "next"
+  hash: string
+  kmRec: number # total km distance
+  engOnSec: number # (*) Engine On seconds
+  motionTime: number # (*) Motion Time seconds
+  maxSpeed: # (*)
+    speed: number
+    date: number
+  canKmRec: number # (*) Can odom km distance
+  canEngOnSec: number # (*) Can Eng On Sec
+  canConsL: number # (*) Can Fuel Consumed Lts
+  canL100Km: number # (*) Can L/100Km
+
+trips:
+  - type: "no-gps"
+    start: number # Date
+    end: number # Date
+    from: # (*)
+      lat: number
+      lng: number
+    to: # (*)
+      lat: number
+      lng: number
+    events:
+      - evDesc: string
+        date: number
+
+  - type: "parked"
+    lat: number
+    lng: number
+    start: number # Date
+    end: number # Date
+    idleTime: number # (*) Idle speed time in seconds
+    events:
+      - evDesc: string
+        date: number
+    dir: string
+    status: string # Time stopped
+
+  - type: "trip"
+    start: number # Date
+    end: number # Date
+    kmRec: number # total km distance
+    engOnSec: number # (*) Engine On seconds
+    motionTime: number # (*) Motion Time seconds
+    maxSpeed: # (*)
+      speed: number
+      date: number
+    canKmRec: number # (*) Can odom km distance
+    canEngOnSec: number # (*) Can Eng On Sec
+    canConsL: number # (*) Can Fuel Consumed Lts
+    canL100Km: number # (*) Can L/100Km
+    from: # (*)
+      lat: number
+      lng: number
+    to: # (*)
+      lat: number
+      lng: number
+    rows:
+      - date: number
+        lat: number
+        lng: number
+        alt: number
+        speed: number
+        heading: number
+        km: number
+        bat: number
+        wheel_speed: number # (*)
+        acc_pedal: number # (*)
+        total_fuel: number # (*)
+        can_fls: number # (*)
+        can_taho: number # (*)
+        can_engine_hrs: number # (*)
+        can_mileage: number # (*)
+        eng_temp: number # (*)
+        fuel_con_ins: number # (*)
+        kmp: number # Partial kms
+        evDesc: string
+        dir: string
+details:
+  - date: number
+    lat: number
+    lng: number
+    speed: number
+    heading: number
+    km: number
+    bat: number
+    engOn: boolean
+    evDesc: string
+    wheel_speed: number # (*)
+    total_fuel: number # (*)
+    can_fls: number # (*)
+    can_taho: number # (*)
+    can_engine_hrs: number # (*)
+    can_mileage: number # (*)
+    eng_temp: number # (*)
+    dir: string
