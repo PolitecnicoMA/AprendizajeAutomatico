@@ -1,0 +1,281 @@
+Año,Provincia,Especie,Produccion_Toneladas,Temperatura_Media_Anual_C,Categoria_Produccion
+1996,Neuquén,Trucha Arcoíris,769.0,11.5,Alta
+1996,Río Negro,Trucha Arcoíris,685.0,10.5,Alta
+1996,Buenos Aires,Trucha Arcoíris,40.0,17.0,Alta
+1996,Chubut,Trucha Arcoíris,21.0,9.0,Baja
+1996,Tierra del Fuego,Trucha Arcoíris,0.0,5.5,Baja
+1996,Córdoba,Trucha Arcoíris,5.0,16.5,Baja
+1996,Mendoza,Trucha Arcoíris,45.0,15.5,Alta
+1996,Santa Fe,Trucha Arcoíris,19.0,17.5,Baja
+1996,Misiones,Trucha Arcoíris,26.0,21.0,Baja
+1996,Chaco,Trucha Arcoíris,44.0,23.0,Alta
+1997,Neuquén,Trucha Arcoíris,526.0,12.0,Alta
+1997,Río Negro,Trucha Arcoíris,645.0,10.5,Alta
+1997,Buenos Aires,Trucha Arcoíris,16.0,17.0,Baja
+1997,Chubut,Trucha Arcoíris,28.0,9.0,Baja
+1997,Tierra del Fuego,Trucha Arcoíris,0.0,6.5,Baja
+1997,Córdoba,Trucha Arcoíris,35.0,17.0,Alta
+1997,Mendoza,Trucha Arcoíris,16.0,15.0,Baja
+1997,Santa Fe,Trucha Arcoíris,49.0,18.0,Alta
+1997,Misiones,Trucha Arcoíris,38.0,20.5,Alta
+1997,Chaco,Trucha Arcoíris,2.0,23.0,Baja
+1998,Neuquén,Trucha Arcoíris,759.0,12.0,Alta
+1998,Río Negro,Trucha Arcoíris,724.0,11.5,Alta
+1998,Buenos Aires,Trucha Arcoíris,36.0,17.0,Alta
+1998,Chubut,Trucha Arcoíris,5.0,9.5,Baja
+1998,Tierra del Fuego,Trucha Arcoíris,0.0,5.5,Baja
+1998,Córdoba,Trucha Arcoíris,44.0,17.5,Alta
+1998,Mendoza,Trucha Arcoíris,11.0,15.0,Baja
+1998,Santa Fe,Trucha Arcoíris,10.0,18.5,Baja
+1998,Misiones,Trucha Arcoíris,43.0,21.5,Alta
+1998,Chaco,Trucha Arcoíris,11.0,23.0,Baja
+1999,Neuquén,Trucha Arcoíris,745.0,11.5,Alta
+1999,Río Negro,Trucha Arcoíris,663.0,10.5,Alta
+1999,Buenos Aires,Trucha Arcoíris,40.0,17.0,Alta
+1999,Chubut,Trucha Arcoíris,19.0,9.5,Baja
+1999,Tierra del Fuego,Trucha Arcoíris,0.0,6.5,Baja
+1999,Córdoba,Trucha Arcoíris,15.0,17.5,Baja
+1999,Mendoza,Trucha Arcoíris,24.0,14.5,Alta
+1999,Santa Fe,Trucha Arcoíris,2.0,18.5,Baja
+1999,Misiones,Trucha Arcoíris,38.0,21.0,Alta
+1999,Chaco,Trucha Arcoíris,8.0,23.0,Baja
+2000,Neuquén,Trucha Arcoíris,760.0,12.0,Alta
+2000,Río Negro,Trucha Arcoíris,719.0,11.0,Alta
+2000,Buenos Aires,Trucha Arcoíris,39.0,17.0,Alta
+2000,Chubut,Trucha Arcoíris,15.0,9.0,Baja
+2000,Tierra del Fuego,Trucha Arcoíris,0.0,6.0,Baja
+2000,Córdoba,Trucha Arcoíris,7.0,16.5,Baja
+2000,Mendoza,Trucha Arcoíris,25.0,14.5,Alta
+2000,Santa Fe,Trucha Arcoíris,17.0,18.5,Baja
+2000,Misiones,Trucha Arcoíris,10.0,21.5,Baja
+2000,Chaco,Trucha Arcoíris,43.0,23.0,Alta
+2001,Neuquén,Trucha Arcoíris,661.0,11.5,Alta
+2001,Río Negro,Trucha Arcoíris,801.0,11.5,Alta
+2001,Buenos Aires,Trucha Arcoíris,17.0,16.5,Alta
+2001,Chubut,Trucha Arcoíris,1.0,8.5,Baja
+2001,Tierra del Fuego,Trucha Arcoíris,0.0,6.5,Baja
+2001,Córdoba,Trucha Arcoíris,12.0,17.5,Alta
+2001,Mendoza,Trucha Arcoíris,1.0,15.0,Baja
+2001,Santa Fe,Trucha Arcoíris,6.0,18.0,Baja
+2001,Misiones,Trucha Arcoíris,3.0,21.5,Baja
+2001,Chaco,Trucha Arcoíris,16.0,22.5,Alta
+2002,Neuquén,Trucha Arcoíris,583.0,11.5,Alta
+2002,Río Negro,Trucha Arcoíris,716.0,11.5,Alta
+2002,Buenos Aires,Trucha Arcoíris,14.0,17.0,Baja
+2002,Chubut,Trucha Arcoíris,8.0,9.5,Baja
+2002,Tierra del Fuego,Trucha Arcoíris,0.0,6.0,Baja
+2002,Córdoba,Trucha Arcoíris,8.0,17.0,Baja
+2002,Mendoza,Trucha Arcoíris,11.0,15.0,Baja
+2002,Santa Fe,Trucha Arcoíris,26.0,17.5,Alta
+2002,Misiones,Trucha Arcoíris,49.0,21.0,Alta
+2002,Chaco,Trucha Arcoíris,16.0,22.5,Alta
+2003,Neuquén,Trucha Arcoíris,732.0,11.5,Alta
+2003,Río Negro,Trucha Arcoíris,630.0,10.5,Alta
+2003,Buenos Aires,Trucha Arcoíris,21.0,17.5,Baja
+2003,Chubut,Trucha Arcoíris,12.0,9.5,Baja
+2003,Tierra del Fuego,Trucha Arcoíris,0.0,5.5,Baja
+2003,Córdoba,Trucha Arcoíris,24.0,17.0,Alta
+2003,Mendoza,Trucha Arcoíris,43.0,14.5,Alta
+2003,Santa Fe,Trucha Arcoíris,0.0,18.5,Baja
+2003,Misiones,Trucha Arcoíris,20.0,21.0,Baja
+2003,Chaco,Trucha Arcoíris,31.0,22.5,Alta
+2004,Neuquén,Trucha Arcoíris,648.0,12.0,Alta
+2004,Río Negro,Trucha Arcoíris,844.0,11.5,Alta
+2004,Buenos Aires,Trucha Arcoíris,35.0,17.5,Alta
+2004,Chubut,Trucha Arcoíris,42.0,8.5,Alta
+2004,Tierra del Fuego,Trucha Arcoíris,0.0,5.5,Baja
+2004,Córdoba,Trucha Arcoíris,6.0,17.0,Baja
+2004,Mendoza,Trucha Arcoíris,14.0,15.0,Baja
+2004,Santa Fe,Trucha Arcoíris,24.0,18.0,Alta
+2004,Misiones,Trucha Arcoíris,15.0,20.5,Baja
+2004,Chaco,Trucha Arcoíris,0.0,23.0,Baja
+2005,Neuquén,Trucha Arcoíris,843.0,11.5,Alta
+2005,Río Negro,Trucha Arcoíris,883.0,10.5,Alta
+2005,Buenos Aires,Trucha Arcoíris,1.0,17.5,Baja
+2005,Chubut,Trucha Arcoíris,44.0,9.5,Alta
+2005,Tierra del Fuego,Trucha Arcoíris,0.0,5.5,Baja
+2005,Córdoba,Trucha Arcoíris,45.0,17.0,Alta
+2005,Mendoza,Trucha Arcoíris,40.0,15.5,Baja
+2005,Santa Fe,Trucha Arcoíris,40.0,18.5,Baja
+2005,Misiones,Trucha Arcoíris,22.0,21.0,Baja
+2005,Chaco,Trucha Arcoíris,44.0,23.0,Alta
+2006,Neuquén,Trucha Arcoíris,670.0,12.5,Alta
+2006,Río Negro,Trucha Arcoíris,791.0,11.5,Alta
+2006,Buenos Aires,Trucha Arcoíris,33.0,16.5,Alta
+2006,Chubut,Trucha Arcoíris,27.0,9.5,Baja
+2006,Tierra del Fuego,Trucha Arcoíris,0.0,6.5,Baja
+2006,Córdoba,Trucha Arcoíris,8.0,16.5,Baja
+2006,Mendoza,Trucha Arcoíris,38.0,15.0,Alta
+2006,Santa Fe,Trucha Arcoíris,19.0,18.5,Baja
+2006,Misiones,Trucha Arcoíris,0.0,20.5,Baja
+2006,Chaco,Trucha Arcoíris,29.0,22.5,Alta
+2007,Neuquén,Trucha Arcoíris,791.0,12.0,Alta
+2007,Río Negro,Trucha Arcoíris,659.0,11.5,Alta
+2007,Buenos Aires,Trucha Arcoíris,2.0,17.0,Baja
+2007,Chubut,Trucha Arcoíris,32.0,8.5,Baja
+2007,Tierra del Fuego,Trucha Arcoíris,0.0,5.5,Baja
+2007,Córdoba,Trucha Arcoíris,49.0,16.5,Alta
+2007,Mendoza,Trucha Arcoíris,46.0,15.5,Alta
+2007,Santa Fe,Trucha Arcoíris,37.0,18.5,Baja
+2007,Misiones,Trucha Arcoíris,18.0,20.5,Baja
+2007,Chaco,Trucha Arcoíris,42.0,22.5,Alta
+2008,Neuquén,Trucha Arcoíris,888.0,12.0,Alta
+2008,Río Negro,Trucha Arcoíris,748.0,11.5,Alta
+2008,Buenos Aires,Trucha Arcoíris,35.0,17.0,Alta
+2008,Chubut,Trucha Arcoíris,30.0,9.0,Baja
+2008,Tierra del Fuego,Trucha Arcoíris,0.0,6.5,Baja
+2008,Córdoba,Trucha Arcoíris,7.0,16.5,Baja
+2008,Mendoza,Trucha Arcoíris,10.0,15.5,Baja
+2008,Santa Fe,Trucha Arcoíris,15.0,18.5,Baja
+2008,Misiones,Trucha Arcoíris,38.0,21.0,Alta
+2008,Chaco,Trucha Arcoíris,34.0,23.5,Alta
+2009,Neuquén,Trucha Arcoíris,831.0,12.0,Alta
+2009,Río Negro,Trucha Arcoíris,753.0,10.5,Alta
+2009,Buenos Aires,Trucha Arcoíris,11.0,17.5,Baja
+2009,Chubut,Trucha Arcoíris,3.0,9.5,Baja
+2009,Tierra del Fuego,Trucha Arcoíris,0.0,6.0,Baja
+2009,Córdoba,Trucha Arcoíris,2.0,16.5,Baja
+2009,Mendoza,Trucha Arcoíris,47.0,15.5,Alta
+2009,Santa Fe,Trucha Arcoíris,17.0,18.0,Alta
+2009,Misiones,Trucha Arcoíris,36.0,21.0,Alta
+2009,Chaco,Trucha Arcoíris,0.0,22.5,Baja
+2010,Neuquén,Trucha Arcoíris,789.0,12.0,Alta
+2010,Río Negro,Trucha Arcoíris,744.0,11.5,Alta
+2010,Buenos Aires,Trucha Arcoíris,5.0,16.5,Baja
+2010,Chubut,Trucha Arcoíris,40.0,9.0,Alta
+2010,Tierra del Fuego,Trucha Arcoíris,3.0,6.5,Baja
+2010,Córdoba,Trucha Arcoíris,40.0,16.5,Alta
+2010,Mendoza,Trucha Arcoíris,34.0,14.5,Alta
+2010,Santa Fe,Trucha Arcoíris,10.0,18.5,Baja
+2010,Misiones,Trucha Arcoíris,0.0,20.5,Baja
+2010,Chaco,Trucha Arcoíris,29.0,23.0,Baja
+2011,Neuquén,Trucha Arcoíris,792.0,12.5,Alta
+2011,Río Negro,Trucha Arcoíris,723.0,11.0,Alta
+2011,Buenos Aires,Trucha Arcoíris,17.0,17.0,Baja
+2011,Chubut,Trucha Arcoíris,4.0,8.5,Baja
+2011,Tierra del Fuego,Trucha Arcoíris,3.5,6.5,Baja
+2011,Córdoba,Trucha Arcoíris,24.0,17.0,Baja
+2011,Mendoza,Trucha Arcoíris,38.0,15.0,Alta
+2011,Santa Fe,Trucha Arcoíris,25.0,17.5,Alta
+2011,Misiones,Trucha Arcoíris,39.0,21.0,Alta
+2011,Chaco,Trucha Arcoíris,10.0,23.0,Baja
+2012,Neuquén,Trucha Arcoíris,699.0,12.0,Alta
+2012,Río Negro,Trucha Arcoíris,683.0,11.5,Alta
+2012,Buenos Aires,Trucha Arcoíris,7.0,17.5,Baja
+2012,Chubut,Trucha Arcoíris,34.0,9.5,Baja
+2012,Tierra del Fuego,Trucha Arcoíris,4.0,5.5,Baja
+2012,Córdoba,Trucha Arcoíris,18.0,17.5,Baja
+2012,Mendoza,Trucha Arcoíris,6.0,15.0,Baja
+2012,Santa Fe,Trucha Arcoíris,36.0,18.5,Alta
+2012,Misiones,Trucha Arcoíris,36.0,20.5,Alta
+2012,Chaco,Trucha Arcoíris,45.0,22.5,Alta
+2013,Neuquén,Trucha Arcoíris,776.0,11.5,Alta
+2013,Río Negro,Trucha Arcoíris,725.0,11.0,Alta
+2013,Buenos Aires,Trucha Arcoíris,22.0,17.0,Baja
+2013,Chubut,Trucha Arcoíris,47.0,9.0,Alta
+2013,Tierra del Fuego,Trucha Arcoíris,5.5,6.5,Baja
+2013,Córdoba,Trucha Arcoíris,25.0,17.0,Baja
+2013,Mendoza,Trucha Arcoíris,23.0,14.5,Baja
+2013,Santa Fe,Trucha Arcoíris,46.0,18.5,Alta
+2013,Misiones,Trucha Arcoíris,2.0,21.5,Baja
+2013,Chaco,Trucha Arcoíris,48.0,22.5,Alta
+2014,Neuquén,Trucha Arcoíris,797.0,12.0,Alta
+2014,Río Negro,Trucha Arcoíris,744.0,11.0,Alta
+2014,Buenos Aires,Trucha Arcoíris,0.0,17.5,Baja
+2014,Chubut,Trucha Arcoíris,10.0,9.0,Baja
+2014,Tierra del Fuego,Trucha Arcoíris,6.0,6.5,Baja
+2014,Córdoba,Trucha Arcoíris,26.0,16.5,Baja
+2014,Mendoza,Trucha Arcoíris,38.0,15.5,Alta
+2014,Santa Fe,Trucha Arcoíris,39.0,18.5,Alta
+2014,Misiones,Trucha Arcoíris,8.0,21.0,Baja
+2014,Chaco,Trucha Arcoíris,36.0,22.5,Alta
+2015,Neuquén,Trucha Arcoíris,705.0,12.5,Alta
+2015,Río Negro,Trucha Arcoíris,869.0,11.5,Alta
+2015,Buenos Aires,Trucha Arcoíris,37.0,17.0,Alta
+2015,Chubut,Trucha Arcoíris,34.0,9.5,Baja
+2015,Tierra del Fuego,Trucha Arcoíris,6.5,5.5,Baja
+2015,Córdoba,Trucha Arcoíris,16.0,17.5,Baja
+2015,Mendoza,Trucha Arcoíris,20.0,15.0,Baja
+2015,Santa Fe,Trucha Arcoíris,46.0,18.5,Alta
+2015,Misiones,Trucha Arcoíris,36.0,21.0,Alta
+2015,Chaco,Trucha Arcoíris,35.0,23.0,Baja
+2016,Neuquén,Trucha Arcoíris,985.0,12.0,Alta
+2016,Río Negro,Trucha Arcoíris,866.0,11.5,Alta
+2016,Buenos Aires,Trucha Arcoíris,22.0,17.5,Baja
+2016,Chubut,Trucha Arcoíris,35.0,9.0,Alta
+2016,Tierra del Fuego,Trucha Arcoíris,6.0,5.5,Baja
+2016,Córdoba,Trucha Arcoíris,0.0,17.5,Baja
+2016,Mendoza,Trucha Arcoíris,2.0,15.0,Baja
+2016,Santa Fe,Trucha Arcoíris,4.0,17.5,Baja
+2016,Misiones,Trucha Arcoíris,25.0,20.5,Alta
+2016,Chaco,Trucha Arcoíris,34.0,23.0,Alta
+2017,Neuquén,Trucha Arcoíris,880.0,12.0,Alta
+2017,Río Negro,Trucha Arcoíris,806.0,11.5,Alta
+2017,Buenos Aires,Trucha Arcoíris,0.0,17.5,Baja
+2017,Chubut,Trucha Arcoíris,22.0,8.5,Baja
+2017,Tierra del Fuego,Trucha Arcoíris,7.5,5.5,Baja
+2017,Córdoba,Trucha Arcoíris,19.0,17.5,Baja
+2017,Mendoza,Trucha Arcoíris,40.0,15.5,Alta
+2017,Santa Fe,Trucha Arcoíris,41.0,18.0,Alta
+2017,Misiones,Trucha Arcoíris,14.0,20.5,Baja
+2017,Chaco,Trucha Arcoíris,44.0,23.5,Alta
+2018,Neuquén,Trucha Arcoíris,980.0,11.5,Alta
+2018,Río Negro,Trucha Arcoíris,761.0,10.5,Alta
+2018,Buenos Aires,Trucha Arcoíris,21.0,16.5,Alta
+2018,Chubut,Trucha Arcoíris,15.0,8.5,Baja
+2018,Tierra del Fuego,Trucha Arcoíris,8.0,6.5,Baja
+2018,Córdoba,Trucha Arcoíris,13.0,17.0,Baja
+2018,Mendoza,Trucha Arcoíris,8.0,14.5,Baja
+2018,Santa Fe,Trucha Arcoíris,48.0,18.0,Alta
+2018,Misiones,Trucha Arcoíris,7.0,21.0,Baja
+2018,Chaco,Trucha Arcoíris,26.0,23.0,Alta
+2019,Neuquén,Trucha Arcoíris,904.0,12.5,Alta
+2019,Río Negro,Trucha Arcoíris,731.0,11.0,Alta
+2019,Buenos Aires,Trucha Arcoíris,18.0,17.5,Alta
+2019,Chubut,Trucha Arcoíris,33.0,8.5,Alta
+2019,Tierra del Fuego,Trucha Arcoíris,6.5,6.0,Baja
+2019,Córdoba,Trucha Arcoíris,0.0,17.0,Baja
+2019,Mendoza,Trucha Arcoíris,0.0,14.5,Baja
+2019,Santa Fe,Trucha Arcoíris,5.0,18.0,Baja
+2019,Misiones,Trucha Arcoíris,43.0,20.5,Alta
+2019,Chaco,Trucha Arcoíris,3.0,23.5,Baja
+2020,Neuquén,Trucha Arcoíris,944.0,12.0,Alta
+2020,Río Negro,Trucha Arcoíris,945.0,10.5,Alta
+2020,Buenos Aires,Trucha Arcoíris,40.0,17.5,Alta
+2020,Chubut,Trucha Arcoíris,38.0,9.0,Baja
+2020,Tierra del Fuego,Trucha Arcoíris,9.0,6.0,Baja
+2020,Córdoba,Trucha Arcoíris,49.0,17.0,Alta
+2020,Mendoza,Trucha Arcoíris,0.0,15.0,Baja
+2020,Santa Fe,Trucha Arcoíris,7.0,17.5,Baja
+2020,Misiones,Trucha Arcoíris,31.0,20.5,Baja
+2020,Chaco,Trucha Arcoíris,48.0,22.5,Alta
+2021,Neuquén,Trucha Arcoíris,995.0,11.5,Alta
+2021,Río Negro,Trucha Arcoíris,909.0,11.0,Alta
+2021,Buenos Aires,Trucha Arcoíris,19.0,17.0,Baja
+2021,Chubut,Trucha Arcoíris,33.0,9.5,Baja
+2021,Tierra del Fuego,Trucha Arcoíris,8.5,6.5,Baja
+2021,Córdoba,Trucha Arcoíris,38.0,16.5,Alta
+2021,Mendoza,Trucha Arcoíris,36.0,14.5,Alta
+2021,Santa Fe,Trucha Arcoíris,4.0,18.5,Baja
+2021,Misiones,Trucha Arcoíris,31.0,20.5,Baja
+2021,Chaco,Trucha Arcoíris,38.0,23.5,Alta
+2022,Neuquén,Trucha Arcoíris,772.0,12.0,Alta
+2022,Río Negro,Trucha Arcoíris,908.0,11.0,Alta
+2022,Buenos Aires,Trucha Arcoíris,18.0,16.5,Baja
+2022,Chubut,Trucha Arcoíris,13.0,8.5,Baja
+2022,Tierra del Fuego,Trucha Arcoíris,10.0,6.5,Baja
+2022,Córdoba,Trucha Arcoíris,7.0,17.0,Baja
+2022,Mendoza,Trucha Arcoíris,45.0,15.5,Alta
+2022,Santa Fe,Trucha Arcoíris,21.0,18.5,Alta
+2022,Misiones,Trucha Arcoíris,14.0,21.5,Baja
+2022,Chaco,Trucha Arcoíris,48.0,23.5,Alta
+2023,Neuquén,Trucha Arcoíris,955.0,12.0,Alta
+2023,Río Negro,Trucha Arcoíris,995.0,11.5,Alta
+2023,Buenos Aires,Trucha Arcoíris,31.0,16.5,Alta
+2023,Chubut,Trucha Arcoíris,30.0,9.0,Alta
+2023,Tierra del Fuego,Trucha Arcoíris,10.5,6.5,Baja
+2023,Córdoba,Trucha Arcoíris,7.0,17.5,Baja
+2023,Mendoza,Trucha Arcoíris,10.0,15.0,Baja
+2023,Santa Fe,Trucha Arcoíris,2.0,17.5,Baja
+2023,Misiones,Trucha Arcoíris,36.0,20.5,Alta
+2023,Chaco,Trucha Arcoíris,28.0,23.0,Baja
